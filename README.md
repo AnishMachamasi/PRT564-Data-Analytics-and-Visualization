@@ -91,7 +91,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy
 ## How to Run
  
 ```bash
-python 02_preprocess.py
+python 1_data_processing.py
+python 2_regression_dataset_from_transformed.py
+python 02_eda.py
 python 03_regression.py
 python 04_evaluation.py
 ```
