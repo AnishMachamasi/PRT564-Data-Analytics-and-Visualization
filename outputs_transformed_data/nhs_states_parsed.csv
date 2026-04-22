@@ -1,0 +1,4001 @@
+age,gender,level,value
+0,Man,New South Wales,0.0
+0,Man,Victoria,0.0
+0,Man,Queensland,0.0
+0,Man,South Australia,0.0
+0,Man,Western Australia,0.0
+0,Man,Tasmania,0.0
+0,Man,Northern Territory,0.0
+0,Man,Australian Capital Territory,0.0
+0,Man,Other Territories,0.0
+0,Man,Outside Australia,0.0
+0,Woman,New South Wales,0.0
+0,Woman,Victoria,0.0
+0,Woman,Queensland,0.0
+0,Woman,South Australia,0.0
+0,Woman,Western Australia,0.0
+0,Woman,Tasmania,0.0
+0,Woman,Northern Territory,0.0
+0,Woman,Australian Capital Territory,0.0
+0,Woman,Other Territories,0.0
+0,Woman,Outside Australia,0.0
+0,Non-binary,New South Wales,0.0
+0,Non-binary,Victoria,0.0
+0,Non-binary,Queensland,0.0
+0,Non-binary,South Australia,0.0
+0,Non-binary,Western Australia,0.0
+0,Non-binary,Tasmania,0.0
+0,Non-binary,Northern Territory,0.0
+0,Non-binary,Australian Capital Territory,0.0
+0,Non-binary,Other Territories,0.0
+0,Non-binary,Outside Australia,0.0
+0,Total,New South Wales,0.0
+0,Total,Victoria,0.0
+0,Total,Queensland,0.0
+0,Total,South Australia,0.0
+0,Total,Western Australia,0.0
+0,Total,Tasmania,0.0
+0,Total,Northern Territory,0.0
+0,Total,Australian Capital Territory,0.0
+0,Total,Other Territories,0.0
+0,Total,Outside Australia,0.0
+1,Man,New South Wales,0.0
+1,Man,Victoria,0.0
+1,Man,Queensland,0.0
+1,Man,South Australia,0.0
+1,Man,Western Australia,0.0
+1,Man,Tasmania,0.0
+1,Man,Northern Territory,0.0
+1,Man,Australian Capital Territory,0.0
+1,Man,Other Territories,0.0
+1,Man,Outside Australia,0.0
+1,Woman,New South Wales,0.0
+1,Woman,Victoria,0.0
+1,Woman,Queensland,0.0
+1,Woman,South Australia,0.0
+1,Woman,Western Australia,0.0
+1,Woman,Tasmania,0.0
+1,Woman,Northern Territory,0.0
+1,Woman,Australian Capital Territory,0.0
+1,Woman,Other Territories,0.0
+1,Woman,Outside Australia,0.0
+1,Non-binary,New South Wales,0.0
+1,Non-binary,Victoria,0.0
+1,Non-binary,Queensland,0.0
+1,Non-binary,South Australia,0.0
+1,Non-binary,Western Australia,0.0
+1,Non-binary,Tasmania,0.0
+1,Non-binary,Northern Territory,0.0
+1,Non-binary,Australian Capital Territory,0.0
+1,Non-binary,Other Territories,0.0
+1,Non-binary,Outside Australia,0.0
+1,Total,New South Wales,0.0
+1,Total,Victoria,0.0
+1,Total,Queensland,0.0
+1,Total,South Australia,0.0
+1,Total,Western Australia,0.0
+1,Total,Tasmania,0.0
+1,Total,Northern Territory,0.0
+1,Total,Australian Capital Territory,0.0
+1,Total,Other Territories,0.0
+1,Total,Outside Australia,0.0
+2,Man,New South Wales,0.0
+2,Man,Victoria,0.0
+2,Man,Queensland,0.0
+2,Man,South Australia,0.0
+2,Man,Western Australia,0.0
+2,Man,Tasmania,0.0
+2,Man,Northern Territory,0.0
+2,Man,Australian Capital Territory,0.0
+2,Man,Other Territories,0.0
+2,Man,Outside Australia,0.0
+2,Woman,New South Wales,0.0
+2,Woman,Victoria,0.0
+2,Woman,Queensland,0.0
+2,Woman,South Australia,0.0
+2,Woman,Western Australia,0.0
+2,Woman,Tasmania,0.0
+2,Woman,Northern Territory,0.0
+2,Woman,Australian Capital Territory,0.0
+2,Woman,Other Territories,0.0
+2,Woman,Outside Australia,0.0
+2,Non-binary,New South Wales,0.0
+2,Non-binary,Victoria,0.0
+2,Non-binary,Queensland,0.0
+2,Non-binary,South Australia,0.0
+2,Non-binary,Western Australia,0.0
+2,Non-binary,Tasmania,0.0
+2,Non-binary,Northern Territory,0.0
+2,Non-binary,Australian Capital Territory,0.0
+2,Non-binary,Other Territories,0.0
+2,Non-binary,Outside Australia,0.0
+2,Total,New South Wales,0.0
+2,Total,Victoria,0.0
+2,Total,Queensland,0.0
+2,Total,South Australia,0.0
+2,Total,Western Australia,0.0
+2,Total,Tasmania,0.0
+2,Total,Northern Territory,0.0
+2,Total,Australian Capital Territory,0.0
+2,Total,Other Territories,0.0
+2,Total,Outside Australia,0.0
+3,Man,New South Wales,0.0
+3,Man,Victoria,0.0
+3,Man,Queensland,0.0
+3,Man,South Australia,0.0
+3,Man,Western Australia,0.0
+3,Man,Tasmania,0.0
+3,Man,Northern Territory,0.0
+3,Man,Australian Capital Territory,0.0
+3,Man,Other Territories,0.0
+3,Man,Outside Australia,0.0
+3,Woman,New South Wales,0.0
+3,Woman,Victoria,0.0
+3,Woman,Queensland,0.0
+3,Woman,South Australia,0.0
+3,Woman,Western Australia,0.0
+3,Woman,Tasmania,0.0
+3,Woman,Northern Territory,0.0
+3,Woman,Australian Capital Territory,0.0
+3,Woman,Other Territories,0.0
+3,Woman,Outside Australia,0.0
+3,Non-binary,New South Wales,0.0
+3,Non-binary,Victoria,0.0
+3,Non-binary,Queensland,0.0
+3,Non-binary,South Australia,0.0
+3,Non-binary,Western Australia,0.0
+3,Non-binary,Tasmania,0.0
+3,Non-binary,Northern Territory,0.0
+3,Non-binary,Australian Capital Territory,0.0
+3,Non-binary,Other Territories,0.0
+3,Non-binary,Outside Australia,0.0
+3,Total,New South Wales,0.0
+3,Total,Victoria,0.0
+3,Total,Queensland,0.0
+3,Total,South Australia,0.0
+3,Total,Western Australia,0.0
+3,Total,Tasmania,0.0
+3,Total,Northern Territory,0.0
+3,Total,Australian Capital Territory,0.0
+3,Total,Other Territories,0.0
+3,Total,Outside Australia,0.0
+4,Man,New South Wales,0.0
+4,Man,Victoria,0.0
+4,Man,Queensland,0.0
+4,Man,South Australia,0.0
+4,Man,Western Australia,0.0
+4,Man,Tasmania,0.0
+4,Man,Northern Territory,0.0
+4,Man,Australian Capital Territory,0.0
+4,Man,Other Territories,0.0
+4,Man,Outside Australia,0.0
+4,Woman,New South Wales,0.0
+4,Woman,Victoria,0.0
+4,Woman,Queensland,0.0
+4,Woman,South Australia,0.0
+4,Woman,Western Australia,0.0
+4,Woman,Tasmania,0.0
+4,Woman,Northern Territory,0.0
+4,Woman,Australian Capital Territory,0.0
+4,Woman,Other Territories,0.0
+4,Woman,Outside Australia,0.0
+4,Non-binary,New South Wales,0.0
+4,Non-binary,Victoria,0.0
+4,Non-binary,Queensland,0.0
+4,Non-binary,South Australia,0.0
+4,Non-binary,Western Australia,0.0
+4,Non-binary,Tasmania,0.0
+4,Non-binary,Northern Territory,0.0
+4,Non-binary,Australian Capital Territory,0.0
+4,Non-binary,Other Territories,0.0
+4,Non-binary,Outside Australia,0.0
+4,Total,New South Wales,0.0
+4,Total,Victoria,0.0
+4,Total,Queensland,0.0
+4,Total,South Australia,0.0
+4,Total,Western Australia,0.0
+4,Total,Tasmania,0.0
+4,Total,Northern Territory,0.0
+4,Total,Australian Capital Territory,0.0
+4,Total,Other Territories,0.0
+4,Total,Outside Australia,0.0
+5,Man,New South Wales,0.0
+5,Man,Victoria,0.0
+5,Man,Queensland,0.0
+5,Man,South Australia,0.0
+5,Man,Western Australia,0.0
+5,Man,Tasmania,0.0
+5,Man,Northern Territory,0.0
+5,Man,Australian Capital Territory,0.0
+5,Man,Other Territories,0.0
+5,Man,Outside Australia,0.0
+5,Woman,New South Wales,0.0
+5,Woman,Victoria,0.0
+5,Woman,Queensland,0.0
+5,Woman,South Australia,0.0
+5,Woman,Western Australia,0.0
+5,Woman,Tasmania,0.0
+5,Woman,Northern Territory,0.0
+5,Woman,Australian Capital Territory,0.0
+5,Woman,Other Territories,0.0
+5,Woman,Outside Australia,0.0
+5,Non-binary,New South Wales,0.0
+5,Non-binary,Victoria,0.0
+5,Non-binary,Queensland,0.0
+5,Non-binary,South Australia,0.0
+5,Non-binary,Western Australia,0.0
+5,Non-binary,Tasmania,0.0
+5,Non-binary,Northern Territory,0.0
+5,Non-binary,Australian Capital Territory,0.0
+5,Non-binary,Other Territories,0.0
+5,Non-binary,Outside Australia,0.0
+5,Total,New South Wales,0.0
+5,Total,Victoria,0.0
+5,Total,Queensland,0.0
+5,Total,South Australia,0.0
+5,Total,Western Australia,0.0
+5,Total,Tasmania,0.0
+5,Total,Northern Territory,0.0
+5,Total,Australian Capital Territory,0.0
+5,Total,Other Territories,0.0
+5,Total,Outside Australia,0.0
+6,Man,New South Wales,0.0
+6,Man,Victoria,0.0
+6,Man,Queensland,0.0
+6,Man,South Australia,0.0
+6,Man,Western Australia,0.0
+6,Man,Tasmania,0.0
+6,Man,Northern Territory,0.0
+6,Man,Australian Capital Territory,0.0
+6,Man,Other Territories,0.0
+6,Man,Outside Australia,0.0
+6,Woman,New South Wales,0.0
+6,Woman,Victoria,0.0
+6,Woman,Queensland,0.0
+6,Woman,South Australia,0.0
+6,Woman,Western Australia,0.0
+6,Woman,Tasmania,0.0
+6,Woman,Northern Territory,0.0
+6,Woman,Australian Capital Territory,0.0
+6,Woman,Other Territories,0.0
+6,Woman,Outside Australia,0.0
+6,Non-binary,New South Wales,0.0
+6,Non-binary,Victoria,0.0
+6,Non-binary,Queensland,0.0
+6,Non-binary,South Australia,0.0
+6,Non-binary,Western Australia,0.0
+6,Non-binary,Tasmania,0.0
+6,Non-binary,Northern Territory,0.0
+6,Non-binary,Australian Capital Territory,0.0
+6,Non-binary,Other Territories,0.0
+6,Non-binary,Outside Australia,0.0
+6,Total,New South Wales,0.0
+6,Total,Victoria,0.0
+6,Total,Queensland,0.0
+6,Total,South Australia,0.0
+6,Total,Western Australia,0.0
+6,Total,Tasmania,0.0
+6,Total,Northern Territory,0.0
+6,Total,Australian Capital Territory,0.0
+6,Total,Other Territories,0.0
+6,Total,Outside Australia,0.0
+7,Man,New South Wales,0.0
+7,Man,Victoria,0.0
+7,Man,Queensland,0.0
+7,Man,South Australia,0.0
+7,Man,Western Australia,0.0
+7,Man,Tasmania,0.0
+7,Man,Northern Territory,0.0
+7,Man,Australian Capital Territory,0.0
+7,Man,Other Territories,0.0
+7,Man,Outside Australia,0.0
+7,Woman,New South Wales,0.0
+7,Woman,Victoria,0.0
+7,Woman,Queensland,0.0
+7,Woman,South Australia,0.0
+7,Woman,Western Australia,0.0
+7,Woman,Tasmania,0.0
+7,Woman,Northern Territory,0.0
+7,Woman,Australian Capital Territory,0.0
+7,Woman,Other Territories,0.0
+7,Woman,Outside Australia,0.0
+7,Non-binary,New South Wales,0.0
+7,Non-binary,Victoria,0.0
+7,Non-binary,Queensland,0.0
+7,Non-binary,South Australia,0.0
+7,Non-binary,Western Australia,0.0
+7,Non-binary,Tasmania,0.0
+7,Non-binary,Northern Territory,0.0
+7,Non-binary,Australian Capital Territory,0.0
+7,Non-binary,Other Territories,0.0
+7,Non-binary,Outside Australia,0.0
+7,Total,New South Wales,0.0
+7,Total,Victoria,0.0
+7,Total,Queensland,0.0
+7,Total,South Australia,0.0
+7,Total,Western Australia,0.0
+7,Total,Tasmania,0.0
+7,Total,Northern Territory,0.0
+7,Total,Australian Capital Territory,0.0
+7,Total,Other Territories,0.0
+7,Total,Outside Australia,0.0
+8,Man,New South Wales,0.0
+8,Man,Victoria,0.0
+8,Man,Queensland,0.0
+8,Man,South Australia,0.0
+8,Man,Western Australia,0.0
+8,Man,Tasmania,0.0
+8,Man,Northern Territory,0.0
+8,Man,Australian Capital Territory,0.0
+8,Man,Other Territories,0.0
+8,Man,Outside Australia,0.0
+8,Woman,New South Wales,0.0
+8,Woman,Victoria,0.0
+8,Woman,Queensland,0.0
+8,Woman,South Australia,0.0
+8,Woman,Western Australia,0.0
+8,Woman,Tasmania,0.0
+8,Woman,Northern Territory,0.0
+8,Woman,Australian Capital Territory,0.0
+8,Woman,Other Territories,0.0
+8,Woman,Outside Australia,0.0
+8,Non-binary,New South Wales,0.0
+8,Non-binary,Victoria,0.0
+8,Non-binary,Queensland,0.0
+8,Non-binary,South Australia,0.0
+8,Non-binary,Western Australia,0.0
+8,Non-binary,Tasmania,0.0
+8,Non-binary,Northern Territory,0.0
+8,Non-binary,Australian Capital Territory,0.0
+8,Non-binary,Other Territories,0.0
+8,Non-binary,Outside Australia,0.0
+8,Total,New South Wales,0.0
+8,Total,Victoria,0.0
+8,Total,Queensland,0.0
+8,Total,South Australia,0.0
+8,Total,Western Australia,0.0
+8,Total,Tasmania,0.0
+8,Total,Northern Territory,0.0
+8,Total,Australian Capital Territory,0.0
+8,Total,Other Territories,0.0
+8,Total,Outside Australia,0.0
+9,Man,New South Wales,0.0
+9,Man,Victoria,0.0
+9,Man,Queensland,0.0
+9,Man,South Australia,0.0
+9,Man,Western Australia,0.0
+9,Man,Tasmania,0.0
+9,Man,Northern Territory,0.0
+9,Man,Australian Capital Territory,0.0
+9,Man,Other Territories,0.0
+9,Man,Outside Australia,0.0
+9,Woman,New South Wales,0.0
+9,Woman,Victoria,0.0
+9,Woman,Queensland,0.0
+9,Woman,South Australia,0.0
+9,Woman,Western Australia,0.0
+9,Woman,Tasmania,0.0
+9,Woman,Northern Territory,0.0
+9,Woman,Australian Capital Territory,0.0
+9,Woman,Other Territories,0.0
+9,Woman,Outside Australia,0.0
+9,Non-binary,New South Wales,0.0
+9,Non-binary,Victoria,0.0
+9,Non-binary,Queensland,0.0
+9,Non-binary,South Australia,0.0
+9,Non-binary,Western Australia,0.0
+9,Non-binary,Tasmania,0.0
+9,Non-binary,Northern Territory,0.0
+9,Non-binary,Australian Capital Territory,0.0
+9,Non-binary,Other Territories,0.0
+9,Non-binary,Outside Australia,0.0
+9,Total,New South Wales,0.0
+9,Total,Victoria,0.0
+9,Total,Queensland,0.0
+9,Total,South Australia,0.0
+9,Total,Western Australia,0.0
+9,Total,Tasmania,0.0
+9,Total,Northern Territory,0.0
+9,Total,Australian Capital Territory,0.0
+9,Total,Other Territories,0.0
+9,Total,Outside Australia,0.0
+10,Man,New South Wales,0.0
+10,Man,Victoria,0.0
+10,Man,Queensland,0.0
+10,Man,South Australia,0.0
+10,Man,Western Australia,0.0
+10,Man,Tasmania,0.0
+10,Man,Northern Territory,0.0
+10,Man,Australian Capital Territory,0.0
+10,Man,Other Territories,0.0
+10,Man,Outside Australia,0.0
+10,Woman,New South Wales,0.0
+10,Woman,Victoria,0.0
+10,Woman,Queensland,0.0
+10,Woman,South Australia,0.0
+10,Woman,Western Australia,0.0
+10,Woman,Tasmania,0.0
+10,Woman,Northern Territory,0.0
+10,Woman,Australian Capital Territory,0.0
+10,Woman,Other Territories,0.0
+10,Woman,Outside Australia,0.0
+10,Non-binary,New South Wales,0.0
+10,Non-binary,Victoria,0.0
+10,Non-binary,Queensland,0.0
+10,Non-binary,South Australia,0.0
+10,Non-binary,Western Australia,0.0
+10,Non-binary,Tasmania,0.0
+10,Non-binary,Northern Territory,0.0
+10,Non-binary,Australian Capital Territory,0.0
+10,Non-binary,Other Territories,0.0
+10,Non-binary,Outside Australia,0.0
+10,Total,New South Wales,0.0
+10,Total,Victoria,0.0
+10,Total,Queensland,0.0
+10,Total,South Australia,0.0
+10,Total,Western Australia,0.0
+10,Total,Tasmania,0.0
+10,Total,Northern Territory,0.0
+10,Total,Australian Capital Territory,0.0
+10,Total,Other Territories,0.0
+10,Total,Outside Australia,0.0
+11,Man,New South Wales,0.0
+11,Man,Victoria,0.0
+11,Man,Queensland,0.0
+11,Man,South Australia,0.0
+11,Man,Western Australia,0.0
+11,Man,Tasmania,0.0
+11,Man,Northern Territory,0.0
+11,Man,Australian Capital Territory,0.0
+11,Man,Other Territories,0.0
+11,Man,Outside Australia,0.0
+11,Woman,New South Wales,0.0
+11,Woman,Victoria,0.0
+11,Woman,Queensland,0.0
+11,Woman,South Australia,0.0
+11,Woman,Western Australia,0.0
+11,Woman,Tasmania,0.0
+11,Woman,Northern Territory,0.0
+11,Woman,Australian Capital Territory,0.0
+11,Woman,Other Territories,0.0
+11,Woman,Outside Australia,0.0
+11,Non-binary,New South Wales,0.0
+11,Non-binary,Victoria,0.0
+11,Non-binary,Queensland,0.0
+11,Non-binary,South Australia,0.0
+11,Non-binary,Western Australia,0.0
+11,Non-binary,Tasmania,0.0
+11,Non-binary,Northern Territory,0.0
+11,Non-binary,Australian Capital Territory,0.0
+11,Non-binary,Other Territories,0.0
+11,Non-binary,Outside Australia,0.0
+11,Total,New South Wales,0.0
+11,Total,Victoria,0.0
+11,Total,Queensland,0.0
+11,Total,South Australia,0.0
+11,Total,Western Australia,0.0
+11,Total,Tasmania,0.0
+11,Total,Northern Territory,0.0
+11,Total,Australian Capital Territory,0.0
+11,Total,Other Territories,0.0
+11,Total,Outside Australia,0.0
+12,Man,New South Wales,0.0
+12,Man,Victoria,0.0
+12,Man,Queensland,0.0
+12,Man,South Australia,0.0
+12,Man,Western Australia,0.0
+12,Man,Tasmania,0.0
+12,Man,Northern Territory,0.0
+12,Man,Australian Capital Territory,0.0
+12,Man,Other Territories,0.0
+12,Man,Outside Australia,0.0
+12,Woman,New South Wales,0.0
+12,Woman,Victoria,0.0
+12,Woman,Queensland,0.0
+12,Woman,South Australia,0.0
+12,Woman,Western Australia,0.0
+12,Woman,Tasmania,0.0
+12,Woman,Northern Territory,0.0
+12,Woman,Australian Capital Territory,0.0
+12,Woman,Other Territories,0.0
+12,Woman,Outside Australia,0.0
+12,Non-binary,New South Wales,0.0
+12,Non-binary,Victoria,0.0
+12,Non-binary,Queensland,0.0
+12,Non-binary,South Australia,0.0
+12,Non-binary,Western Australia,0.0
+12,Non-binary,Tasmania,0.0
+12,Non-binary,Northern Territory,0.0
+12,Non-binary,Australian Capital Territory,0.0
+12,Non-binary,Other Territories,0.0
+12,Non-binary,Outside Australia,0.0
+12,Total,New South Wales,0.0
+12,Total,Victoria,0.0
+12,Total,Queensland,0.0
+12,Total,South Australia,0.0
+12,Total,Western Australia,0.0
+12,Total,Tasmania,0.0
+12,Total,Northern Territory,0.0
+12,Total,Australian Capital Territory,0.0
+12,Total,Other Territories,0.0
+12,Total,Outside Australia,0.0
+13,Man,New South Wales,0.0
+13,Man,Victoria,0.0
+13,Man,Queensland,0.0
+13,Man,South Australia,0.0
+13,Man,Western Australia,0.0
+13,Man,Tasmania,0.0
+13,Man,Northern Territory,0.0
+13,Man,Australian Capital Territory,0.0
+13,Man,Other Territories,0.0
+13,Man,Outside Australia,0.0
+13,Woman,New South Wales,0.0
+13,Woman,Victoria,0.0
+13,Woman,Queensland,0.0
+13,Woman,South Australia,0.0
+13,Woman,Western Australia,0.0
+13,Woman,Tasmania,0.0
+13,Woman,Northern Territory,0.0
+13,Woman,Australian Capital Territory,0.0
+13,Woman,Other Territories,0.0
+13,Woman,Outside Australia,0.0
+13,Non-binary,New South Wales,0.0
+13,Non-binary,Victoria,0.0
+13,Non-binary,Queensland,0.0
+13,Non-binary,South Australia,0.0
+13,Non-binary,Western Australia,0.0
+13,Non-binary,Tasmania,0.0
+13,Non-binary,Northern Territory,0.0
+13,Non-binary,Australian Capital Territory,0.0
+13,Non-binary,Other Territories,0.0
+13,Non-binary,Outside Australia,0.0
+13,Total,New South Wales,0.0
+13,Total,Victoria,0.0
+13,Total,Queensland,0.0
+13,Total,South Australia,0.0
+13,Total,Western Australia,0.0
+13,Total,Tasmania,0.0
+13,Total,Northern Territory,0.0
+13,Total,Australian Capital Territory,0.0
+13,Total,Other Territories,0.0
+13,Total,Outside Australia,0.0
+14,Man,New South Wales,0.0
+14,Man,Victoria,0.0
+14,Man,Queensland,0.0
+14,Man,South Australia,0.0
+14,Man,Western Australia,0.0
+14,Man,Tasmania,0.0
+14,Man,Northern Territory,0.0
+14,Man,Australian Capital Territory,0.0
+14,Man,Other Territories,0.0
+14,Man,Outside Australia,0.0
+14,Woman,New South Wales,0.0
+14,Woman,Victoria,0.0
+14,Woman,Queensland,0.0
+14,Woman,South Australia,0.0
+14,Woman,Western Australia,0.0
+14,Woman,Tasmania,0.0
+14,Woman,Northern Territory,0.0
+14,Woman,Australian Capital Territory,0.0
+14,Woman,Other Territories,0.0
+14,Woman,Outside Australia,0.0
+14,Non-binary,New South Wales,0.0
+14,Non-binary,Victoria,0.0
+14,Non-binary,Queensland,0.0
+14,Non-binary,South Australia,0.0
+14,Non-binary,Western Australia,0.0
+14,Non-binary,Tasmania,0.0
+14,Non-binary,Northern Territory,0.0
+14,Non-binary,Australian Capital Territory,0.0
+14,Non-binary,Other Territories,0.0
+14,Non-binary,Outside Australia,0.0
+14,Total,New South Wales,0.0
+14,Total,Victoria,0.0
+14,Total,Queensland,0.0
+14,Total,South Australia,0.0
+14,Total,Western Australia,0.0
+14,Total,Tasmania,0.0
+14,Total,Northern Territory,0.0
+14,Total,Australian Capital Territory,0.0
+14,Total,Other Territories,0.0
+14,Total,Outside Australia,0.0
+15,Man,New South Wales,0.0
+15,Man,Victoria,0.0
+15,Man,Queensland,0.0
+15,Man,South Australia,0.0
+15,Man,Western Australia,0.0
+15,Man,Tasmania,0.0
+15,Man,Northern Territory,0.0
+15,Man,Australian Capital Territory,0.0
+15,Man,Other Territories,0.0
+15,Man,Outside Australia,0.0
+15,Woman,New South Wales,0.0
+15,Woman,Victoria,0.0
+15,Woman,Queensland,0.0
+15,Woman,South Australia,0.0
+15,Woman,Western Australia,0.0
+15,Woman,Tasmania,0.0
+15,Woman,Northern Territory,0.0
+15,Woman,Australian Capital Territory,0.0
+15,Woman,Other Territories,0.0
+15,Woman,Outside Australia,0.0
+15,Non-binary,New South Wales,0.0
+15,Non-binary,Victoria,0.0
+15,Non-binary,Queensland,0.0
+15,Non-binary,South Australia,0.0
+15,Non-binary,Western Australia,0.0
+15,Non-binary,Tasmania,0.0
+15,Non-binary,Northern Territory,0.0
+15,Non-binary,Australian Capital Territory,0.0
+15,Non-binary,Other Territories,0.0
+15,Non-binary,Outside Australia,0.0
+15,Total,New South Wales,0.0
+15,Total,Victoria,0.0
+15,Total,Queensland,0.0
+15,Total,South Australia,0.0
+15,Total,Western Australia,0.0
+15,Total,Tasmania,0.0
+15,Total,Northern Territory,0.0
+15,Total,Australian Capital Territory,0.0
+15,Total,Other Territories,0.0
+15,Total,Outside Australia,0.0
+16,Man,New South Wales,28.8
+16,Man,Victoria,16.3
+16,Man,Queensland,11.9
+16,Man,South Australia,4.8
+16,Man,Western Australia,4.6
+16,Man,Tasmania,0.0
+16,Man,Northern Territory,0.0
+16,Man,Australian Capital Territory,1.0
+16,Man,Other Territories,0.0
+16,Man,Outside Australia,0.0
+16,Woman,New South Wales,9.9
+16,Woman,Victoria,7.0
+16,Woman,Queensland,9.9
+16,Woman,South Australia,5.0
+16,Woman,Western Australia,7.6
+16,Woman,Tasmania,0.0
+16,Woman,Northern Territory,0.8
+16,Woman,Australian Capital Territory,1.2
+16,Woman,Other Territories,0.0
+16,Woman,Outside Australia,0.0
+16,Non-binary,New South Wales,0.0
+16,Non-binary,Victoria,0.0
+16,Non-binary,Queensland,0.0
+16,Non-binary,South Australia,0.0
+16,Non-binary,Western Australia,0.0
+16,Non-binary,Tasmania,0.0
+16,Non-binary,Northern Territory,0.0
+16,Non-binary,Australian Capital Territory,0.0
+16,Non-binary,Other Territories,0.0
+16,Non-binary,Outside Australia,0.0
+16,Total,New South Wales,32.8
+16,Total,Victoria,18.8
+16,Total,Queensland,12.7
+16,Total,South Australia,8.6
+16,Total,Western Australia,11.4
+16,Total,Tasmania,0.0
+16,Total,Northern Territory,0.7
+16,Total,Australian Capital Territory,3.2
+16,Total,Other Territories,0.0
+16,Total,Outside Australia,0.0
+17,Man,New South Wales,21.1
+17,Man,Victoria,19.4
+17,Man,Queensland,17.9
+17,Man,South Australia,2.6
+17,Man,Western Australia,9.3
+17,Man,Tasmania,1.3
+17,Man,Northern Territory,0.8
+17,Man,Australian Capital Territory,0.6
+17,Man,Other Territories,0.0
+17,Man,Outside Australia,0.0
+17,Woman,New South Wales,24.0
+17,Woman,Victoria,16.7
+17,Woman,Queensland,8.3
+17,Woman,South Australia,2.7
+17,Woman,Western Australia,4.4
+17,Woman,Tasmania,2.1
+17,Woman,Northern Territory,0.7
+17,Woman,Australian Capital Territory,0.0
+17,Woman,Other Territories,0.0
+17,Woman,Outside Australia,0.0
+17,Non-binary,New South Wales,0.0
+17,Non-binary,Victoria,0.0
+17,Non-binary,Queensland,0.0
+17,Non-binary,South Australia,0.0
+17,Non-binary,Western Australia,0.0
+17,Non-binary,Tasmania,0.0
+17,Non-binary,Northern Territory,0.0
+17,Non-binary,Australian Capital Territory,0.0
+17,Non-binary,Other Territories,0.0
+17,Non-binary,Outside Australia,0.0
+17,Total,New South Wales,41.5
+17,Total,Victoria,50.4
+17,Total,Queensland,33.5
+17,Total,South Australia,8.0
+17,Total,Western Australia,14.9
+17,Total,Tasmania,4.2
+17,Total,Northern Territory,0.8
+17,Total,Australian Capital Territory,0.6
+17,Total,Other Territories,0.0
+17,Total,Outside Australia,0.0
+18,Man,New South Wales,60.0
+18,Man,Victoria,76.1
+18,Man,Queensland,19.6
+18,Man,South Australia,0.0
+18,Man,Western Australia,26.8
+18,Man,Tasmania,3.4
+18,Man,Northern Territory,0.9
+18,Man,Australian Capital Territory,2.4
+18,Man,Other Territories,0.0
+18,Man,Outside Australia,0.0
+18,Woman,New South Wales,56.2
+18,Woman,Victoria,42.1
+18,Woman,Queensland,36.5
+18,Woman,South Australia,0.0
+18,Woman,Western Australia,5.1
+18,Woman,Tasmania,2.5
+18,Woman,Northern Territory,0.9
+18,Woman,Australian Capital Territory,1.2
+18,Woman,Other Territories,0.0
+18,Woman,Outside Australia,0.0
+18,Non-binary,New South Wales,0.0
+18,Non-binary,Victoria,0.0
+18,Non-binary,Queensland,0.0
+18,Non-binary,South Australia,0.0
+18,Non-binary,Western Australia,0.0
+18,Non-binary,Tasmania,0.0
+18,Non-binary,Northern Territory,0.0
+18,Non-binary,Australian Capital Territory,0.0
+18,Non-binary,Other Territories,0.0
+18,Non-binary,Outside Australia,0.0
+18,Total,New South Wales,113.7
+18,Total,Victoria,90.8
+18,Total,Queensland,82.4
+18,Total,South Australia,8.6
+18,Total,Western Australia,24.5
+18,Total,Tasmania,5.9
+18,Total,Northern Territory,1.5
+18,Total,Australian Capital Territory,2.7
+18,Total,Other Territories,0.0
+18,Total,Outside Australia,0.0
+19,Man,New South Wales,40.5
+19,Man,Victoria,43.9
+19,Man,Queensland,31.2
+19,Man,South Australia,16.3
+19,Man,Western Australia,18.5
+19,Man,Tasmania,3.1
+19,Man,Northern Territory,0.6
+19,Man,Australian Capital Territory,2.5
+19,Man,Other Territories,0.0
+19,Man,Outside Australia,0.0
+19,Woman,New South Wales,64.6
+19,Woman,Victoria,26.8
+19,Woman,Queensland,18.8
+19,Woman,South Australia,21.4
+19,Woman,Western Australia,11.8
+19,Woman,Tasmania,7.3
+19,Woman,Northern Territory,1.5
+19,Woman,Australian Capital Territory,3.0
+19,Woman,Other Territories,0.0
+19,Woman,Outside Australia,0.0
+19,Non-binary,New South Wales,0.0
+19,Non-binary,Victoria,0.0
+19,Non-binary,Queensland,0.0
+19,Non-binary,South Australia,0.0
+19,Non-binary,Western Australia,0.0
+19,Non-binary,Tasmania,0.0
+19,Non-binary,Northern Territory,0.0
+19,Non-binary,Australian Capital Territory,0.0
+19,Non-binary,Other Territories,0.0
+19,Non-binary,Outside Australia,0.0
+19,Total,New South Wales,105.7
+19,Total,Victoria,51.6
+19,Total,Queensland,67.7
+19,Total,South Australia,32.2
+19,Total,Western Australia,24.2
+19,Total,Tasmania,10.4
+19,Total,Northern Territory,1.6
+19,Total,Australian Capital Territory,5.1
+19,Total,Other Territories,0.0
+19,Total,Outside Australia,0.0
+20,Man,New South Wales,12.8
+20,Man,Victoria,53.3
+20,Man,Queensland,24.9
+20,Man,South Australia,5.9
+20,Man,Western Australia,0.0
+20,Man,Tasmania,3.1
+20,Man,Northern Territory,1.4
+20,Man,Australian Capital Territory,2.6
+20,Man,Other Territories,0.0
+20,Man,Outside Australia,0.0
+20,Woman,New South Wales,49.0
+20,Woman,Victoria,62.7
+20,Woman,Queensland,29.9
+20,Woman,South Australia,6.2
+20,Woman,Western Australia,18.4
+20,Woman,Tasmania,2.2
+20,Woman,Northern Territory,1.0
+20,Woman,Australian Capital Territory,2.0
+20,Woman,Other Territories,0.0
+20,Woman,Outside Australia,0.0
+20,Non-binary,New South Wales,0.0
+20,Non-binary,Victoria,0.0
+20,Non-binary,Queensland,0.0
+20,Non-binary,South Australia,0.0
+20,Non-binary,Western Australia,0.0
+20,Non-binary,Tasmania,0.0
+20,Non-binary,Northern Territory,0.0
+20,Non-binary,Australian Capital Territory,0.0
+20,Non-binary,Other Territories,0.0
+20,Non-binary,Outside Australia,0.0
+20,Total,New South Wales,68.1
+20,Total,Victoria,81.5
+20,Total,Queensland,59.2
+20,Total,South Australia,14.0
+20,Total,Western Australia,31.9
+20,Total,Tasmania,3.9
+20,Total,Northern Territory,3.1
+20,Total,Australian Capital Territory,7.4
+20,Total,Other Territories,0.0
+20,Total,Outside Australia,0.0
+21,Man,New South Wales,56.0
+21,Man,Victoria,0.0
+21,Man,Queensland,29.0
+21,Man,South Australia,15.2
+21,Man,Western Australia,11.0
+21,Man,Tasmania,3.6
+21,Man,Northern Territory,0.0
+21,Man,Australian Capital Territory,3.7
+21,Man,Other Territories,0.0
+21,Man,Outside Australia,0.0
+21,Woman,New South Wales,31.2
+21,Woman,Victoria,37.4
+21,Woman,Queensland,31.4
+21,Woman,South Australia,9.8
+21,Woman,Western Australia,27.8
+21,Woman,Tasmania,1.6
+21,Woman,Northern Territory,0.0
+21,Woman,Australian Capital Territory,3.9
+21,Woman,Other Territories,0.0
+21,Woman,Outside Australia,0.0
+21,Non-binary,New South Wales,0.0
+21,Non-binary,Victoria,0.0
+21,Non-binary,Queensland,0.0
+21,Non-binary,South Australia,0.0
+21,Non-binary,Western Australia,0.0
+21,Non-binary,Tasmania,1.4
+21,Non-binary,Northern Territory,0.0
+21,Non-binary,Australian Capital Territory,0.0
+21,Non-binary,Other Territories,0.0
+21,Non-binary,Outside Australia,0.0
+21,Total,New South Wales,89.3
+21,Total,Victoria,22.1
+21,Total,Queensland,67.2
+21,Total,South Australia,28.0
+21,Total,Western Australia,37.3
+21,Total,Tasmania,7.4
+21,Total,Northern Territory,0.6
+21,Total,Australian Capital Territory,6.8
+21,Total,Other Territories,0.0
+21,Total,Outside Australia,0.0
+22,Man,New South Wales,39.2
+22,Man,Victoria,60.5
+22,Man,Queensland,14.0
+22,Man,South Australia,7.9
+22,Man,Western Australia,26.9
+22,Man,Tasmania,1.6
+22,Man,Northern Territory,0.8
+22,Man,Australian Capital Territory,2.9
+22,Man,Other Territories,0.0
+22,Man,Outside Australia,0.0
+22,Woman,New South Wales,62.8
+22,Woman,Victoria,52.6
+22,Woman,Queensland,17.7
+22,Woman,South Australia,9.2
+22,Woman,Western Australia,6.5
+22,Woman,Tasmania,3.6
+22,Woman,Northern Territory,0.7
+22,Woman,Australian Capital Territory,1.7
+22,Woman,Other Territories,0.0
+22,Woman,Outside Australia,0.0
+22,Non-binary,New South Wales,0.0
+22,Non-binary,Victoria,0.0
+22,Non-binary,Queensland,0.0
+22,Non-binary,South Australia,0.0
+22,Non-binary,Western Australia,0.0
+22,Non-binary,Tasmania,0.0
+22,Non-binary,Northern Territory,0.0
+22,Non-binary,Australian Capital Territory,0.0
+22,Non-binary,Other Territories,0.0
+22,Non-binary,Outside Australia,0.0
+22,Total,New South Wales,105.3
+22,Total,Victoria,103.7
+22,Total,Queensland,50.4
+22,Total,South Australia,18.8
+22,Total,Western Australia,23.7
+22,Total,Tasmania,7.7
+22,Total,Northern Territory,1.3
+22,Total,Australian Capital Territory,5.4
+22,Total,Other Territories,0.0
+22,Total,Outside Australia,0.0
+23,Man,New South Wales,55.9
+23,Man,Victoria,51.2
+23,Man,Queensland,19.6
+23,Man,South Australia,10.3
+23,Man,Western Australia,10.3
+23,Man,Tasmania,0.0
+23,Man,Northern Territory,2.1
+23,Man,Australian Capital Territory,4.7
+23,Man,Other Territories,0.0
+23,Man,Outside Australia,0.0
+23,Woman,New South Wales,44.2
+23,Woman,Victoria,28.1
+23,Woman,Queensland,30.4
+23,Woman,South Australia,10.7
+23,Woman,Western Australia,8.3
+23,Woman,Tasmania,0.0
+23,Woman,Northern Territory,0.9
+23,Woman,Australian Capital Territory,3.6
+23,Woman,Other Territories,0.0
+23,Woman,Outside Australia,0.0
+23,Non-binary,New South Wales,0.0
+23,Non-binary,Victoria,0.0
+23,Non-binary,Queensland,0.0
+23,Non-binary,South Australia,0.0
+23,Non-binary,Western Australia,0.0
+23,Non-binary,Tasmania,0.0
+23,Non-binary,Northern Territory,0.0
+23,Non-binary,Australian Capital Territory,0.0
+23,Non-binary,Other Territories,0.0
+23,Non-binary,Outside Australia,0.0
+23,Total,New South Wales,87.1
+23,Total,Victoria,103.7
+23,Total,Queensland,65.1
+23,Total,South Australia,23.4
+23,Total,Western Australia,26.2
+23,Total,Tasmania,2.5
+23,Total,Northern Territory,3.3
+23,Total,Australian Capital Territory,7.0
+23,Total,Other Territories,0.0
+23,Total,Outside Australia,0.0
+24,Man,New South Wales,36.8
+24,Man,Victoria,31.0
+24,Man,Queensland,21.4
+24,Man,South Australia,6.5
+24,Man,Western Australia,14.1
+24,Man,Tasmania,3.0
+24,Man,Northern Territory,1.8
+24,Man,Australian Capital Territory,2.1
+24,Man,Other Territories,0.0
+24,Man,Outside Australia,0.0
+24,Woman,New South Wales,18.7
+24,Woman,Victoria,19.3
+24,Woman,Queensland,45.5
+24,Woman,South Australia,16.2
+24,Woman,Western Australia,14.8
+24,Woman,Tasmania,1.3
+24,Woman,Northern Territory,0.0
+24,Woman,Australian Capital Territory,1.2
+24,Woman,Other Territories,0.0
+24,Woman,Outside Australia,0.0
+24,Non-binary,New South Wales,0.0
+24,Non-binary,Victoria,0.0
+24,Non-binary,Queensland,0.0
+24,Non-binary,South Australia,0.0
+24,Non-binary,Western Australia,0.0
+24,Non-binary,Tasmania,0.0
+24,Non-binary,Northern Territory,0.0
+24,Non-binary,Australian Capital Territory,0.0
+24,Non-binary,Other Territories,0.0
+24,Non-binary,Outside Australia,0.0
+24,Total,New South Wales,62.2
+24,Total,Victoria,57.9
+24,Total,Queensland,65.1
+24,Total,South Australia,21.6
+24,Total,Western Australia,32.5
+24,Total,Tasmania,5.4
+24,Total,Northern Territory,2.0
+24,Total,Australian Capital Territory,4.0
+24,Total,Other Territories,0.0
+24,Total,Outside Australia,0.0
+25,Man,New South Wales,61.2
+25,Man,Victoria,20.3
+25,Man,Queensland,28.2
+25,Man,South Australia,12.7
+25,Man,Western Australia,13.5
+25,Man,Tasmania,7.5
+25,Man,Northern Territory,2.7
+25,Man,Australian Capital Territory,0.7
+25,Man,Other Territories,0.0
+25,Man,Outside Australia,0.0
+25,Woman,New South Wales,37.2
+25,Woman,Victoria,18.4
+25,Woman,Queensland,22.7
+25,Woman,South Australia,8.7
+25,Woman,Western Australia,13.6
+25,Woman,Tasmania,1.5
+25,Woman,Northern Territory,1.3
+25,Woman,Australian Capital Territory,2.7
+25,Woman,Other Territories,0.0
+25,Woman,Outside Australia,0.0
+25,Non-binary,New South Wales,0.0
+25,Non-binary,Victoria,0.0
+25,Non-binary,Queensland,0.0
+25,Non-binary,South Australia,0.0
+25,Non-binary,Western Australia,0.0
+25,Non-binary,Tasmania,0.0
+25,Non-binary,Northern Territory,0.0
+25,Non-binary,Australian Capital Territory,0.0
+25,Non-binary,Other Territories,0.0
+25,Non-binary,Outside Australia,0.0
+25,Total,New South Wales,111.3
+25,Total,Victoria,45.2
+25,Total,Queensland,54.3
+25,Total,South Australia,23.0
+25,Total,Western Australia,21.1
+25,Total,Tasmania,7.3
+25,Total,Northern Territory,4.2
+25,Total,Australian Capital Territory,3.7
+25,Total,Other Territories,0.0
+25,Total,Outside Australia,0.0
+26,Man,New South Wales,52.2
+26,Man,Victoria,27.2
+26,Man,Queensland,16.2
+26,Man,South Australia,14.5
+26,Man,Western Australia,11.1
+26,Man,Tasmania,5.0
+26,Man,Northern Territory,0.0
+26,Man,Australian Capital Territory,1.9
+26,Man,Other Territories,0.0
+26,Man,Outside Australia,0.0
+26,Woman,New South Wales,40.9
+26,Woman,Victoria,29.6
+26,Woman,Queensland,31.3
+26,Woman,South Australia,19.4
+26,Woman,Western Australia,10.6
+26,Woman,Tasmania,5.1
+26,Woman,Northern Territory,1.0
+26,Woman,Australian Capital Territory,3.2
+26,Woman,Other Territories,0.0
+26,Woman,Outside Australia,0.0
+26,Non-binary,New South Wales,0.0
+26,Non-binary,Victoria,0.0
+26,Non-binary,Queensland,0.0
+26,Non-binary,South Australia,0.0
+26,Non-binary,Western Australia,0.0
+26,Non-binary,Tasmania,0.0
+26,Non-binary,Northern Territory,0.0
+26,Non-binary,Australian Capital Territory,0.0
+26,Non-binary,Other Territories,0.0
+26,Non-binary,Outside Australia,0.0
+26,Total,New South Wales,96.8
+26,Total,Victoria,61.0
+26,Total,Queensland,55.6
+26,Total,South Australia,29.9
+26,Total,Western Australia,21.8
+26,Total,Tasmania,10.2
+26,Total,Northern Territory,1.5
+26,Total,Australian Capital Territory,4.7
+26,Total,Other Territories,0.0
+26,Total,Outside Australia,0.0
+27,Man,New South Wales,32.2
+27,Man,Victoria,58.0
+27,Man,Queensland,27.0
+27,Man,South Australia,14.9
+27,Man,Western Australia,16.6
+27,Man,Tasmania,1.6
+27,Man,Northern Territory,1.9
+27,Man,Australian Capital Territory,2.0
+27,Man,Other Territories,0.0
+27,Man,Outside Australia,0.0
+27,Woman,New South Wales,59.7
+27,Woman,Victoria,43.8
+27,Woman,Queensland,44.3
+27,Woman,South Australia,10.1
+27,Woman,Western Australia,16.7
+27,Woman,Tasmania,7.3
+27,Woman,Northern Territory,1.6
+27,Woman,Australian Capital Territory,6.1
+27,Woman,Other Territories,0.0
+27,Woman,Outside Australia,0.0
+27,Non-binary,New South Wales,0.0
+27,Non-binary,Victoria,0.0
+27,Non-binary,Queensland,0.0
+27,Non-binary,South Australia,0.0
+27,Non-binary,Western Australia,0.0
+27,Non-binary,Tasmania,0.0
+27,Non-binary,Northern Territory,0.0
+27,Non-binary,Australian Capital Territory,0.0
+27,Non-binary,Other Territories,0.0
+27,Non-binary,Outside Australia,0.0
+27,Total,New South Wales,99.3
+27,Total,Victoria,97.4
+27,Total,Queensland,65.7
+27,Total,South Australia,19.2
+27,Total,Western Australia,36.1
+27,Total,Tasmania,5.4
+27,Total,Northern Territory,3.7
+27,Total,Australian Capital Territory,9.5
+27,Total,Other Territories,0.0
+27,Total,Outside Australia,0.0
+28,Man,New South Wales,72.8
+28,Man,Victoria,35.8
+28,Man,Queensland,35.6
+28,Man,South Australia,9.9
+28,Man,Western Australia,12.4
+28,Man,Tasmania,5.5
+28,Man,Northern Territory,1.6
+28,Man,Australian Capital Territory,3.4
+28,Man,Other Territories,0.0
+28,Man,Outside Australia,0.0
+28,Woman,New South Wales,53.1
+28,Woman,Victoria,36.6
+28,Woman,Queensland,48.1
+28,Woman,South Australia,7.7
+28,Woman,Western Australia,10.6
+28,Woman,Tasmania,1.8
+28,Woman,Northern Territory,1.5
+28,Woman,Australian Capital Territory,6.0
+28,Woman,Other Territories,0.0
+28,Woman,Outside Australia,0.0
+28,Non-binary,New South Wales,0.0
+28,Non-binary,Victoria,19.4
+28,Non-binary,Queensland,0.0
+28,Non-binary,South Australia,0.0
+28,Non-binary,Western Australia,0.0
+28,Non-binary,Tasmania,0.0
+28,Non-binary,Northern Territory,0.0
+28,Non-binary,Australian Capital Territory,0.0
+28,Non-binary,Other Territories,0.0
+28,Non-binary,Outside Australia,0.0
+28,Total,New South Wales,114.8
+28,Total,Victoria,100.0
+28,Total,Queensland,75.3
+28,Total,South Australia,16.1
+28,Total,Western Australia,29.9
+28,Total,Tasmania,6.1
+28,Total,Northern Territory,2.7
+28,Total,Australian Capital Territory,9.9
+28,Total,Other Territories,0.0
+28,Total,Outside Australia,0.0
+29,Man,New South Wales,68.7
+29,Man,Victoria,41.2
+29,Man,Queensland,39.6
+29,Man,South Australia,16.5
+29,Man,Western Australia,26.9
+29,Man,Tasmania,3.8
+29,Man,Northern Territory,1.4
+29,Man,Australian Capital Territory,2.0
+29,Man,Other Territories,0.0
+29,Man,Outside Australia,0.0
+29,Woman,New South Wales,47.7
+29,Woman,Victoria,52.2
+29,Woman,Queensland,21.5
+29,Woman,South Australia,10.3
+29,Woman,Western Australia,24.7
+29,Woman,Tasmania,1.7
+29,Woman,Northern Territory,1.9
+29,Woman,Australian Capital Territory,3.5
+29,Woman,Other Territories,0.0
+29,Woman,Outside Australia,0.0
+29,Non-binary,New South Wales,0.0
+29,Non-binary,Victoria,0.0
+29,Non-binary,Queensland,0.0
+29,Non-binary,South Australia,0.0
+29,Non-binary,Western Australia,0.0
+29,Non-binary,Tasmania,0.0
+29,Non-binary,Northern Territory,0.0
+29,Non-binary,Australian Capital Territory,0.0
+29,Non-binary,Other Territories,0.0
+29,Non-binary,Outside Australia,0.0
+29,Total,New South Wales,116.6
+29,Total,Victoria,96.8
+29,Total,Queensland,66.2
+29,Total,South Australia,30.1
+29,Total,Western Australia,47.3
+29,Total,Tasmania,4.5
+29,Total,Northern Territory,2.6
+29,Total,Australian Capital Territory,5.4
+29,Total,Other Territories,0.0
+29,Total,Outside Australia,0.0
+30,Man,New South Wales,74.6
+30,Man,Victoria,53.9
+30,Man,Queensland,46.0
+30,Man,South Australia,18.0
+30,Man,Western Australia,25.3
+30,Man,Tasmania,5.5
+30,Man,Northern Territory,2.5
+30,Man,Australian Capital Territory,2.5
+30,Man,Other Territories,0.0
+30,Man,Outside Australia,0.0
+30,Woman,New South Wales,66.7
+30,Woman,Victoria,19.2
+30,Woman,Queensland,47.5
+30,Woman,South Australia,12.6
+30,Woman,Western Australia,24.8
+30,Woman,Tasmania,2.9
+30,Woman,Northern Territory,1.3
+30,Woman,Australian Capital Territory,5.6
+30,Woman,Other Territories,0.0
+30,Woman,Outside Australia,0.0
+30,Non-binary,New South Wales,0.0
+30,Non-binary,Victoria,0.0
+30,Non-binary,Queensland,0.0
+30,Non-binary,South Australia,0.0
+30,Non-binary,Western Australia,0.0
+30,Non-binary,Tasmania,0.0
+30,Non-binary,Northern Territory,0.0
+30,Non-binary,Australian Capital Territory,0.0
+30,Non-binary,Other Territories,0.0
+30,Non-binary,Outside Australia,0.0
+30,Total,New South Wales,126.0
+30,Total,Victoria,83.8
+30,Total,Queensland,87.9
+30,Total,South Australia,27.0
+30,Total,Western Australia,51.3
+30,Total,Tasmania,6.9
+30,Total,Northern Territory,2.9
+30,Total,Australian Capital Territory,9.6
+30,Total,Other Territories,0.0
+30,Total,Outside Australia,0.0
+31,Man,New South Wales,44.9
+31,Man,Victoria,60.2
+31,Man,Queensland,13.0
+31,Man,South Australia,9.1
+31,Man,Western Australia,12.5
+31,Man,Tasmania,3.3
+31,Man,Northern Territory,0.7
+31,Man,Australian Capital Territory,4.3
+31,Man,Other Territories,0.0
+31,Man,Outside Australia,0.0
+31,Woman,New South Wales,70.8
+31,Woman,Victoria,87.4
+31,Woman,Queensland,23.4
+31,Woman,South Australia,12.7
+31,Woman,Western Australia,21.3
+31,Woman,Tasmania,3.9
+31,Woman,Northern Territory,2.2
+31,Woman,Australian Capital Territory,3.0
+31,Woman,Other Territories,0.0
+31,Woman,Outside Australia,0.0
+31,Non-binary,New South Wales,0.0
+31,Non-binary,Victoria,0.0
+31,Non-binary,Queensland,0.0
+31,Non-binary,South Australia,0.0
+31,Non-binary,Western Australia,0.0
+31,Non-binary,Tasmania,0.0
+31,Non-binary,Northern Territory,0.0
+31,Non-binary,Australian Capital Territory,0.0
+31,Non-binary,Other Territories,0.0
+31,Non-binary,Outside Australia,0.0
+31,Total,New South Wales,125.4
+31,Total,Victoria,157.4
+31,Total,Queensland,45.4
+31,Total,South Australia,30.1
+31,Total,Western Australia,34.8
+31,Total,Tasmania,6.0
+31,Total,Northern Territory,2.5
+31,Total,Australian Capital Territory,5.7
+31,Total,Other Territories,0.0
+31,Total,Outside Australia,0.0
+32,Man,New South Wales,53.8
+32,Man,Victoria,46.2
+32,Man,Queensland,30.8
+32,Man,South Australia,16.3
+32,Man,Western Australia,11.0
+32,Man,Tasmania,4.0
+32,Man,Northern Territory,2.1
+32,Man,Australian Capital Territory,6.2
+32,Man,Other Territories,0.0
+32,Man,Outside Australia,0.0
+32,Woman,New South Wales,47.8
+32,Woman,Victoria,65.5
+32,Woman,Queensland,47.4
+32,Woman,South Australia,15.0
+32,Woman,Western Australia,28.3
+32,Woman,Tasmania,7.8
+32,Woman,Northern Territory,1.5
+32,Woman,Australian Capital Territory,3.3
+32,Woman,Other Territories,0.0
+32,Woman,Outside Australia,0.0
+32,Non-binary,New South Wales,0.0
+32,Non-binary,Victoria,0.0
+32,Non-binary,Queensland,0.0
+32,Non-binary,South Australia,0.0
+32,Non-binary,Western Australia,0.0
+32,Non-binary,Tasmania,0.0
+32,Non-binary,Northern Territory,0.0
+32,Non-binary,Australian Capital Territory,0.0
+32,Non-binary,Other Territories,0.0
+32,Non-binary,Outside Australia,0.0
+32,Total,New South Wales,105.2
+32,Total,Victoria,121.6
+32,Total,Queensland,83.5
+32,Total,South Australia,31.3
+32,Total,Western Australia,44.6
+32,Total,Tasmania,9.1
+32,Total,Northern Territory,2.5
+32,Total,Australian Capital Territory,8.6
+32,Total,Other Territories,0.0
+32,Total,Outside Australia,0.0
+33,Man,New South Wales,53.3
+33,Man,Victoria,49.6
+33,Man,Queensland,35.5
+33,Man,South Australia,9.5
+33,Man,Western Australia,28.4
+33,Man,Tasmania,5.5
+33,Man,Northern Territory,0.8
+33,Man,Australian Capital Territory,6.2
+33,Man,Other Territories,0.0
+33,Man,Outside Australia,0.0
+33,Woman,New South Wales,51.5
+33,Woman,Victoria,69.5
+33,Woman,Queensland,35.5
+33,Woman,South Australia,4.4
+33,Woman,Western Australia,17.6
+33,Woman,Tasmania,3.3
+33,Woman,Northern Territory,1.9
+33,Woman,Australian Capital Territory,2.4
+33,Woman,Other Territories,0.0
+33,Woman,Outside Australia,0.0
+33,Non-binary,New South Wales,0.0
+33,Non-binary,Victoria,0.0
+33,Non-binary,Queensland,0.0
+33,Non-binary,South Australia,0.0
+33,Non-binary,Western Australia,0.0
+33,Non-binary,Tasmania,0.0
+33,Non-binary,Northern Territory,0.0
+33,Non-binary,Australian Capital Territory,0.0
+33,Non-binary,Other Territories,0.0
+33,Non-binary,Outside Australia,0.0
+33,Total,New South Wales,110.1
+33,Total,Victoria,104.1
+33,Total,Queensland,85.0
+33,Total,South Australia,15.7
+33,Total,Western Australia,46.6
+33,Total,Tasmania,6.9
+33,Total,Northern Territory,3.4
+33,Total,Australian Capital Territory,9.6
+33,Total,Other Territories,0.0
+33,Total,Outside Australia,0.0
+34,Man,New South Wales,27.4
+34,Man,Victoria,54.8
+34,Man,Queensland,29.9
+34,Man,South Australia,19.8
+34,Man,Western Australia,21.0
+34,Man,Tasmania,3.0
+34,Man,Northern Territory,2.2
+34,Man,Australian Capital Territory,4.6
+34,Man,Other Territories,0.0
+34,Man,Outside Australia,0.0
+34,Woman,New South Wales,81.1
+34,Woman,Victoria,54.8
+34,Woman,Queensland,35.1
+34,Woman,South Australia,8.0
+34,Woman,Western Australia,20.2
+34,Woman,Tasmania,2.2
+34,Woman,Northern Territory,0.6
+34,Woman,Australian Capital Territory,3.5
+34,Woman,Other Territories,0.0
+34,Woman,Outside Australia,0.0
+34,Non-binary,New South Wales,0.0
+34,Non-binary,Victoria,0.0
+34,Non-binary,Queensland,0.0
+34,Non-binary,South Australia,0.0
+34,Non-binary,Western Australia,0.0
+34,Non-binary,Tasmania,0.0
+34,Non-binary,Northern Territory,0.0
+34,Non-binary,Australian Capital Territory,0.0
+34,Non-binary,Other Territories,0.0
+34,Non-binary,Outside Australia,0.0
+34,Total,New South Wales,100.2
+34,Total,Victoria,108.8
+34,Total,Queensland,55.7
+34,Total,South Australia,27.6
+34,Total,Western Australia,41.1
+34,Total,Tasmania,7.1
+34,Total,Northern Territory,3.7
+34,Total,Australian Capital Territory,8.9
+34,Total,Other Territories,0.0
+34,Total,Outside Australia,0.0
+35,Man,New South Wales,48.0
+35,Man,Victoria,65.5
+35,Man,Queensland,38.9
+35,Man,South Australia,7.5
+35,Man,Western Australia,14.6
+35,Man,Tasmania,3.5
+35,Man,Northern Territory,0.6
+35,Man,Australian Capital Territory,3.5
+35,Man,Other Territories,0.0
+35,Man,Outside Australia,0.0
+35,Woman,New South Wales,53.9
+35,Woman,Victoria,46.7
+35,Woman,Queensland,46.2
+35,Woman,South Australia,18.2
+35,Woman,Western Australia,13.6
+35,Woman,Tasmania,4.7
+35,Woman,Northern Territory,3.0
+35,Woman,Australian Capital Territory,5.1
+35,Woman,Other Territories,0.0
+35,Woman,Outside Australia,0.0
+35,Non-binary,New South Wales,0.0
+35,Non-binary,Victoria,0.0
+35,Non-binary,Queensland,0.0
+35,Non-binary,South Australia,0.0
+35,Non-binary,Western Australia,0.0
+35,Non-binary,Tasmania,0.0
+35,Non-binary,Northern Territory,0.0
+35,Non-binary,Australian Capital Territory,0.0
+35,Non-binary,Other Territories,0.0
+35,Non-binary,Outside Australia,0.0
+35,Total,New South Wales,93.0
+35,Total,Victoria,98.2
+35,Total,Queensland,87.3
+35,Total,South Australia,19.8
+35,Total,Western Australia,26.9
+35,Total,Tasmania,9.2
+35,Total,Northern Territory,3.2
+35,Total,Australian Capital Territory,8.1
+35,Total,Other Territories,0.0
+35,Total,Outside Australia,0.0
+36,Man,New South Wales,25.4
+36,Man,Victoria,33.5
+36,Man,Queensland,7.9
+36,Man,South Australia,10.0
+36,Man,Western Australia,11.5
+36,Man,Tasmania,4.4
+36,Man,Northern Territory,1.2
+36,Man,Australian Capital Territory,3.8
+36,Man,Other Territories,0.0
+36,Man,Outside Australia,0.0
+36,Woman,New South Wales,70.0
+36,Woman,Victoria,37.6
+36,Woman,Queensland,17.8
+36,Woman,South Australia,13.8
+36,Woman,Western Australia,19.5
+36,Woman,Tasmania,6.1
+36,Woman,Northern Territory,1.4
+36,Woman,Australian Capital Territory,2.6
+36,Woman,Other Territories,0.0
+36,Woman,Outside Australia,0.0
+36,Non-binary,New South Wales,0.0
+36,Non-binary,Victoria,0.0
+36,Non-binary,Queensland,0.0
+36,Non-binary,South Australia,0.0
+36,Non-binary,Western Australia,0.0
+36,Non-binary,Tasmania,0.0
+36,Non-binary,Northern Territory,0.0
+36,Non-binary,Australian Capital Territory,0.0
+36,Non-binary,Other Territories,0.0
+36,Non-binary,Outside Australia,0.0
+36,Total,New South Wales,91.2
+36,Total,Victoria,80.2
+36,Total,Queensland,31.3
+36,Total,South Australia,25.3
+36,Total,Western Australia,21.8
+36,Total,Tasmania,10.5
+36,Total,Northern Territory,2.9
+36,Total,Australian Capital Territory,5.8
+36,Total,Other Territories,0.0
+36,Total,Outside Australia,0.0
+37,Man,New South Wales,47.2
+37,Man,Victoria,26.5
+37,Man,Queensland,48.0
+37,Man,South Australia,5.4
+37,Man,Western Australia,9.9
+37,Man,Tasmania,3.0
+37,Man,Northern Territory,2.3
+37,Man,Australian Capital Territory,3.5
+37,Man,Other Territories,0.0
+37,Man,Outside Australia,0.0
+37,Woman,New South Wales,78.3
+37,Woman,Victoria,34.6
+37,Woman,Queensland,16.5
+37,Woman,South Australia,14.4
+37,Woman,Western Australia,19.3
+37,Woman,Tasmania,3.2
+37,Woman,Northern Territory,0.6
+37,Woman,Australian Capital Territory,4.2
+37,Woman,Other Territories,0.0
+37,Woman,Outside Australia,0.0
+37,Non-binary,New South Wales,0.0
+37,Non-binary,Victoria,0.0
+37,Non-binary,Queensland,0.0
+37,Non-binary,South Australia,0.0
+37,Non-binary,Western Australia,0.0
+37,Non-binary,Tasmania,0.0
+37,Non-binary,Northern Territory,0.0
+37,Non-binary,Australian Capital Territory,0.0
+37,Non-binary,Other Territories,0.0
+37,Non-binary,Outside Australia,0.0
+37,Total,New South Wales,125.9
+37,Total,Victoria,77.0
+37,Total,Queensland,76.4
+37,Total,South Australia,19.5
+37,Total,Western Australia,23.6
+37,Total,Tasmania,7.1
+37,Total,Northern Territory,3.3
+37,Total,Australian Capital Territory,7.5
+37,Total,Other Territories,0.0
+37,Total,Outside Australia,0.0
+38,Man,New South Wales,61.2
+38,Man,Victoria,62.1
+38,Man,Queensland,26.3
+38,Man,South Australia,9.7
+38,Man,Western Australia,22.2
+38,Man,Tasmania,3.3
+38,Man,Northern Territory,0.9
+38,Man,Australian Capital Territory,3.1
+38,Man,Other Territories,0.0
+38,Man,Outside Australia,0.0
+38,Woman,New South Wales,45.7
+38,Woman,Victoria,72.4
+38,Woman,Queensland,37.7
+38,Woman,South Australia,9.5
+38,Woman,Western Australia,23.4
+38,Woman,Tasmania,3.5
+38,Woman,Northern Territory,1.9
+38,Woman,Australian Capital Territory,3.6
+38,Woman,Other Territories,0.0
+38,Woman,Outside Australia,0.0
+38,Non-binary,New South Wales,0.0
+38,Non-binary,Victoria,0.0
+38,Non-binary,Queensland,0.0
+38,Non-binary,South Australia,0.0
+38,Non-binary,Western Australia,0.0
+38,Non-binary,Tasmania,0.0
+38,Non-binary,Northern Territory,0.0
+38,Non-binary,Australian Capital Territory,0.0
+38,Non-binary,Other Territories,0.0
+38,Non-binary,Outside Australia,0.0
+38,Total,New South Wales,106.6
+38,Total,Victoria,119.4
+38,Total,Queensland,68.4
+38,Total,South Australia,21.4
+38,Total,Western Australia,42.5
+38,Total,Tasmania,6.7
+38,Total,Northern Territory,2.4
+38,Total,Australian Capital Territory,6.0
+38,Total,Other Territories,0.0
+38,Total,Outside Australia,0.0
+39,Man,New South Wales,43.1
+39,Man,Victoria,36.3
+39,Man,Queensland,27.3
+39,Man,South Australia,5.0
+39,Man,Western Australia,19.4
+39,Man,Tasmania,1.2
+39,Man,Northern Territory,2.0
+39,Man,Australian Capital Territory,2.7
+39,Man,Other Territories,0.0
+39,Man,Outside Australia,0.0
+39,Woman,New South Wales,49.5
+39,Woman,Victoria,63.4
+39,Woman,Queensland,42.6
+39,Woman,South Australia,4.0
+39,Woman,Western Australia,27.4
+39,Woman,Tasmania,2.7
+39,Woman,Northern Territory,1.0
+39,Woman,Australian Capital Territory,3.5
+39,Woman,Other Territories,0.0
+39,Woman,Outside Australia,0.0
+39,Non-binary,New South Wales,0.0
+39,Non-binary,Victoria,0.0
+39,Non-binary,Queensland,0.0
+39,Non-binary,South Australia,0.0
+39,Non-binary,Western Australia,0.0
+39,Non-binary,Tasmania,0.0
+39,Non-binary,Northern Territory,0.0
+39,Non-binary,Australian Capital Territory,0.0
+39,Non-binary,Other Territories,0.0
+39,Non-binary,Outside Australia,0.0
+39,Total,New South Wales,106.6
+39,Total,Victoria,88.1
+39,Total,Queensland,77.2
+39,Total,South Australia,11.4
+39,Total,Western Australia,43.3
+39,Total,Tasmania,4.5
+39,Total,Northern Territory,3.2
+39,Total,Australian Capital Territory,5.9
+39,Total,Other Territories,0.0
+39,Total,Outside Australia,0.0
+40,Man,New South Wales,82.0
+40,Man,Victoria,51.8
+40,Man,Queensland,44.7
+40,Man,South Australia,10.4
+40,Man,Western Australia,22.8
+40,Man,Tasmania,5.2
+40,Man,Northern Territory,0.8
+40,Man,Australian Capital Territory,3.9
+40,Man,Other Territories,0.0
+40,Man,Outside Australia,0.0
+40,Woman,New South Wales,70.5
+40,Woman,Victoria,37.1
+40,Woman,Queensland,24.2
+40,Woman,South Australia,15.1
+40,Woman,Western Australia,25.7
+40,Woman,Tasmania,3.2
+40,Woman,Northern Territory,0.5
+40,Woman,Australian Capital Territory,4.3
+40,Woman,Other Territories,0.0
+40,Woman,Outside Australia,0.0
+40,Non-binary,New South Wales,0.0
+40,Non-binary,Victoria,0.0
+40,Non-binary,Queensland,0.0
+40,Non-binary,South Australia,0.0
+40,Non-binary,Western Australia,0.0
+40,Non-binary,Tasmania,0.0
+40,Non-binary,Northern Territory,0.0
+40,Non-binary,Australian Capital Territory,0.0
+40,Non-binary,Other Territories,0.0
+40,Non-binary,Outside Australia,0.0
+40,Total,New South Wales,135.7
+40,Total,Victoria,92.3
+40,Total,Queensland,74.9
+40,Total,South Australia,29.3
+40,Total,Western Australia,42.1
+40,Total,Tasmania,6.5
+40,Total,Northern Territory,1.5
+40,Total,Australian Capital Territory,8.8
+40,Total,Other Territories,0.0
+40,Total,Outside Australia,0.0
+41,Man,New South Wales,38.4
+41,Man,Victoria,31.3
+41,Man,Queensland,46.1
+41,Man,South Australia,20.1
+41,Man,Western Australia,25.6
+41,Man,Tasmania,4.7
+41,Man,Northern Territory,1.2
+41,Man,Australian Capital Territory,4.5
+41,Man,Other Territories,0.0
+41,Man,Outside Australia,0.0
+41,Woman,New South Wales,45.9
+41,Woman,Victoria,40.5
+41,Woman,Queensland,32.3
+41,Woman,South Australia,11.1
+41,Woman,Western Australia,18.8
+41,Woman,Tasmania,4.0
+41,Woman,Northern Territory,1.7
+41,Woman,Australian Capital Territory,3.6
+41,Woman,Other Territories,0.0
+41,Woman,Outside Australia,0.0
+41,Non-binary,New South Wales,0.0
+41,Non-binary,Victoria,0.0
+41,Non-binary,Queensland,0.0
+41,Non-binary,South Australia,0.0
+41,Non-binary,Western Australia,0.0
+41,Non-binary,Tasmania,0.0
+41,Non-binary,Northern Territory,0.0
+41,Non-binary,Australian Capital Territory,0.0
+41,Non-binary,Other Territories,0.0
+41,Non-binary,Outside Australia,0.0
+41,Total,New South Wales,88.9
+41,Total,Victoria,86.7
+41,Total,Queensland,64.0
+41,Total,South Australia,27.0
+41,Total,Western Australia,38.5
+41,Total,Tasmania,8.0
+41,Total,Northern Territory,2.2
+41,Total,Australian Capital Territory,7.0
+41,Total,Other Territories,0.0
+41,Total,Outside Australia,0.0
+42,Man,New South Wales,69.6
+42,Man,Victoria,37.2
+42,Man,Queensland,28.8
+42,Man,South Australia,12.5
+42,Man,Western Australia,25.8
+42,Man,Tasmania,0.8
+42,Man,Northern Territory,1.7
+42,Man,Australian Capital Territory,3.2
+42,Man,Other Territories,0.0
+42,Man,Outside Australia,0.0
+42,Woman,New South Wales,35.7
+42,Woman,Victoria,34.7
+42,Woman,Queensland,31.9
+42,Woman,South Australia,10.4
+42,Woman,Western Australia,16.6
+42,Woman,Tasmania,3.4
+42,Woman,Northern Territory,0.4
+42,Woman,Australian Capital Territory,2.3
+42,Woman,Other Territories,0.0
+42,Woman,Outside Australia,0.0
+42,Non-binary,New South Wales,0.0
+42,Non-binary,Victoria,0.0
+42,Non-binary,Queensland,0.0
+42,Non-binary,South Australia,0.0
+42,Non-binary,Western Australia,0.0
+42,Non-binary,Tasmania,0.0
+42,Non-binary,Northern Territory,0.0
+42,Non-binary,Australian Capital Territory,0.0
+42,Non-binary,Other Territories,0.0
+42,Non-binary,Outside Australia,0.0
+42,Total,New South Wales,101.6
+42,Total,Victoria,72.3
+42,Total,Queensland,64.8
+42,Total,South Australia,22.7
+42,Total,Western Australia,41.1
+42,Total,Tasmania,3.9
+42,Total,Northern Territory,1.9
+42,Total,Australian Capital Territory,6.9
+42,Total,Other Territories,0.0
+42,Total,Outside Australia,0.0
+43,Man,New South Wales,49.7
+43,Man,Victoria,49.5
+43,Man,Queensland,34.6
+43,Man,South Australia,15.1
+43,Man,Western Australia,20.6
+43,Man,Tasmania,3.4
+43,Man,Northern Territory,1.3
+43,Man,Australian Capital Territory,2.8
+43,Man,Other Territories,0.0
+43,Man,Outside Australia,0.0
+43,Woman,New South Wales,52.3
+43,Woman,Victoria,64.4
+43,Woman,Queensland,35.6
+43,Woman,South Australia,10.5
+43,Woman,Western Australia,13.8
+43,Woman,Tasmania,1.3
+43,Woman,Northern Territory,1.5
+43,Woman,Australian Capital Territory,4.2
+43,Woman,Other Territories,0.0
+43,Woman,Outside Australia,0.0
+43,Non-binary,New South Wales,0.0
+43,Non-binary,Victoria,0.0
+43,Non-binary,Queensland,0.0
+43,Non-binary,South Australia,0.0
+43,Non-binary,Western Australia,0.0
+43,Non-binary,Tasmania,0.0
+43,Non-binary,Northern Territory,0.0
+43,Non-binary,Australian Capital Territory,0.0
+43,Non-binary,Other Territories,0.0
+43,Non-binary,Outside Australia,0.0
+43,Total,New South Wales,100.7
+43,Total,Victoria,116.8
+43,Total,Queensland,57.0
+43,Total,South Australia,26.5
+43,Total,Western Australia,33.5
+43,Total,Tasmania,4.7
+43,Total,Northern Territory,2.7
+43,Total,Australian Capital Territory,6.6
+43,Total,Other Territories,0.0
+43,Total,Outside Australia,0.0
+44,Man,New South Wales,51.9
+44,Man,Victoria,13.3
+44,Man,Queensland,25.0
+44,Man,South Australia,16.6
+44,Man,Western Australia,22.8
+44,Man,Tasmania,2.1
+44,Man,Northern Territory,1.9
+44,Man,Australian Capital Territory,4.3
+44,Man,Other Territories,0.0
+44,Man,Outside Australia,0.0
+44,Woman,New South Wales,43.4
+44,Woman,Victoria,35.6
+44,Woman,Queensland,38.2
+44,Woman,South Australia,12.9
+44,Woman,Western Australia,22.9
+44,Woman,Tasmania,2.4
+44,Woman,Northern Territory,2.1
+44,Woman,Australian Capital Territory,2.1
+44,Woman,Other Territories,0.0
+44,Woman,Outside Australia,0.0
+44,Non-binary,New South Wales,0.0
+44,Non-binary,Victoria,0.0
+44,Non-binary,Queensland,0.0
+44,Non-binary,South Australia,0.0
+44,Non-binary,Western Australia,0.0
+44,Non-binary,Tasmania,0.0
+44,Non-binary,Northern Territory,0.0
+44,Non-binary,Australian Capital Territory,0.0
+44,Non-binary,Other Territories,0.0
+44,Non-binary,Outside Australia,0.0
+44,Total,New South Wales,83.9
+44,Total,Victoria,61.4
+44,Total,Queensland,67.7
+44,Total,South Australia,24.8
+44,Total,Western Australia,42.9
+44,Total,Tasmania,4.8
+44,Total,Northern Territory,2.9
+44,Total,Australian Capital Territory,6.1
+44,Total,Other Territories,0.0
+44,Total,Outside Australia,0.0
+45,Man,New South Wales,79.1
+45,Man,Victoria,33.7
+45,Man,Queensland,48.0
+45,Man,South Australia,8.0
+45,Man,Western Australia,19.4
+45,Man,Tasmania,1.2
+45,Man,Northern Territory,2.3
+45,Man,Australian Capital Territory,3.2
+45,Man,Other Territories,0.0
+45,Man,Outside Australia,0.0
+45,Woman,New South Wales,42.3
+45,Woman,Victoria,41.3
+45,Woman,Queensland,57.0
+45,Woman,South Australia,11.1
+45,Woman,Western Australia,17.9
+45,Woman,Tasmania,4.3
+45,Woman,Northern Territory,1.0
+45,Woman,Australian Capital Territory,3.2
+45,Woman,Other Territories,0.0
+45,Woman,Outside Australia,0.0
+45,Non-binary,New South Wales,0.0
+45,Non-binary,Victoria,0.0
+45,Non-binary,Queensland,0.0
+45,Non-binary,South Australia,0.0
+45,Non-binary,Western Australia,0.0
+45,Non-binary,Tasmania,0.0
+45,Non-binary,Northern Territory,0.0
+45,Non-binary,Australian Capital Territory,0.0
+45,Non-binary,Other Territories,0.0
+45,Non-binary,Outside Australia,0.0
+45,Total,New South Wales,127.5
+45,Total,Victoria,77.6
+45,Total,Queensland,91.9
+45,Total,South Australia,19.6
+45,Total,Western Australia,33.5
+45,Total,Tasmania,6.7
+45,Total,Northern Territory,2.9
+45,Total,Australian Capital Territory,6.6
+45,Total,Other Territories,0.0
+45,Total,Outside Australia,0.0
+46,Man,New South Wales,43.3
+46,Man,Victoria,32.2
+46,Man,Queensland,15.5
+46,Man,South Australia,6.3
+46,Man,Western Australia,8.0
+46,Man,Tasmania,3.4
+46,Man,Northern Territory,1.6
+46,Man,Australian Capital Territory,2.5
+46,Man,Other Territories,0.0
+46,Man,Outside Australia,0.0
+46,Woman,New South Wales,38.3
+46,Woman,Victoria,45.4
+46,Woman,Queensland,41.0
+46,Woman,South Australia,3.1
+46,Woman,Western Australia,33.5
+46,Woman,Tasmania,1.5
+46,Woman,Northern Territory,0.8
+46,Woman,Australian Capital Territory,3.0
+46,Woman,Other Territories,0.0
+46,Woman,Outside Australia,0.0
+46,Non-binary,New South Wales,0.0
+46,Non-binary,Victoria,0.0
+46,Non-binary,Queensland,0.0
+46,Non-binary,South Australia,0.0
+46,Non-binary,Western Australia,0.0
+46,Non-binary,Tasmania,0.0
+46,Non-binary,Northern Territory,0.0
+46,Non-binary,Australian Capital Territory,0.0
+46,Non-binary,Other Territories,0.0
+46,Non-binary,Outside Australia,0.0
+46,Total,New South Wales,93.0
+46,Total,Victoria,77.0
+46,Total,Queensland,56.5
+46,Total,South Australia,11.5
+46,Total,Western Australia,41.4
+46,Total,Tasmania,5.6
+46,Total,Northern Territory,1.8
+46,Total,Australian Capital Territory,5.9
+46,Total,Other Territories,0.0
+46,Total,Outside Australia,0.0
+47,Man,New South Wales,27.7
+47,Man,Victoria,24.0
+47,Man,Queensland,32.3
+47,Man,South Australia,16.6
+47,Man,Western Australia,11.6
+47,Man,Tasmania,4.1
+47,Man,Northern Territory,1.0
+47,Man,Australian Capital Territory,2.8
+47,Man,Other Territories,0.0
+47,Man,Outside Australia,0.0
+47,Woman,New South Wales,23.1
+47,Woman,Victoria,15.4
+47,Woman,Queensland,43.0
+47,Woman,South Australia,10.5
+47,Woman,Western Australia,10.4
+47,Woman,Tasmania,3.9
+47,Woman,Northern Territory,0.5
+47,Woman,Australian Capital Territory,0.8
+47,Woman,Other Territories,0.0
+47,Woman,Outside Australia,0.0
+47,Non-binary,New South Wales,0.0
+47,Non-binary,Victoria,0.0
+47,Non-binary,Queensland,0.0
+47,Non-binary,South Australia,0.0
+47,Non-binary,Western Australia,0.0
+47,Non-binary,Tasmania,0.0
+47,Non-binary,Northern Territory,0.0
+47,Non-binary,Australian Capital Territory,0.0
+47,Non-binary,Other Territories,0.0
+47,Non-binary,Outside Australia,0.0
+47,Total,New South Wales,57.9
+47,Total,Victoria,44.2
+47,Total,Queensland,86.1
+47,Total,South Australia,33.4
+47,Total,Western Australia,20.0
+47,Total,Tasmania,6.0
+47,Total,Northern Territory,2.2
+47,Total,Australian Capital Territory,4.7
+47,Total,Other Territories,0.0
+47,Total,Outside Australia,0.0
+48,Man,New South Wales,46.6
+48,Man,Victoria,56.2
+48,Man,Queensland,25.2
+48,Man,South Australia,7.7
+48,Man,Western Australia,33.9
+48,Man,Tasmania,3.5
+48,Man,Northern Territory,1.4
+48,Man,Australian Capital Territory,3.8
+48,Man,Other Territories,0.0
+48,Man,Outside Australia,0.0
+48,Woman,New South Wales,34.8
+48,Woman,Victoria,37.7
+48,Woman,Queensland,22.1
+48,Woman,South Australia,4.4
+48,Woman,Western Australia,11.8
+48,Woman,Tasmania,3.9
+48,Woman,Northern Territory,1.7
+48,Woman,Australian Capital Territory,4.3
+48,Woman,Other Territories,0.0
+48,Woman,Outside Australia,0.0
+48,Non-binary,New South Wales,0.0
+48,Non-binary,Victoria,0.0
+48,Non-binary,Queensland,0.0
+48,Non-binary,South Australia,0.0
+48,Non-binary,Western Australia,0.0
+48,Non-binary,Tasmania,0.0
+48,Non-binary,Northern Territory,0.0
+48,Non-binary,Australian Capital Territory,0.0
+48,Non-binary,Other Territories,0.0
+48,Non-binary,Outside Australia,0.0
+48,Total,New South Wales,97.2
+48,Total,Victoria,110.1
+48,Total,Queensland,66.3
+48,Total,South Australia,13.5
+48,Total,Western Australia,49.9
+48,Total,Tasmania,5.0
+48,Total,Northern Territory,2.7
+48,Total,Australian Capital Territory,7.6
+48,Total,Other Territories,0.0
+48,Total,Outside Australia,0.0
+49,Man,New South Wales,46.0
+49,Man,Victoria,40.3
+49,Man,Queensland,24.3
+49,Man,South Australia,14.9
+49,Man,Western Australia,17.8
+49,Man,Tasmania,3.5
+49,Man,Northern Territory,1.4
+49,Man,Australian Capital Territory,3.7
+49,Man,Other Territories,0.0
+49,Man,Outside Australia,0.0
+49,Woman,New South Wales,52.9
+49,Woman,Victoria,85.8
+49,Woman,Queensland,18.6
+49,Woman,South Australia,19.4
+49,Woman,Western Australia,19.7
+49,Woman,Tasmania,4.1
+49,Woman,Northern Territory,1.5
+49,Woman,Australian Capital Territory,3.2
+49,Woman,Other Territories,0.0
+49,Woman,Outside Australia,0.0
+49,Non-binary,New South Wales,0.0
+49,Non-binary,Victoria,0.0
+49,Non-binary,Queensland,0.0
+49,Non-binary,South Australia,0.0
+49,Non-binary,Western Australia,0.0
+49,Non-binary,Tasmania,0.0
+49,Non-binary,Northern Territory,0.0
+49,Non-binary,Australian Capital Territory,0.0
+49,Non-binary,Other Territories,0.0
+49,Non-binary,Outside Australia,0.0
+49,Total,New South Wales,94.6
+49,Total,Victoria,113.6
+49,Total,Queensland,37.9
+49,Total,South Australia,30.4
+49,Total,Western Australia,36.4
+49,Total,Tasmania,5.3
+49,Total,Northern Territory,2.9
+49,Total,Australian Capital Territory,6.2
+49,Total,Other Territories,0.0
+49,Total,Outside Australia,0.0
+50,Man,New South Wales,40.6
+50,Man,Victoria,27.3
+50,Man,Queensland,43.3
+50,Man,South Australia,21.6
+50,Man,Western Australia,13.9
+50,Man,Tasmania,4.8
+50,Man,Northern Territory,0.8
+50,Man,Australian Capital Territory,2.4
+50,Man,Other Territories,0.0
+50,Man,Outside Australia,0.0
+50,Woman,New South Wales,92.7
+50,Woman,Victoria,33.3
+50,Woman,Queensland,39.1
+50,Woman,South Australia,18.2
+50,Woman,Western Australia,12.0
+50,Woman,Tasmania,4.3
+50,Woman,Northern Territory,0.6
+50,Woman,Australian Capital Territory,2.0
+50,Woman,Other Territories,0.0
+50,Woman,Outside Australia,0.0
+50,Non-binary,New South Wales,0.0
+50,Non-binary,Victoria,0.0
+50,Non-binary,Queensland,0.0
+50,Non-binary,South Australia,0.0
+50,Non-binary,Western Australia,0.0
+50,Non-binary,Tasmania,0.0
+50,Non-binary,Northern Territory,0.0
+50,Non-binary,Australian Capital Territory,0.0
+50,Non-binary,Other Territories,0.0
+50,Non-binary,Outside Australia,0.0
+50,Total,New South Wales,122.0
+50,Total,Victoria,55.0
+50,Total,Queensland,73.6
+50,Total,South Australia,36.8
+50,Total,Western Australia,29.3
+50,Total,Tasmania,8.5
+50,Total,Northern Territory,1.0
+50,Total,Australian Capital Territory,3.8
+50,Total,Other Territories,0.0
+50,Total,Outside Australia,0.0
+51,Man,New South Wales,55.4
+51,Man,Victoria,26.5
+51,Man,Queensland,38.3
+51,Man,South Australia,9.1
+51,Man,Western Australia,9.7
+51,Man,Tasmania,0.9
+51,Man,Northern Territory,0.3
+51,Man,Australian Capital Territory,4.6
+51,Man,Other Territories,0.0
+51,Man,Outside Australia,0.0
+51,Woman,New South Wales,29.4
+51,Woman,Victoria,28.4
+51,Woman,Queensland,36.8
+51,Woman,South Australia,14.9
+51,Woman,Western Australia,22.2
+51,Woman,Tasmania,1.4
+51,Woman,Northern Territory,1.8
+51,Woman,Australian Capital Territory,2.1
+51,Woman,Other Territories,0.0
+51,Woman,Outside Australia,0.0
+51,Non-binary,New South Wales,0.0
+51,Non-binary,Victoria,0.0
+51,Non-binary,Queensland,0.0
+51,Non-binary,South Australia,0.0
+51,Non-binary,Western Australia,0.0
+51,Non-binary,Tasmania,0.0
+51,Non-binary,Northern Territory,0.0
+51,Non-binary,Australian Capital Territory,0.0
+51,Non-binary,Other Territories,0.0
+51,Non-binary,Outside Australia,0.0
+51,Total,New South Wales,93.6
+51,Total,Victoria,55.2
+51,Total,Queensland,58.0
+51,Total,South Australia,26.1
+51,Total,Western Australia,29.8
+51,Total,Tasmania,4.6
+51,Total,Northern Territory,1.8
+51,Total,Australian Capital Territory,6.6
+51,Total,Other Territories,0.0
+51,Total,Outside Australia,0.0
+52,Man,New South Wales,40.0
+52,Man,Victoria,39.7
+52,Man,Queensland,18.1
+52,Man,South Australia,5.9
+52,Man,Western Australia,12.5
+52,Man,Tasmania,5.5
+52,Man,Northern Territory,0.6
+52,Man,Australian Capital Territory,1.8
+52,Man,Other Territories,0.0
+52,Man,Outside Australia,0.0
+52,Woman,New South Wales,46.2
+52,Woman,Victoria,44.9
+52,Woman,Queensland,36.7
+52,Woman,South Australia,11.0
+52,Woman,Western Australia,26.2
+52,Woman,Tasmania,5.0
+52,Woman,Northern Territory,0.9
+52,Woman,Australian Capital Territory,2.0
+52,Woman,Other Territories,0.0
+52,Woman,Outside Australia,0.0
+52,Non-binary,New South Wales,0.0
+52,Non-binary,Victoria,0.0
+52,Non-binary,Queensland,0.0
+52,Non-binary,South Australia,0.0
+52,Non-binary,Western Australia,0.0
+52,Non-binary,Tasmania,0.0
+52,Non-binary,Northern Territory,0.0
+52,Non-binary,Australian Capital Territory,0.0
+52,Non-binary,Other Territories,0.0
+52,Non-binary,Outside Australia,0.0
+52,Total,New South Wales,86.3
+52,Total,Victoria,100.8
+52,Total,Queensland,56.9
+52,Total,South Australia,17.8
+52,Total,Western Australia,37.3
+52,Total,Tasmania,8.1
+52,Total,Northern Territory,1.1
+52,Total,Australian Capital Territory,4.6
+52,Total,Other Territories,0.0
+52,Total,Outside Australia,0.0
+53,Man,New South Wales,48.7
+53,Man,Victoria,25.2
+53,Man,Queensland,26.3
+53,Man,South Australia,3.4
+53,Man,Western Australia,17.7
+53,Man,Tasmania,3.2
+53,Man,Northern Territory,1.9
+53,Man,Australian Capital Territory,1.8
+53,Man,Other Territories,0.0
+53,Man,Outside Australia,0.0
+53,Woman,New South Wales,75.2
+53,Woman,Victoria,30.7
+53,Woman,Queensland,29.1
+53,Woman,South Australia,11.0
+53,Woman,Western Australia,15.9
+53,Woman,Tasmania,3.7
+53,Woman,Northern Territory,0.9
+53,Woman,Australian Capital Territory,3.0
+53,Woman,Other Territories,0.0
+53,Woman,Outside Australia,0.0
+53,Non-binary,New South Wales,0.0
+53,Non-binary,Victoria,0.0
+53,Non-binary,Queensland,0.0
+53,Non-binary,South Australia,0.0
+53,Non-binary,Western Australia,0.0
+53,Non-binary,Tasmania,0.0
+53,Non-binary,Northern Territory,0.0
+53,Non-binary,Australian Capital Territory,0.0
+53,Non-binary,Other Territories,0.0
+53,Non-binary,Outside Australia,0.0
+53,Total,New South Wales,106.3
+53,Total,Victoria,64.4
+53,Total,Queensland,56.2
+53,Total,South Australia,13.6
+53,Total,Western Australia,27.9
+53,Total,Tasmania,8.6
+53,Total,Northern Territory,2.6
+53,Total,Australian Capital Territory,3.8
+53,Total,Other Territories,0.0
+53,Total,Outside Australia,0.0
+54,Man,New South Wales,39.8
+54,Man,Victoria,38.6
+54,Man,Queensland,43.6
+54,Man,South Australia,8.4
+54,Man,Western Australia,14.6
+54,Man,Tasmania,5.8
+54,Man,Northern Territory,0.6
+54,Man,Australian Capital Territory,2.4
+54,Man,Other Territories,0.0
+54,Man,Outside Australia,0.0
+54,Woman,New South Wales,50.9
+54,Woman,Victoria,46.8
+54,Woman,Queensland,25.2
+54,Woman,South Australia,9.9
+54,Woman,Western Australia,8.3
+54,Woman,Tasmania,4.4
+54,Woman,Northern Territory,0.5
+54,Woman,Australian Capital Territory,3.1
+54,Woman,Other Territories,0.0
+54,Woman,Outside Australia,0.0
+54,Non-binary,New South Wales,0.0
+54,Non-binary,Victoria,0.0
+54,Non-binary,Queensland,0.0
+54,Non-binary,South Australia,0.0
+54,Non-binary,Western Australia,0.0
+54,Non-binary,Tasmania,0.0
+54,Non-binary,Northern Territory,0.0
+54,Non-binary,Australian Capital Territory,0.0
+54,Non-binary,Other Territories,0.0
+54,Non-binary,Outside Australia,0.0
+54,Total,New South Wales,88.2
+54,Total,Victoria,94.3
+54,Total,Queensland,65.7
+54,Total,South Australia,18.0
+54,Total,Western Australia,24.3
+54,Total,Tasmania,9.4
+54,Total,Northern Territory,1.1
+54,Total,Australian Capital Territory,6.4
+54,Total,Other Territories,0.0
+54,Total,Outside Australia,0.0
+55,Man,New South Wales,54.9
+55,Man,Victoria,23.6
+55,Man,Queensland,29.0
+55,Man,South Australia,6.4
+55,Man,Western Australia,5.9
+55,Man,Tasmania,2.7
+55,Man,Northern Territory,0.7
+55,Man,Australian Capital Territory,1.6
+55,Man,Other Territories,0.0
+55,Man,Outside Australia,0.0
+55,Woman,New South Wales,45.7
+55,Woman,Victoria,38.3
+55,Woman,Queensland,29.8
+55,Woman,South Australia,7.3
+55,Woman,Western Australia,11.9
+55,Woman,Tasmania,2.8
+55,Woman,Northern Territory,1.5
+55,Woman,Australian Capital Territory,2.6
+55,Woman,Other Territories,0.0
+55,Woman,Outside Australia,0.0
+55,Non-binary,New South Wales,0.0
+55,Non-binary,Victoria,0.0
+55,Non-binary,Queensland,0.0
+55,Non-binary,South Australia,0.0
+55,Non-binary,Western Australia,0.0
+55,Non-binary,Tasmania,0.0
+55,Non-binary,Northern Territory,0.0
+55,Non-binary,Australian Capital Territory,0.0
+55,Non-binary,Other Territories,0.0
+55,Non-binary,Outside Australia,0.0
+55,Total,New South Wales,96.9
+55,Total,Victoria,44.7
+55,Total,Queensland,49.0
+55,Total,South Australia,19.0
+55,Total,Western Australia,22.7
+55,Total,Tasmania,5.0
+55,Total,Northern Territory,2.1
+55,Total,Australian Capital Territory,3.4
+55,Total,Other Territories,0.0
+55,Total,Outside Australia,0.0
+56,Man,New South Wales,40.0
+56,Man,Victoria,22.8
+56,Man,Queensland,31.8
+56,Man,South Australia,17.6
+56,Man,Western Australia,19.4
+56,Man,Tasmania,1.7
+56,Man,Northern Territory,0.6
+56,Man,Australian Capital Territory,4.2
+56,Man,Other Territories,0.0
+56,Man,Outside Australia,0.0
+56,Woman,New South Wales,49.5
+56,Woman,Victoria,43.2
+56,Woman,Queensland,30.4
+56,Woman,South Australia,8.7
+56,Woman,Western Australia,7.4
+56,Woman,Tasmania,4.0
+56,Woman,Northern Territory,1.2
+56,Woman,Australian Capital Territory,2.8
+56,Woman,Other Territories,0.0
+56,Woman,Outside Australia,0.0
+56,Non-binary,New South Wales,0.0
+56,Non-binary,Victoria,0.0
+56,Non-binary,Queensland,0.0
+56,Non-binary,South Australia,0.0
+56,Non-binary,Western Australia,0.0
+56,Non-binary,Tasmania,0.0
+56,Non-binary,Northern Territory,0.0
+56,Non-binary,Australian Capital Territory,0.0
+56,Non-binary,Other Territories,0.0
+56,Non-binary,Outside Australia,0.0
+56,Total,New South Wales,99.2
+56,Total,Victoria,82.2
+56,Total,Queensland,56.6
+56,Total,South Australia,23.7
+56,Total,Western Australia,23.6
+56,Total,Tasmania,5.4
+56,Total,Northern Territory,1.5
+56,Total,Australian Capital Territory,6.8
+56,Total,Other Territories,0.0
+56,Total,Outside Australia,0.0
+57,Man,New South Wales,43.0
+57,Man,Victoria,70.6
+57,Man,Queensland,43.1
+57,Man,South Australia,13.0
+57,Man,Western Australia,22.4
+57,Man,Tasmania,4.0
+57,Man,Northern Territory,1.3
+57,Man,Australian Capital Territory,0.9
+57,Man,Other Territories,0.0
+57,Man,Outside Australia,0.0
+57,Woman,New South Wales,47.9
+57,Woman,Victoria,46.0
+57,Woman,Queensland,45.2
+57,Woman,South Australia,11.7
+57,Woman,Western Australia,11.3
+57,Woman,Tasmania,2.4
+57,Woman,Northern Territory,1.8
+57,Woman,Australian Capital Territory,0.9
+57,Woman,Other Territories,0.0
+57,Woman,Outside Australia,0.0
+57,Non-binary,New South Wales,0.0
+57,Non-binary,Victoria,0.0
+57,Non-binary,Queensland,0.0
+57,Non-binary,South Australia,0.0
+57,Non-binary,Western Australia,0.0
+57,Non-binary,Tasmania,0.0
+57,Non-binary,Northern Territory,0.0
+57,Non-binary,Australian Capital Territory,0.0
+57,Non-binary,Other Territories,0.0
+57,Non-binary,Outside Australia,0.0
+57,Total,New South Wales,88.6
+57,Total,Victoria,112.7
+57,Total,Queensland,83.0
+57,Total,South Australia,29.4
+57,Total,Western Australia,31.2
+57,Total,Tasmania,5.4
+57,Total,Northern Territory,2.5
+57,Total,Australian Capital Territory,3.2
+57,Total,Other Territories,0.0
+57,Total,Outside Australia,0.0
+58,Man,New South Wales,64.3
+58,Man,Victoria,30.0
+58,Man,Queensland,39.2
+58,Man,South Australia,7.0
+58,Man,Western Australia,17.7
+58,Man,Tasmania,4.4
+58,Man,Northern Territory,0.0
+58,Man,Australian Capital Territory,2.7
+58,Man,Other Territories,0.0
+58,Man,Outside Australia,0.0
+58,Woman,New South Wales,32.9
+58,Woman,Victoria,30.8
+58,Woman,Queensland,16.3
+58,Woman,South Australia,6.6
+58,Woman,Western Australia,16.5
+58,Woman,Tasmania,6.2
+58,Woman,Northern Territory,1.6
+58,Woman,Australian Capital Territory,2.1
+58,Woman,Other Territories,0.0
+58,Woman,Outside Australia,0.0
+58,Non-binary,New South Wales,0.0
+58,Non-binary,Victoria,0.0
+58,Non-binary,Queensland,0.0
+58,Non-binary,South Australia,0.0
+58,Non-binary,Western Australia,0.0
+58,Non-binary,Tasmania,0.0
+58,Non-binary,Northern Territory,0.0
+58,Non-binary,Australian Capital Territory,0.0
+58,Non-binary,Other Territories,0.0
+58,Non-binary,Outside Australia,0.0
+58,Total,New South Wales,100.8
+58,Total,Victoria,52.5
+58,Total,Queensland,52.7
+58,Total,South Australia,16.6
+58,Total,Western Australia,34.8
+58,Total,Tasmania,9.6
+58,Total,Northern Territory,1.6
+58,Total,Australian Capital Territory,5.1
+58,Total,Other Territories,0.0
+58,Total,Outside Australia,0.0
+59,Man,New South Wales,48.6
+59,Man,Victoria,34.1
+59,Man,Queensland,20.9
+59,Man,South Australia,12.6
+59,Man,Western Australia,15.6
+59,Man,Tasmania,2.4
+59,Man,Northern Territory,0.4
+59,Man,Australian Capital Territory,1.0
+59,Man,Other Territories,0.0
+59,Man,Outside Australia,0.0
+59,Woman,New South Wales,45.2
+59,Woman,Victoria,40.6
+59,Woman,Queensland,29.6
+59,Woman,South Australia,11.4
+59,Woman,Western Australia,12.5
+59,Woman,Tasmania,5.3
+59,Woman,Northern Territory,1.7
+59,Woman,Australian Capital Territory,1.4
+59,Woman,Other Territories,0.0
+59,Woman,Outside Australia,0.0
+59,Non-binary,New South Wales,0.0
+59,Non-binary,Victoria,0.0
+59,Non-binary,Queensland,0.0
+59,Non-binary,South Australia,0.0
+59,Non-binary,Western Australia,0.0
+59,Non-binary,Tasmania,0.0
+59,Non-binary,Northern Territory,0.0
+59,Non-binary,Australian Capital Territory,0.0
+59,Non-binary,Other Territories,0.0
+59,Non-binary,Outside Australia,0.0
+59,Total,New South Wales,97.3
+59,Total,Victoria,74.4
+59,Total,Queensland,44.6
+59,Total,South Australia,23.7
+59,Total,Western Australia,32.4
+59,Total,Tasmania,7.7
+59,Total,Northern Territory,1.3
+59,Total,Australian Capital Territory,3.1
+59,Total,Other Territories,0.0
+59,Total,Outside Australia,0.0
+60,Man,New South Wales,39.2
+60,Man,Victoria,29.4
+60,Man,Queensland,31.2
+60,Man,South Australia,10.2
+60,Man,Western Australia,4.0
+60,Man,Tasmania,4.5
+60,Man,Northern Territory,1.2
+60,Man,Australian Capital Territory,1.5
+60,Man,Other Territories,0.0
+60,Man,Outside Australia,0.0
+60,Woman,New South Wales,41.2
+60,Woman,Victoria,32.2
+60,Woman,Queensland,47.6
+60,Woman,South Australia,11.3
+60,Woman,Western Australia,10.1
+60,Woman,Tasmania,4.8
+60,Woman,Northern Territory,0.5
+60,Woman,Australian Capital Territory,1.7
+60,Woman,Other Territories,0.0
+60,Woman,Outside Australia,0.0
+60,Non-binary,New South Wales,0.0
+60,Non-binary,Victoria,0.0
+60,Non-binary,Queensland,0.0
+60,Non-binary,South Australia,0.0
+60,Non-binary,Western Australia,0.0
+60,Non-binary,Tasmania,0.0
+60,Non-binary,Northern Territory,0.0
+60,Non-binary,Australian Capital Territory,0.0
+60,Non-binary,Other Territories,0.0
+60,Non-binary,Outside Australia,0.0
+60,Total,New South Wales,76.1
+60,Total,Victoria,59.6
+60,Total,Queensland,78.0
+60,Total,South Australia,21.8
+60,Total,Western Australia,18.8
+60,Total,Tasmania,9.5
+60,Total,Northern Territory,1.3
+60,Total,Australian Capital Territory,2.3
+60,Total,Other Territories,0.0
+60,Total,Outside Australia,0.0
+61,Man,New South Wales,19.5
+61,Man,Victoria,44.5
+61,Man,Queensland,37.7
+61,Man,South Australia,11.9
+61,Man,Western Australia,14.9
+61,Man,Tasmania,5.8
+61,Man,Northern Territory,1.1
+61,Man,Australian Capital Territory,2.1
+61,Man,Other Territories,0.0
+61,Man,Outside Australia,0.0
+61,Woman,New South Wales,55.0
+61,Woman,Victoria,37.3
+61,Woman,Queensland,41.3
+61,Woman,South Australia,18.5
+61,Woman,Western Australia,13.8
+61,Woman,Tasmania,4.9
+61,Woman,Northern Territory,0.9
+61,Woman,Australian Capital Territory,2.7
+61,Woman,Other Territories,0.0
+61,Woman,Outside Australia,0.0
+61,Non-binary,New South Wales,0.0
+61,Non-binary,Victoria,0.0
+61,Non-binary,Queensland,0.0
+61,Non-binary,South Australia,0.0
+61,Non-binary,Western Australia,0.0
+61,Non-binary,Tasmania,0.0
+61,Non-binary,Northern Territory,0.0
+61,Non-binary,Australian Capital Territory,0.0
+61,Non-binary,Other Territories,0.0
+61,Non-binary,Outside Australia,0.0
+61,Total,New South Wales,83.2
+61,Total,Victoria,97.5
+61,Total,Queensland,77.0
+61,Total,South Australia,30.7
+61,Total,Western Australia,29.9
+61,Total,Tasmania,8.6
+61,Total,Northern Territory,2.1
+61,Total,Australian Capital Territory,4.8
+61,Total,Other Territories,0.0
+61,Total,Outside Australia,0.0
+62,Man,New South Wales,48.6
+62,Man,Victoria,14.0
+62,Man,Queensland,13.2
+62,Man,South Australia,15.3
+62,Man,Western Australia,16.2
+62,Man,Tasmania,4.3
+62,Man,Northern Territory,2.5
+62,Man,Australian Capital Territory,1.1
+62,Man,Other Territories,0.0
+62,Man,Outside Australia,0.0
+62,Woman,New South Wales,68.9
+62,Woman,Victoria,34.6
+62,Woman,Queensland,16.3
+62,Woman,South Australia,7.4
+62,Woman,Western Australia,18.1
+62,Woman,Tasmania,3.5
+62,Woman,Northern Territory,0.0
+62,Woman,Australian Capital Territory,2.9
+62,Woman,Other Territories,0.0
+62,Woman,Outside Australia,0.0
+62,Non-binary,New South Wales,0.0
+62,Non-binary,Victoria,0.0
+62,Non-binary,Queensland,0.0
+62,Non-binary,South Australia,0.0
+62,Non-binary,Western Australia,0.0
+62,Non-binary,Tasmania,0.0
+62,Non-binary,Northern Territory,0.0
+62,Non-binary,Australian Capital Territory,0.0
+62,Non-binary,Other Territories,0.0
+62,Non-binary,Outside Australia,0.0
+62,Total,New South Wales,100.8
+62,Total,Victoria,48.2
+62,Total,Queensland,28.2
+62,Total,South Australia,22.7
+62,Total,Western Australia,37.6
+62,Total,Tasmania,6.2
+62,Total,Northern Territory,2.6
+62,Total,Australian Capital Territory,3.3
+62,Total,Other Territories,0.0
+62,Total,Outside Australia,0.0
+63,Man,New South Wales,46.1
+63,Man,Victoria,33.7
+63,Man,Queensland,22.0
+63,Man,South Australia,6.6
+63,Man,Western Australia,7.1
+63,Man,Tasmania,3.7
+63,Man,Northern Territory,1.2
+63,Man,Australian Capital Territory,1.6
+63,Man,Other Territories,0.0
+63,Man,Outside Australia,0.0
+63,Woman,New South Wales,43.8
+63,Woman,Victoria,15.7
+63,Woman,Queensland,25.2
+63,Woman,South Australia,8.9
+63,Woman,Western Australia,23.2
+63,Woman,Tasmania,1.6
+63,Woman,Northern Territory,1.7
+63,Woman,Australian Capital Territory,3.5
+63,Woman,Other Territories,0.0
+63,Woman,Outside Australia,0.0
+63,Non-binary,New South Wales,0.0
+63,Non-binary,Victoria,0.0
+63,Non-binary,Queensland,0.0
+63,Non-binary,South Australia,0.0
+63,Non-binary,Western Australia,0.0
+63,Non-binary,Tasmania,0.0
+63,Non-binary,Northern Territory,0.0
+63,Non-binary,Australian Capital Territory,0.0
+63,Non-binary,Other Territories,0.0
+63,Non-binary,Outside Australia,0.0
+63,Total,New South Wales,96.4
+63,Total,Victoria,68.9
+63,Total,Queensland,52.1
+63,Total,South Australia,12.9
+63,Total,Western Australia,34.7
+63,Total,Tasmania,4.3
+63,Total,Northern Territory,2.4
+63,Total,Australian Capital Territory,3.9
+63,Total,Other Territories,0.0
+63,Total,Outside Australia,0.0
+64,Man,New South Wales,41.6
+64,Man,Victoria,33.2
+64,Man,Queensland,19.5
+64,Man,South Australia,12.8
+64,Man,Western Australia,22.8
+64,Man,Tasmania,5.8
+64,Man,Northern Territory,0.6
+64,Man,Australian Capital Territory,1.7
+64,Man,Other Territories,0.0
+64,Man,Outside Australia,0.0
+64,Woman,New South Wales,30.0
+64,Woman,Victoria,47.7
+64,Woman,Queensland,24.2
+64,Woman,South Australia,13.0
+64,Woman,Western Australia,22.0
+64,Woman,Tasmania,4.2
+64,Woman,Northern Territory,0.5
+64,Woman,Australian Capital Territory,3.4
+64,Woman,Other Territories,0.0
+64,Woman,Outside Australia,0.0
+64,Non-binary,New South Wales,0.0
+64,Non-binary,Victoria,0.0
+64,Non-binary,Queensland,0.0
+64,Non-binary,South Australia,0.0
+64,Non-binary,Western Australia,0.0
+64,Non-binary,Tasmania,0.0
+64,Non-binary,Northern Territory,0.0
+64,Non-binary,Australian Capital Territory,0.0
+64,Non-binary,Other Territories,0.0
+64,Non-binary,Outside Australia,0.0
+64,Total,New South Wales,79.3
+64,Total,Victoria,78.7
+64,Total,Queensland,56.8
+64,Total,South Australia,21.3
+64,Total,Western Australia,43.7
+64,Total,Tasmania,10.0
+64,Total,Northern Territory,1.8
+64,Total,Australian Capital Territory,6.6
+64,Total,Other Territories,0.0
+64,Total,Outside Australia,0.0
+65,Man,New South Wales,40.6
+65,Man,Victoria,38.2
+65,Man,Queensland,25.5
+65,Man,South Australia,6.9
+65,Man,Western Australia,23.4
+65,Man,Tasmania,2.0
+65,Man,Northern Territory,0.3
+65,Man,Australian Capital Territory,0.7
+65,Man,Other Territories,0.0
+65,Man,Outside Australia,0.0
+65,Woman,New South Wales,25.9
+65,Woman,Victoria,43.0
+65,Woman,Queensland,20.9
+65,Woman,South Australia,8.5
+65,Woman,Western Australia,10.5
+65,Woman,Tasmania,5.7
+65,Woman,Northern Territory,0.9
+65,Woman,Australian Capital Territory,1.5
+65,Woman,Other Territories,0.0
+65,Woman,Outside Australia,0.0
+65,Non-binary,New South Wales,0.0
+65,Non-binary,Victoria,0.0
+65,Non-binary,Queensland,0.0
+65,Non-binary,South Australia,0.0
+65,Non-binary,Western Australia,0.0
+65,Non-binary,Tasmania,0.0
+65,Non-binary,Northern Territory,0.0
+65,Non-binary,Australian Capital Territory,0.0
+65,Non-binary,Other Territories,0.0
+65,Non-binary,Outside Australia,0.0
+65,Total,New South Wales,74.8
+65,Total,Victoria,66.2
+65,Total,Queensland,48.3
+65,Total,South Australia,20.6
+65,Total,Western Australia,29.9
+65,Total,Tasmania,6.8
+65,Total,Northern Territory,1.2
+65,Total,Australian Capital Territory,2.7
+65,Total,Other Territories,0.0
+65,Total,Outside Australia,0.0
+66,Man,New South Wales,33.7
+66,Man,Victoria,37.1
+66,Man,Queensland,26.2
+66,Man,South Australia,9.0
+66,Man,Western Australia,7.1
+66,Man,Tasmania,1.9
+66,Man,Northern Territory,0.6
+66,Man,Australian Capital Territory,1.3
+66,Man,Other Territories,0.0
+66,Man,Outside Australia,0.0
+66,Woman,New South Wales,58.6
+66,Woman,Victoria,25.8
+66,Woman,Queensland,41.2
+66,Woman,South Australia,10.7
+66,Woman,Western Australia,13.5
+66,Woman,Tasmania,5.1
+66,Woman,Northern Territory,0.4
+66,Woman,Australian Capital Territory,1.6
+66,Woman,Other Territories,0.0
+66,Woman,Outside Australia,0.0
+66,Non-binary,New South Wales,0.0
+66,Non-binary,Victoria,0.0
+66,Non-binary,Queensland,0.0
+66,Non-binary,South Australia,0.0
+66,Non-binary,Western Australia,0.0
+66,Non-binary,Tasmania,0.0
+66,Non-binary,Northern Territory,0.0
+66,Non-binary,Australian Capital Territory,0.0
+66,Non-binary,Other Territories,0.0
+66,Non-binary,Outside Australia,0.0
+66,Total,New South Wales,98.7
+66,Total,Victoria,60.9
+66,Total,Queensland,58.9
+66,Total,South Australia,21.4
+66,Total,Western Australia,19.6
+66,Total,Tasmania,7.0
+66,Total,Northern Territory,0.9
+66,Total,Australian Capital Territory,2.8
+66,Total,Other Territories,0.0
+66,Total,Outside Australia,0.0
+67,Man,New South Wales,52.5
+67,Man,Victoria,24.6
+67,Man,Queensland,27.3
+67,Man,South Australia,13.3
+67,Man,Western Australia,11.1
+67,Man,Tasmania,1.2
+67,Man,Northern Territory,0.8
+67,Man,Australian Capital Territory,1.1
+67,Man,Other Territories,0.0
+67,Man,Outside Australia,0.0
+67,Woman,New South Wales,50.6
+67,Woman,Victoria,40.8
+67,Woman,Queensland,26.0
+67,Woman,South Australia,12.0
+67,Woman,Western Australia,2.2
+67,Woman,Tasmania,2.7
+67,Woman,Northern Territory,0.5
+67,Woman,Australian Capital Territory,2.5
+67,Woman,Other Territories,0.0
+67,Woman,Outside Australia,0.0
+67,Non-binary,New South Wales,0.0
+67,Non-binary,Victoria,0.0
+67,Non-binary,Queensland,0.0
+67,Non-binary,South Australia,0.0
+67,Non-binary,Western Australia,1.1
+67,Non-binary,Tasmania,0.0
+67,Non-binary,Northern Territory,0.0
+67,Non-binary,Australian Capital Territory,0.0
+67,Non-binary,Other Territories,0.0
+67,Non-binary,Outside Australia,0.0
+67,Total,New South Wales,98.4
+67,Total,Victoria,61.7
+67,Total,Queensland,55.3
+67,Total,South Australia,25.6
+67,Total,Western Australia,12.1
+67,Total,Tasmania,4.8
+67,Total,Northern Territory,1.6
+67,Total,Australian Capital Territory,4.2
+67,Total,Other Territories,0.0
+67,Total,Outside Australia,0.0
+68,Man,New South Wales,36.3
+68,Man,Victoria,24.1
+68,Man,Queensland,33.5
+68,Man,South Australia,9.8
+68,Man,Western Australia,16.9
+68,Man,Tasmania,3.7
+68,Man,Northern Territory,0.6
+68,Man,Australian Capital Territory,1.5
+68,Man,Other Territories,0.0
+68,Man,Outside Australia,0.0
+68,Woman,New South Wales,36.6
+68,Woman,Victoria,10.9
+68,Woman,Queensland,27.3
+68,Woman,South Australia,10.8
+68,Woman,Western Australia,6.6
+68,Woman,Tasmania,4.0
+68,Woman,Northern Territory,0.4
+68,Woman,Australian Capital Territory,2.0
+68,Woman,Other Territories,0.0
+68,Woman,Outside Australia,0.0
+68,Non-binary,New South Wales,0.0
+68,Non-binary,Victoria,0.0
+68,Non-binary,Queensland,0.0
+68,Non-binary,South Australia,0.0
+68,Non-binary,Western Australia,0.0
+68,Non-binary,Tasmania,0.0
+68,Non-binary,Northern Territory,0.0
+68,Non-binary,Australian Capital Territory,0.0
+68,Non-binary,Other Territories,0.0
+68,Non-binary,Outside Australia,0.0
+68,Total,New South Wales,74.5
+68,Total,Victoria,27.4
+68,Total,Queensland,53.5
+68,Total,South Australia,22.3
+68,Total,Western Australia,20.3
+68,Total,Tasmania,5.3
+68,Total,Northern Territory,1.4
+68,Total,Australian Capital Territory,4.0
+68,Total,Other Territories,0.0
+68,Total,Outside Australia,0.0
+69,Man,New South Wales,36.1
+69,Man,Victoria,12.3
+69,Man,Queensland,21.7
+69,Man,South Australia,10.8
+69,Man,Western Australia,7.9
+69,Man,Tasmania,5.1
+69,Man,Northern Territory,0.3
+69,Man,Australian Capital Territory,2.2
+69,Man,Other Territories,0.0
+69,Man,Outside Australia,0.0
+69,Woman,New South Wales,29.4
+69,Woman,Victoria,53.3
+69,Woman,Queensland,27.6
+69,Woman,South Australia,13.7
+69,Woman,Western Australia,12.2
+69,Woman,Tasmania,3.4
+69,Woman,Northern Territory,1.3
+69,Woman,Australian Capital Territory,1.5
+69,Woman,Other Territories,0.0
+69,Woman,Outside Australia,0.0
+69,Non-binary,New South Wales,0.0
+69,Non-binary,Victoria,0.0
+69,Non-binary,Queensland,0.0
+69,Non-binary,South Australia,0.0
+69,Non-binary,Western Australia,0.0
+69,Non-binary,Tasmania,0.0
+69,Non-binary,Northern Territory,0.0
+69,Non-binary,Australian Capital Territory,0.0
+69,Non-binary,Other Territories,0.0
+69,Non-binary,Outside Australia,0.0
+69,Total,New South Wales,57.0
+69,Total,Victoria,69.0
+69,Total,Queensland,43.4
+69,Total,South Australia,24.5
+69,Total,Western Australia,20.5
+69,Total,Tasmania,8.4
+69,Total,Northern Territory,1.4
+69,Total,Australian Capital Territory,3.4
+69,Total,Other Territories,0.0
+69,Total,Outside Australia,0.0
+70,Man,New South Wales,48.5
+70,Man,Victoria,20.3
+70,Man,Queensland,15.9
+70,Man,South Australia,10.4
+70,Man,Western Australia,15.5
+70,Man,Tasmania,3.0
+70,Man,Northern Territory,0.3
+70,Man,Australian Capital Territory,1.5
+70,Man,Other Territories,0.0
+70,Man,Outside Australia,0.0
+70,Woman,New South Wales,37.9
+70,Woman,Victoria,25.2
+70,Woman,Queensland,24.2
+70,Woman,South Australia,6.0
+70,Woman,Western Australia,24.0
+70,Woman,Tasmania,5.5
+70,Woman,Northern Territory,0.9
+70,Woman,Australian Capital Territory,1.9
+70,Woman,Other Territories,0.0
+70,Woman,Outside Australia,0.0
+70,Non-binary,New South Wales,0.0
+70,Non-binary,Victoria,0.0
+70,Non-binary,Queensland,0.0
+70,Non-binary,South Australia,0.0
+70,Non-binary,Western Australia,0.0
+70,Non-binary,Tasmania,0.0
+70,Non-binary,Northern Territory,0.0
+70,Non-binary,Australian Capital Territory,0.0
+70,Non-binary,Other Territories,0.0
+70,Non-binary,Outside Australia,0.0
+70,Total,New South Wales,92.6
+70,Total,Victoria,56.9
+70,Total,Queensland,39.1
+70,Total,South Australia,13.8
+70,Total,Western Australia,39.7
+70,Total,Tasmania,8.7
+70,Total,Northern Territory,1.4
+70,Total,Australian Capital Territory,2.9
+70,Total,Other Territories,0.0
+70,Total,Outside Australia,0.0
+71,Man,New South Wales,27.3
+71,Man,Victoria,29.3
+71,Man,Queensland,19.9
+71,Man,South Australia,7.1
+71,Man,Western Australia,6.6
+71,Man,Tasmania,4.7
+71,Man,Northern Territory,0.3
+71,Man,Australian Capital Territory,1.1
+71,Man,Other Territories,0.0
+71,Man,Outside Australia,0.0
+71,Woman,New South Wales,36.8
+71,Woman,Victoria,22.7
+71,Woman,Queensland,21.0
+71,Woman,South Australia,10.7
+71,Woman,Western Australia,18.0
+71,Woman,Tasmania,2.7
+71,Woman,Northern Territory,0.7
+71,Woman,Australian Capital Territory,1.9
+71,Woman,Other Territories,0.0
+71,Woman,Outside Australia,0.0
+71,Non-binary,New South Wales,0.0
+71,Non-binary,Victoria,0.0
+71,Non-binary,Queensland,0.0
+71,Non-binary,South Australia,0.0
+71,Non-binary,Western Australia,0.0
+71,Non-binary,Tasmania,0.0
+71,Non-binary,Northern Territory,0.0
+71,Non-binary,Australian Capital Territory,0.0
+71,Non-binary,Other Territories,0.0
+71,Non-binary,Outside Australia,0.0
+71,Total,New South Wales,64.3
+71,Total,Victoria,44.2
+71,Total,Queensland,50.3
+71,Total,South Australia,15.2
+71,Total,Western Australia,32.7
+71,Total,Tasmania,7.0
+71,Total,Northern Territory,1.1
+71,Total,Australian Capital Territory,2.2
+71,Total,Other Territories,0.0
+71,Total,Outside Australia,0.0
+72,Man,New South Wales,31.6
+72,Man,Victoria,17.8
+72,Man,Queensland,15.6
+72,Man,South Australia,4.8
+72,Man,Western Australia,8.0
+72,Man,Tasmania,2.0
+72,Man,Northern Territory,0.5
+72,Man,Australian Capital Territory,2.7
+72,Man,Other Territories,0.0
+72,Man,Outside Australia,0.0
+72,Woman,New South Wales,31.0
+72,Woman,Victoria,23.9
+72,Woman,Queensland,20.8
+72,Woman,South Australia,6.0
+72,Woman,Western Australia,8.6
+72,Woman,Tasmania,4.0
+72,Woman,Northern Territory,0.3
+72,Woman,Australian Capital Territory,2.5
+72,Woman,Other Territories,0.0
+72,Woman,Outside Australia,0.0
+72,Non-binary,New South Wales,0.0
+72,Non-binary,Victoria,0.0
+72,Non-binary,Queensland,0.0
+72,Non-binary,South Australia,0.0
+72,Non-binary,Western Australia,0.0
+72,Non-binary,Tasmania,0.0
+72,Non-binary,Northern Territory,0.0
+72,Non-binary,Australian Capital Territory,0.0
+72,Non-binary,Other Territories,0.0
+72,Non-binary,Outside Australia,0.0
+72,Total,New South Wales,65.3
+72,Total,Victoria,49.0
+72,Total,Queensland,35.1
+72,Total,South Australia,12.5
+72,Total,Western Australia,16.9
+72,Total,Tasmania,5.8
+72,Total,Northern Territory,0.8
+72,Total,Australian Capital Territory,4.9
+72,Total,Other Territories,0.0
+72,Total,Outside Australia,0.0
+73,Man,New South Wales,26.6
+73,Man,Victoria,33.7
+73,Man,Queensland,20.9
+73,Man,South Australia,5.5
+73,Man,Western Australia,18.0
+73,Man,Tasmania,3.8
+73,Man,Northern Territory,1.0
+73,Man,Australian Capital Territory,1.9
+73,Man,Other Territories,0.0
+73,Man,Outside Australia,0.0
+73,Woman,New South Wales,17.9
+73,Woman,Victoria,31.2
+73,Woman,Queensland,20.9
+73,Woman,South Australia,13.4
+73,Woman,Western Australia,17.8
+73,Woman,Tasmania,2.0
+73,Woman,Northern Territory,0.5
+73,Woman,Australian Capital Territory,0.5
+73,Woman,Other Territories,0.0
+73,Woman,Outside Australia,0.0
+73,Non-binary,New South Wales,0.0
+73,Non-binary,Victoria,0.0
+73,Non-binary,Queensland,0.0
+73,Non-binary,South Australia,0.0
+73,Non-binary,Western Australia,0.0
+73,Non-binary,Tasmania,0.0
+73,Non-binary,Northern Territory,0.0
+73,Non-binary,Australian Capital Territory,0.0
+73,Non-binary,Other Territories,0.0
+73,Non-binary,Outside Australia,0.0
+73,Total,New South Wales,53.2
+73,Total,Victoria,75.3
+73,Total,Queensland,41.8
+73,Total,South Australia,16.2
+73,Total,Western Australia,29.2
+73,Total,Tasmania,5.9
+73,Total,Northern Territory,1.4
+73,Total,Australian Capital Territory,2.6
+73,Total,Other Territories,0.0
+73,Total,Outside Australia,0.0
+74,Man,New South Wales,19.5
+74,Man,Victoria,41.1
+74,Man,Queensland,31.4
+74,Man,South Australia,11.1
+74,Man,Western Australia,10.5
+74,Man,Tasmania,1.6
+74,Man,Northern Territory,0.0
+74,Man,Australian Capital Territory,1.3
+74,Man,Other Territories,0.0
+74,Man,Outside Australia,0.0
+74,Woman,New South Wales,34.9
+74,Woman,Victoria,14.4
+74,Woman,Queensland,23.9
+74,Woman,South Australia,4.0
+74,Woman,Western Australia,8.6
+74,Woman,Tasmania,2.7
+74,Woman,Northern Territory,0.2
+74,Woman,Australian Capital Territory,2.5
+74,Woman,Other Territories,0.0
+74,Woman,Outside Australia,0.0
+74,Non-binary,New South Wales,0.0
+74,Non-binary,Victoria,0.0
+74,Non-binary,Queensland,0.0
+74,Non-binary,South Australia,0.0
+74,Non-binary,Western Australia,0.0
+74,Non-binary,Tasmania,0.0
+74,Non-binary,Northern Territory,0.0
+74,Non-binary,Australian Capital Territory,0.0
+74,Non-binary,Other Territories,0.0
+74,Non-binary,Outside Australia,0.0
+74,Total,New South Wales,46.9
+74,Total,Victoria,48.8
+74,Total,Queensland,43.9
+74,Total,South Australia,17.6
+74,Total,Western Australia,19.0
+74,Total,Tasmania,3.8
+74,Total,Northern Territory,0.3
+74,Total,Australian Capital Territory,4.0
+74,Total,Other Territories,0.0
+74,Total,Outside Australia,0.0
+75,Man,New South Wales,31.1
+75,Man,Victoria,24.6
+75,Man,Queensland,21.3
+75,Man,South Australia,9.1
+75,Man,Western Australia,19.3
+75,Man,Tasmania,2.0
+75,Man,Northern Territory,0.4
+75,Man,Australian Capital Territory,2.1
+75,Man,Other Territories,0.0
+75,Man,Outside Australia,0.0
+75,Woman,New South Wales,25.2
+75,Woman,Victoria,27.2
+75,Woman,Queensland,31.2
+75,Woman,South Australia,12.3
+75,Woman,Western Australia,8.5
+75,Woman,Tasmania,1.2
+75,Woman,Northern Territory,0.3
+75,Woman,Australian Capital Territory,1.1
+75,Woman,Other Territories,0.0
+75,Woman,Outside Australia,0.0
+75,Non-binary,New South Wales,0.0
+75,Non-binary,Victoria,0.0
+75,Non-binary,Queensland,0.0
+75,Non-binary,South Australia,0.0
+75,Non-binary,Western Australia,0.0
+75,Non-binary,Tasmania,0.0
+75,Non-binary,Northern Territory,0.0
+75,Non-binary,Australian Capital Territory,0.0
+75,Non-binary,Other Territories,0.0
+75,Non-binary,Outside Australia,0.0
+75,Total,New South Wales,57.0
+75,Total,Victoria,44.5
+75,Total,Queensland,41.3
+75,Total,South Australia,19.3
+75,Total,Western Australia,30.2
+75,Total,Tasmania,3.8
+75,Total,Northern Territory,0.7
+75,Total,Australian Capital Territory,2.2
+75,Total,Other Territories,0.0
+75,Total,Outside Australia,0.0
+76,Man,New South Wales,31.6
+76,Man,Victoria,20.6
+76,Man,Queensland,21.5
+76,Man,South Australia,4.3
+76,Man,Western Australia,15.3
+76,Man,Tasmania,2.7
+76,Man,Northern Territory,0.0
+76,Man,Australian Capital Territory,1.4
+76,Man,Other Territories,0.0
+76,Man,Outside Australia,0.0
+76,Woman,New South Wales,32.1
+76,Woman,Victoria,22.5
+76,Woman,Queensland,15.3
+76,Woman,South Australia,8.4
+76,Woman,Western Australia,12.3
+76,Woman,Tasmania,2.7
+76,Woman,Northern Territory,0.0
+76,Woman,Australian Capital Territory,0.5
+76,Woman,Other Territories,0.0
+76,Woman,Outside Australia,0.0
+76,Non-binary,New South Wales,0.0
+76,Non-binary,Victoria,0.0
+76,Non-binary,Queensland,0.0
+76,Non-binary,South Australia,0.0
+76,Non-binary,Western Australia,0.0
+76,Non-binary,Tasmania,0.0
+76,Non-binary,Northern Territory,0.0
+76,Non-binary,Australian Capital Territory,0.0
+76,Non-binary,Other Territories,0.0
+76,Non-binary,Outside Australia,0.0
+76,Total,New South Wales,55.2
+76,Total,Victoria,51.1
+76,Total,Queensland,36.9
+76,Total,South Australia,10.6
+76,Total,Western Australia,20.4
+76,Total,Tasmania,5.3
+76,Total,Northern Territory,0.0
+76,Total,Australian Capital Territory,2.1
+76,Total,Other Territories,0.0
+76,Total,Outside Australia,0.0
+77,Man,New South Wales,22.1
+77,Man,Victoria,25.5
+77,Man,Queensland,4.1
+77,Man,South Australia,12.2
+77,Man,Western Australia,9.4
+77,Man,Tasmania,2.4
+77,Man,Northern Territory,0.5
+77,Man,Australian Capital Territory,1.8
+77,Man,Other Territories,0.0
+77,Man,Outside Australia,0.0
+77,Woman,New South Wales,24.9
+77,Woman,Victoria,24.9
+77,Woman,Queensland,20.6
+77,Woman,South Australia,11.0
+77,Woman,Western Australia,13.6
+77,Woman,Tasmania,1.5
+77,Woman,Northern Territory,0.9
+77,Woman,Australian Capital Territory,1.1
+77,Woman,Other Territories,0.0
+77,Woman,Outside Australia,0.0
+77,Non-binary,New South Wales,0.0
+77,Non-binary,Victoria,0.0
+77,Non-binary,Queensland,0.0
+77,Non-binary,South Australia,0.0
+77,Non-binary,Western Australia,0.0
+77,Non-binary,Tasmania,0.0
+77,Non-binary,Northern Territory,0.0
+77,Non-binary,Australian Capital Territory,0.0
+77,Non-binary,Other Territories,0.0
+77,Non-binary,Outside Australia,0.0
+77,Total,New South Wales,48.9
+77,Total,Victoria,42.2
+77,Total,Queensland,28.9
+77,Total,South Australia,18.7
+77,Total,Western Australia,21.6
+77,Total,Tasmania,4.5
+77,Total,Northern Territory,1.2
+77,Total,Australian Capital Territory,1.7
+77,Total,Other Territories,0.0
+77,Total,Outside Australia,0.0
+78,Man,New South Wales,23.3
+78,Man,Victoria,20.3
+78,Man,Queensland,15.9
+78,Man,South Australia,4.3
+78,Man,Western Australia,8.6
+78,Man,Tasmania,3.4
+78,Man,Northern Territory,0.0
+78,Man,Australian Capital Territory,3.0
+78,Man,Other Territories,0.0
+78,Man,Outside Australia,0.0
+78,Woman,New South Wales,31.1
+78,Woman,Victoria,24.0
+78,Woman,Queensland,23.3
+78,Woman,South Australia,6.5
+78,Woman,Western Australia,3.1
+78,Woman,Tasmania,3.6
+78,Woman,Northern Territory,0.3
+78,Woman,Australian Capital Territory,1.4
+78,Woman,Other Territories,0.0
+78,Woman,Outside Australia,0.0
+78,Non-binary,New South Wales,0.0
+78,Non-binary,Victoria,0.0
+78,Non-binary,Queensland,0.0
+78,Non-binary,South Australia,0.0
+78,Non-binary,Western Australia,0.0
+78,Non-binary,Tasmania,0.0
+78,Non-binary,Northern Territory,0.0
+78,Non-binary,Australian Capital Territory,0.0
+78,Non-binary,Other Territories,0.0
+78,Non-binary,Outside Australia,0.0
+78,Total,New South Wales,62.0
+78,Total,Victoria,51.3
+78,Total,Queensland,37.4
+78,Total,South Australia,9.2
+78,Total,Western Australia,11.4
+78,Total,Tasmania,5.1
+78,Total,Northern Territory,0.6
+78,Total,Australian Capital Territory,4.3
+78,Total,Other Territories,0.0
+78,Total,Outside Australia,0.0
+79,Man,New South Wales,21.9
+79,Man,Victoria,18.6
+79,Man,Queensland,6.0
+79,Man,South Australia,6.4
+79,Man,Western Australia,2.1
+79,Man,Tasmania,1.1
+79,Man,Northern Territory,0.8
+79,Man,Australian Capital Territory,0.8
+79,Man,Other Territories,0.0
+79,Man,Outside Australia,0.0
+79,Woman,New South Wales,33.2
+79,Woman,Victoria,24.8
+79,Woman,Queensland,13.5
+79,Woman,South Australia,3.4
+79,Woman,Western Australia,4.8
+79,Woman,Tasmania,2.1
+79,Woman,Northern Territory,0.3
+79,Woman,Australian Capital Territory,0.9
+79,Woman,Other Territories,0.0
+79,Woman,Outside Australia,0.0
+79,Non-binary,New South Wales,0.0
+79,Non-binary,Victoria,0.0
+79,Non-binary,Queensland,0.0
+79,Non-binary,South Australia,0.0
+79,Non-binary,Western Australia,0.0
+79,Non-binary,Tasmania,0.0
+79,Non-binary,Northern Territory,0.0
+79,Non-binary,Australian Capital Territory,0.0
+79,Non-binary,Other Territories,0.0
+79,Non-binary,Outside Australia,0.0
+79,Total,New South Wales,57.3
+79,Total,Victoria,38.4
+79,Total,Queensland,25.8
+79,Total,South Australia,14.6
+79,Total,Western Australia,8.6
+79,Total,Tasmania,3.8
+79,Total,Northern Territory,0.6
+79,Total,Australian Capital Territory,1.5
+79,Total,Other Territories,0.0
+79,Total,Outside Australia,0.0
+80,Man,New South Wales,16.7
+80,Man,Victoria,8.5
+80,Man,Queensland,9.8
+80,Man,South Australia,4.0
+80,Man,Western Australia,9.1
+80,Man,Tasmania,0.8
+80,Man,Northern Territory,0.4
+80,Man,Australian Capital Territory,0.7
+80,Man,Other Territories,0.0
+80,Man,Outside Australia,0.0
+80,Woman,New South Wales,21.9
+80,Woman,Victoria,14.6
+80,Woman,Queensland,20.1
+80,Woman,South Australia,4.1
+80,Woman,Western Australia,3.4
+80,Woman,Tasmania,1.4
+80,Woman,Northern Territory,0.3
+80,Woman,Australian Capital Territory,0.8
+80,Woman,Other Territories,0.0
+80,Woman,Outside Australia,0.0
+80,Non-binary,New South Wales,0.0
+80,Non-binary,Victoria,0.0
+80,Non-binary,Queensland,0.0
+80,Non-binary,South Australia,0.0
+80,Non-binary,Western Australia,0.0
+80,Non-binary,Tasmania,0.0
+80,Non-binary,Northern Territory,0.0
+80,Non-binary,Australian Capital Territory,0.0
+80,Non-binary,Other Territories,0.0
+80,Non-binary,Outside Australia,0.0
+80,Total,New South Wales,47.1
+80,Total,Victoria,12.1
+80,Total,Queensland,33.8
+80,Total,South Australia,10.8
+80,Total,Western Australia,14.6
+80,Total,Tasmania,2.6
+80,Total,Northern Territory,0.7
+80,Total,Australian Capital Territory,1.7
+80,Total,Other Territories,0.0
+80,Total,Outside Australia,0.0
+81,Man,New South Wales,30.1
+81,Man,Victoria,31.1
+81,Man,Queensland,0.0
+81,Man,South Australia,4.4
+81,Man,Western Australia,10.6
+81,Man,Tasmania,1.7
+81,Man,Northern Territory,0.2
+81,Man,Australian Capital Territory,0.8
+81,Man,Other Territories,0.0
+81,Man,Outside Australia,0.0
+81,Woman,New South Wales,30.1
+81,Woman,Victoria,10.7
+81,Woman,Queensland,8.5
+81,Woman,South Australia,2.3
+81,Woman,Western Australia,6.4
+81,Woman,Tasmania,2.5
+81,Woman,Northern Territory,0.5
+81,Woman,Australian Capital Territory,1.1
+81,Woman,Other Territories,0.0
+81,Woman,Outside Australia,0.0
+81,Non-binary,New South Wales,0.0
+81,Non-binary,Victoria,0.0
+81,Non-binary,Queensland,0.0
+81,Non-binary,South Australia,0.0
+81,Non-binary,Western Australia,0.0
+81,Non-binary,Tasmania,0.0
+81,Non-binary,Northern Territory,0.0
+81,Non-binary,Australian Capital Territory,0.0
+81,Non-binary,Other Territories,0.0
+81,Non-binary,Outside Australia,0.0
+81,Total,New South Wales,58.1
+81,Total,Victoria,36.4
+81,Total,Queensland,10.2
+81,Total,South Australia,7.1
+81,Total,Western Australia,14.6
+81,Total,Tasmania,2.7
+81,Total,Northern Territory,0.5
+81,Total,Australian Capital Territory,1.7
+81,Total,Other Territories,0.0
+81,Total,Outside Australia,0.0
+82,Man,New South Wales,17.2
+82,Man,Victoria,15.1
+82,Man,Queensland,11.1
+82,Man,South Australia,2.0
+82,Man,Western Australia,0.0
+82,Man,Tasmania,2.2
+82,Man,Northern Territory,0.0
+82,Man,Australian Capital Territory,0.0
+82,Man,Other Territories,0.0
+82,Man,Outside Australia,0.0
+82,Woman,New South Wales,16.7
+82,Woman,Victoria,0.0
+82,Woman,Queensland,6.4
+82,Woman,South Australia,2.7
+82,Woman,Western Australia,10.3
+82,Woman,Tasmania,1.7
+82,Woman,Northern Territory,0.0
+82,Woman,Australian Capital Territory,1.0
+82,Woman,Other Territories,0.0
+82,Woman,Outside Australia,0.0
+82,Non-binary,New South Wales,0.0
+82,Non-binary,Victoria,0.0
+82,Non-binary,Queensland,0.0
+82,Non-binary,South Australia,0.0
+82,Non-binary,Western Australia,0.0
+82,Non-binary,Tasmania,0.0
+82,Non-binary,Northern Territory,0.0
+82,Non-binary,Australian Capital Territory,0.0
+82,Non-binary,Other Territories,0.0
+82,Non-binary,Outside Australia,0.0
+82,Total,New South Wales,29.2
+82,Total,Victoria,8.6
+82,Total,Queensland,20.1
+82,Total,South Australia,3.9
+82,Total,Western Australia,8.8
+82,Total,Tasmania,3.2
+82,Total,Northern Territory,0.0
+82,Total,Australian Capital Territory,0.6
+82,Total,Other Territories,0.0
+82,Total,Outside Australia,0.0
+83,Man,New South Wales,11.5
+83,Man,Victoria,0.0
+83,Man,Queensland,26.1
+83,Man,South Australia,9.3
+83,Man,Western Australia,3.2
+83,Man,Tasmania,0.6
+83,Man,Northern Territory,0.0
+83,Man,Australian Capital Territory,0.0
+83,Man,Other Territories,0.0
+83,Man,Outside Australia,0.0
+83,Woman,New South Wales,11.2
+83,Woman,Victoria,14.7
+83,Woman,Queensland,9.8
+83,Woman,South Australia,4.3
+83,Woman,Western Australia,5.3
+83,Woman,Tasmania,1.5
+83,Woman,Northern Territory,0.0
+83,Woman,Australian Capital Territory,0.0
+83,Woman,Other Territories,0.0
+83,Woman,Outside Australia,0.0
+83,Non-binary,New South Wales,0.0
+83,Non-binary,Victoria,0.0
+83,Non-binary,Queensland,0.0
+83,Non-binary,South Australia,0.0
+83,Non-binary,Western Australia,0.0
+83,Non-binary,Tasmania,0.0
+83,Non-binary,Northern Territory,0.0
+83,Non-binary,Australian Capital Territory,0.0
+83,Non-binary,Other Territories,0.0
+83,Non-binary,Outside Australia,0.0
+83,Total,New South Wales,24.5
+83,Total,Victoria,9.0
+83,Total,Queensland,30.3
+83,Total,South Australia,7.9
+83,Total,Western Australia,6.9
+83,Total,Tasmania,2.3
+83,Total,Northern Territory,0.6
+83,Total,Australian Capital Territory,0.0
+83,Total,Other Territories,0.0
+83,Total,Outside Australia,0.0
+84,Man,New South Wales,8.3
+84,Man,Victoria,7.5
+84,Man,Queensland,13.3
+84,Man,South Australia,1.8
+84,Man,Western Australia,0.0
+84,Man,Tasmania,0.5
+84,Man,Northern Territory,0.0
+84,Man,Australian Capital Territory,0.0
+84,Man,Other Territories,0.0
+84,Man,Outside Australia,0.0
+84,Woman,New South Wales,6.3
+84,Woman,Victoria,21.6
+84,Woman,Queensland,5.0
+84,Woman,South Australia,3.4
+84,Woman,Western Australia,4.7
+84,Woman,Tasmania,0.7
+84,Woman,Northern Territory,0.0
+84,Woman,Australian Capital Territory,0.0
+84,Woman,Other Territories,0.0
+84,Woman,Outside Australia,0.0
+84,Non-binary,New South Wales,0.0
+84,Non-binary,Victoria,0.0
+84,Non-binary,Queensland,0.0
+84,Non-binary,South Australia,0.0
+84,Non-binary,Western Australia,0.0
+84,Non-binary,Tasmania,0.0
+84,Non-binary,Northern Territory,0.0
+84,Non-binary,Australian Capital Territory,0.0
+84,Non-binary,Other Territories,0.0
+84,Non-binary,Outside Australia,0.0
+84,Total,New South Wales,21.6
+84,Total,Victoria,20.0
+84,Total,Queensland,6.0
+84,Total,South Australia,6.4
+84,Total,Western Australia,8.1
+84,Total,Tasmania,1.7
+84,Total,Northern Territory,0.0
+84,Total,Australian Capital Territory,0.0
+84,Total,Other Territories,0.0
+84,Total,Outside Australia,0.0
+85,Man,New South Wales,9.8
+85,Man,Victoria,0.0
+85,Man,Queensland,7.3
+85,Man,South Australia,6.2
+85,Man,Western Australia,3.9
+85,Man,Tasmania,0.9
+85,Man,Northern Territory,0.0
+85,Man,Australian Capital Territory,0.9
+85,Man,Other Territories,0.0
+85,Man,Outside Australia,0.0
+85,Woman,New South Wales,15.6
+85,Woman,Victoria,13.6
+85,Woman,Queensland,8.4
+85,Woman,South Australia,2.5
+85,Woman,Western Australia,3.4
+85,Woman,Tasmania,1.2
+85,Woman,Northern Territory,0.0
+85,Woman,Australian Capital Territory,0.8
+85,Woman,Other Territories,0.0
+85,Woman,Outside Australia,0.0
+85,Non-binary,New South Wales,0.0
+85,Non-binary,Victoria,0.0
+85,Non-binary,Queensland,0.0
+85,Non-binary,South Australia,0.0
+85,Non-binary,Western Australia,0.0
+85,Non-binary,Tasmania,0.0
+85,Non-binary,Northern Territory,0.0
+85,Non-binary,Australian Capital Territory,0.0
+85,Non-binary,Other Territories,0.0
+85,Non-binary,Outside Australia,0.0
+85,Total,New South Wales,32.0
+85,Total,Victoria,10.0
+85,Total,Queensland,5.9
+85,Total,South Australia,11.8
+85,Total,Western Australia,10.9
+85,Total,Tasmania,1.9
+85,Total,Northern Territory,0.0
+85,Total,Australian Capital Territory,0.8
+85,Total,Other Territories,0.0
+85,Total,Outside Australia,0.0
+86,Man,New South Wales,5.6
+86,Man,Victoria,8.7
+86,Man,Queensland,5.0
+86,Man,South Australia,2.6
+86,Man,Western Australia,0.0
+86,Man,Tasmania,1.0
+86,Man,Northern Territory,0.0
+86,Man,Australian Capital Territory,0.0
+86,Man,Other Territories,0.0
+86,Man,Outside Australia,0.0
+86,Woman,New South Wales,12.5
+86,Woman,Victoria,4.9
+86,Woman,Queensland,0.0
+86,Woman,South Australia,2.6
+86,Woman,Western Australia,6.4
+86,Woman,Tasmania,1.3
+86,Woman,Northern Territory,0.0
+86,Woman,Australian Capital Territory,0.6
+86,Woman,Other Territories,0.0
+86,Woman,Outside Australia,0.0
+86,Non-binary,New South Wales,0.0
+86,Non-binary,Victoria,0.0
+86,Non-binary,Queensland,0.0
+86,Non-binary,South Australia,0.0
+86,Non-binary,Western Australia,0.0
+86,Non-binary,Tasmania,0.0
+86,Non-binary,Northern Territory,0.0
+86,Non-binary,Australian Capital Territory,0.0
+86,Non-binary,Other Territories,0.0
+86,Non-binary,Outside Australia,0.0
+86,Total,New South Wales,16.7
+86,Total,Victoria,14.2
+86,Total,Queensland,9.0
+86,Total,South Australia,3.8
+86,Total,Western Australia,8.5
+86,Total,Tasmania,2.7
+86,Total,Northern Territory,0.0
+86,Total,Australian Capital Territory,0.6
+86,Total,Other Territories,0.0
+86,Total,Outside Australia,0.0
+87,Man,New South Wales,0.0
+87,Man,Victoria,6.9
+87,Man,Queensland,5.1
+87,Man,South Australia,2.5
+87,Man,Western Australia,2.5
+87,Man,Tasmania,1.6
+87,Man,Northern Territory,0.0
+87,Man,Australian Capital Territory,0.0
+87,Man,Other Territories,0.0
+87,Man,Outside Australia,0.0
+87,Woman,New South Wales,8.5
+87,Woman,Victoria,6.4
+87,Woman,Queensland,4.0
+87,Woman,South Australia,0.0
+87,Woman,Western Australia,0.0
+87,Woman,Tasmania,0.5
+87,Woman,Northern Territory,0.3
+87,Woman,Australian Capital Territory,0.0
+87,Woman,Other Territories,0.0
+87,Woman,Outside Australia,0.0
+87,Non-binary,New South Wales,0.0
+87,Non-binary,Victoria,0.0
+87,Non-binary,Queensland,0.0
+87,Non-binary,South Australia,0.0
+87,Non-binary,Western Australia,0.0
+87,Non-binary,Tasmania,0.0
+87,Non-binary,Northern Territory,0.0
+87,Non-binary,Australian Capital Territory,0.0
+87,Non-binary,Other Territories,0.0
+87,Non-binary,Outside Australia,0.0
+87,Total,New South Wales,10.4
+87,Total,Victoria,14.6
+87,Total,Queensland,10.8
+87,Total,South Australia,3.6
+87,Total,Western Australia,4.5
+87,Total,Tasmania,1.8
+87,Total,Northern Territory,0.3
+87,Total,Australian Capital Territory,0.5
+87,Total,Other Territories,0.0
+87,Total,Outside Australia,0.0
+88,Man,New South Wales,5.8
+88,Man,Victoria,7.9
+88,Man,Queensland,0.0
+88,Man,South Australia,2.3
+88,Man,Western Australia,0.0
+88,Man,Tasmania,0.0
+88,Man,Northern Territory,0.0
+88,Man,Australian Capital Territory,0.0
+88,Man,Other Territories,0.0
+88,Man,Outside Australia,0.0
+88,Woman,New South Wales,7.4
+88,Woman,Victoria,13.2
+88,Woman,Queensland,0.0
+88,Woman,South Australia,1.7
+88,Woman,Western Australia,0.0
+88,Woman,Tasmania,0.5
+88,Woman,Northern Territory,0.0
+88,Woman,Australian Capital Territory,0.6
+88,Woman,Other Territories,0.0
+88,Woman,Outside Australia,0.0
+88,Non-binary,New South Wales,0.0
+88,Non-binary,Victoria,0.0
+88,Non-binary,Queensland,0.0
+88,Non-binary,South Australia,0.0
+88,Non-binary,Western Australia,0.0
+88,Non-binary,Tasmania,0.0
+88,Non-binary,Northern Territory,0.0
+88,Non-binary,Australian Capital Territory,0.0
+88,Non-binary,Other Territories,0.0
+88,Non-binary,Outside Australia,0.0
+88,Total,New South Wales,13.3
+88,Total,Victoria,14.6
+88,Total,Queensland,8.5
+88,Total,South Australia,1.7
+88,Total,Western Australia,0.0
+88,Total,Tasmania,0.8
+88,Total,Northern Territory,0.0
+88,Total,Australian Capital Territory,0.6
+88,Total,Other Territories,0.0
+88,Total,Outside Australia,0.0
+89,Man,New South Wales,12.9
+89,Man,Victoria,0.0
+89,Man,Queensland,0.0
+89,Man,South Australia,0.0
+89,Man,Western Australia,2.2
+89,Man,Tasmania,0.0
+89,Man,Northern Territory,0.0
+89,Man,Australian Capital Territory,0.9
+89,Man,Other Territories,0.0
+89,Man,Outside Australia,0.0
+89,Woman,New South Wales,0.0
+89,Woman,Victoria,19.1
+89,Woman,Queensland,0.0
+89,Woman,South Australia,2.9
+89,Woman,Western Australia,2.3
+89,Woman,Tasmania,0.4
+89,Woman,Northern Territory,0.0
+89,Woman,Australian Capital Territory,0.0
+89,Woman,Other Territories,0.0
+89,Woman,Outside Australia,0.0
+89,Non-binary,New South Wales,0.0
+89,Non-binary,Victoria,0.0
+89,Non-binary,Queensland,0.0
+89,Non-binary,South Australia,0.0
+89,Non-binary,Western Australia,0.0
+89,Non-binary,Tasmania,0.0
+89,Non-binary,Northern Territory,0.0
+89,Non-binary,Australian Capital Territory,0.0
+89,Non-binary,Other Territories,0.0
+89,Non-binary,Outside Australia,0.0
+89,Total,New South Wales,7.9
+89,Total,Victoria,13.5
+89,Total,Queensland,0.0
+89,Total,South Australia,1.7
+89,Total,Western Australia,3.0
+89,Total,Tasmania,0.3
+89,Total,Northern Territory,0.0
+89,Total,Australian Capital Territory,0.9
+89,Total,Other Territories,0.0
+89,Total,Outside Australia,0.0
+90,Man,New South Wales,0.0
+90,Man,Victoria,0.0
+90,Man,Queensland,0.0
+90,Man,South Australia,0.0
+90,Man,Western Australia,0.0
+90,Man,Tasmania,0.0
+90,Man,Northern Territory,0.4
+90,Man,Australian Capital Territory,0.0
+90,Man,Other Territories,0.0
+90,Man,Outside Australia,0.0
+90,Woman,New South Wales,4.7
+90,Woman,Victoria,0.0
+90,Woman,Queensland,0.0
+90,Woman,South Australia,1.8
+90,Woman,Western Australia,3.4
+90,Woman,Tasmania,0.0
+90,Woman,Northern Territory,0.0
+90,Woman,Australian Capital Territory,0.6
+90,Woman,Other Territories,0.0
+90,Woman,Outside Australia,0.0
+90,Non-binary,New South Wales,0.0
+90,Non-binary,Victoria,0.0
+90,Non-binary,Queensland,0.0
+90,Non-binary,South Australia,0.0
+90,Non-binary,Western Australia,0.0
+90,Non-binary,Tasmania,0.0
+90,Non-binary,Northern Territory,0.0
+90,Non-binary,Australian Capital Territory,0.0
+90,Non-binary,Other Territories,0.0
+90,Non-binary,Outside Australia,0.0
+90,Total,New South Wales,4.7
+90,Total,Victoria,0.0
+90,Total,Queensland,0.0
+90,Total,South Australia,3.4
+90,Total,Western Australia,2.7
+90,Total,Tasmania,0.0
+90,Total,Northern Territory,0.4
+90,Total,Australian Capital Territory,0.5
+90,Total,Other Territories,0.0
+90,Total,Outside Australia,0.0
+91,Man,New South Wales,3.7
+91,Man,Victoria,0.0
+91,Man,Queensland,0.0
+91,Man,South Australia,1.2
+91,Man,Western Australia,0.0
+91,Man,Tasmania,0.0
+91,Man,Northern Territory,0.0
+91,Man,Australian Capital Territory,0.0
+91,Man,Other Territories,0.0
+91,Man,Outside Australia,0.0
+91,Woman,New South Wales,0.0
+91,Woman,Victoria,5.6
+91,Woman,Queensland,7.7
+91,Woman,South Australia,0.0
+91,Woman,Western Australia,0.0
+91,Woman,Tasmania,0.6
+91,Woman,Northern Territory,0.0
+91,Woman,Australian Capital Territory,0.0
+91,Woman,Other Territories,0.0
+91,Woman,Outside Australia,0.0
+91,Non-binary,New South Wales,0.0
+91,Non-binary,Victoria,0.0
+91,Non-binary,Queensland,0.0
+91,Non-binary,South Australia,0.0
+91,Non-binary,Western Australia,0.0
+91,Non-binary,Tasmania,0.0
+91,Non-binary,Northern Territory,0.0
+91,Non-binary,Australian Capital Territory,0.0
+91,Non-binary,Other Territories,0.0
+91,Non-binary,Outside Australia,0.0
+91,Total,New South Wales,4.0
+91,Total,Victoria,6.6
+91,Total,Queensland,6.0
+91,Total,South Australia,1.2
+91,Total,Western Australia,0.0
+91,Total,Tasmania,0.9
+91,Total,Northern Territory,0.0
+91,Total,Australian Capital Territory,0.0
+91,Total,Other Territories,0.0
+91,Total,Outside Australia,0.0
+92,Man,New South Wales,0.0
+92,Man,Victoria,0.0
+92,Man,Queensland,0.0
+92,Man,South Australia,0.0
+92,Man,Western Australia,0.0
+92,Man,Tasmania,0.0
+92,Man,Northern Territory,0.0
+92,Man,Australian Capital Territory,0.0
+92,Man,Other Territories,0.0
+92,Man,Outside Australia,0.0
+92,Woman,New South Wales,5.0
+92,Woman,Victoria,0.0
+92,Woman,Queensland,5.1
+92,Woman,South Australia,1.5
+92,Woman,Western Australia,1.9
+92,Woman,Tasmania,0.0
+92,Woman,Northern Territory,0.0
+92,Woman,Australian Capital Territory,0.0
+92,Woman,Other Territories,0.0
+92,Woman,Outside Australia,0.0
+92,Non-binary,New South Wales,0.0
+92,Non-binary,Victoria,0.0
+92,Non-binary,Queensland,0.0
+92,Non-binary,South Australia,0.0
+92,Non-binary,Western Australia,0.0
+92,Non-binary,Tasmania,0.0
+92,Non-binary,Northern Territory,0.0
+92,Non-binary,Australian Capital Territory,0.0
+92,Non-binary,Other Territories,0.0
+92,Non-binary,Outside Australia,0.0
+92,Total,New South Wales,5.0
+92,Total,Victoria,4.7
+92,Total,Queensland,5.1
+92,Total,South Australia,0.0
+92,Total,Western Australia,1.9
+92,Total,Tasmania,0.0
+92,Total,Northern Territory,0.0
+92,Total,Australian Capital Territory,0.0
+92,Total,Other Territories,0.0
+92,Total,Outside Australia,0.0
+93,Man,New South Wales,0.0
+93,Man,Victoria,0.0
+93,Man,Queensland,0.0
+93,Man,South Australia,0.0
+93,Man,Western Australia,0.0
+93,Man,Tasmania,0.4
+93,Man,Northern Territory,0.0
+93,Man,Australian Capital Territory,0.0
+93,Man,Other Territories,0.0
+93,Man,Outside Australia,0.0
+93,Woman,New South Wales,0.0
+93,Woman,Victoria,0.0
+93,Woman,Queensland,0.0
+93,Woman,South Australia,0.0
+93,Woman,Western Australia,0.0
+93,Woman,Tasmania,0.0
+93,Woman,Northern Territory,0.0
+93,Woman,Australian Capital Territory,0.0
+93,Woman,Other Territories,0.0
+93,Woman,Outside Australia,0.0
+93,Non-binary,New South Wales,0.0
+93,Non-binary,Victoria,0.0
+93,Non-binary,Queensland,0.0
+93,Non-binary,South Australia,0.0
+93,Non-binary,Western Australia,0.0
+93,Non-binary,Tasmania,0.0
+93,Non-binary,Northern Territory,0.0
+93,Non-binary,Australian Capital Territory,0.0
+93,Non-binary,Other Territories,0.0
+93,Non-binary,Outside Australia,0.0
+93,Total,New South Wales,0.0
+93,Total,Victoria,0.0
+93,Total,Queensland,0.0
+93,Total,South Australia,1.8
+93,Total,Western Australia,0.0
+93,Total,Tasmania,1.1
+93,Total,Northern Territory,0.0
+93,Total,Australian Capital Territory,0.0
+93,Total,Other Territories,0.0
+93,Total,Outside Australia,0.0
+94,Man,New South Wales,0.0
+94,Man,Victoria,0.0
+94,Man,Queensland,0.0
+94,Man,South Australia,0.0
+94,Man,Western Australia,0.0
+94,Man,Tasmania,0.0
+94,Man,Northern Territory,0.0
+94,Man,Australian Capital Territory,0.0
+94,Man,Other Territories,0.0
+94,Man,Outside Australia,0.0
+94,Woman,New South Wales,9.2
+94,Woman,Victoria,0.0
+94,Woman,Queensland,0.0
+94,Woman,South Australia,0.0
+94,Woman,Western Australia,0.0
+94,Woman,Tasmania,0.0
+94,Woman,Northern Territory,0.0
+94,Woman,Australian Capital Territory,0.5
+94,Woman,Other Territories,0.0
+94,Woman,Outside Australia,0.0
+94,Non-binary,New South Wales,0.0
+94,Non-binary,Victoria,0.0
+94,Non-binary,Queensland,0.0
+94,Non-binary,South Australia,0.0
+94,Non-binary,Western Australia,0.0
+94,Non-binary,Tasmania,0.0
+94,Non-binary,Northern Territory,0.0
+94,Non-binary,Australian Capital Territory,0.0
+94,Non-binary,Other Territories,0.0
+94,Non-binary,Outside Australia,0.0
+94,Total,New South Wales,9.2
+94,Total,Victoria,0.0
+94,Total,Queensland,0.0
+94,Total,South Australia,0.0
+94,Total,Western Australia,0.0
+94,Total,Tasmania,0.0
+94,Total,Northern Territory,0.0
+94,Total,Australian Capital Territory,0.5
+94,Total,Other Territories,0.0
+94,Total,Outside Australia,0.0
+95,Man,New South Wales,0.0
+95,Man,Victoria,0.0
+95,Man,Queensland,0.0
+95,Man,South Australia,0.0
+95,Man,Western Australia,0.0
+95,Man,Tasmania,0.0
+95,Man,Northern Territory,0.0
+95,Man,Australian Capital Territory,0.0
+95,Man,Other Territories,0.0
+95,Man,Outside Australia,0.0
+95,Woman,New South Wales,0.0
+95,Woman,Victoria,0.0
+95,Woman,Queensland,0.0
+95,Woman,South Australia,0.0
+95,Woman,Western Australia,0.0
+95,Woman,Tasmania,0.0
+95,Woman,Northern Territory,0.0
+95,Woman,Australian Capital Territory,0.0
+95,Woman,Other Territories,0.0
+95,Woman,Outside Australia,0.0
+95,Non-binary,New South Wales,0.0
+95,Non-binary,Victoria,0.0
+95,Non-binary,Queensland,0.0
+95,Non-binary,South Australia,0.0
+95,Non-binary,Western Australia,0.0
+95,Non-binary,Tasmania,0.0
+95,Non-binary,Northern Territory,0.0
+95,Non-binary,Australian Capital Territory,0.0
+95,Non-binary,Other Territories,0.0
+95,Non-binary,Outside Australia,0.0
+95,Total,New South Wales,0.0
+95,Total,Victoria,0.0
+95,Total,Queensland,0.0
+95,Total,South Australia,0.0
+95,Total,Western Australia,0.0
+95,Total,Tasmania,0.0
+95,Total,Northern Territory,0.0
+95,Total,Australian Capital Territory,0.0
+95,Total,Other Territories,0.0
+95,Total,Outside Australia,0.0
+96,Man,New South Wales,0.0
+96,Man,Victoria,0.0
+96,Man,Queensland,0.0
+96,Man,South Australia,0.0
+96,Man,Western Australia,0.0
+96,Man,Tasmania,0.0
+96,Man,Northern Territory,0.0
+96,Man,Australian Capital Territory,0.0
+96,Man,Other Territories,0.0
+96,Man,Outside Australia,0.0
+96,Woman,New South Wales,0.0
+96,Woman,Victoria,0.0
+96,Woman,Queensland,0.0
+96,Woman,South Australia,0.0
+96,Woman,Western Australia,0.0
+96,Woman,Tasmania,0.0
+96,Woman,Northern Territory,0.0
+96,Woman,Australian Capital Territory,0.0
+96,Woman,Other Territories,0.0
+96,Woman,Outside Australia,0.0
+96,Non-binary,New South Wales,0.0
+96,Non-binary,Victoria,0.0
+96,Non-binary,Queensland,0.0
+96,Non-binary,South Australia,0.0
+96,Non-binary,Western Australia,0.0
+96,Non-binary,Tasmania,0.0
+96,Non-binary,Northern Territory,0.0
+96,Non-binary,Australian Capital Territory,0.0
+96,Non-binary,Other Territories,0.0
+96,Non-binary,Outside Australia,0.0
+96,Total,New South Wales,0.0
+96,Total,Victoria,0.0
+96,Total,Queensland,0.0
+96,Total,South Australia,0.0
+96,Total,Western Australia,0.0
+96,Total,Tasmania,0.0
+96,Total,Northern Territory,0.0
+96,Total,Australian Capital Territory,0.0
+96,Total,Other Territories,0.0
+96,Total,Outside Australia,0.0
+97,Man,New South Wales,0.0
+97,Man,Victoria,0.0
+97,Man,Queensland,0.0
+97,Man,South Australia,0.0
+97,Man,Western Australia,0.0
+97,Man,Tasmania,0.0
+97,Man,Northern Territory,0.0
+97,Man,Australian Capital Territory,0.0
+97,Man,Other Territories,0.0
+97,Man,Outside Australia,0.0
+97,Woman,New South Wales,0.0
+97,Woman,Victoria,0.0
+97,Woman,Queensland,0.0
+97,Woman,South Australia,2.7
+97,Woman,Western Australia,0.0
+97,Woman,Tasmania,0.0
+97,Woman,Northern Territory,0.0
+97,Woman,Australian Capital Territory,0.0
+97,Woman,Other Territories,0.0
+97,Woman,Outside Australia,0.0
+97,Non-binary,New South Wales,0.0
+97,Non-binary,Victoria,0.0
+97,Non-binary,Queensland,0.0
+97,Non-binary,South Australia,0.0
+97,Non-binary,Western Australia,0.0
+97,Non-binary,Tasmania,0.0
+97,Non-binary,Northern Territory,0.0
+97,Non-binary,Australian Capital Territory,0.0
+97,Non-binary,Other Territories,0.0
+97,Non-binary,Outside Australia,0.0
+97,Total,New South Wales,0.0
+97,Total,Victoria,0.0
+97,Total,Queensland,0.0
+97,Total,South Australia,2.7
+97,Total,Western Australia,0.0
+97,Total,Tasmania,0.0
+97,Total,Northern Territory,0.0
+97,Total,Australian Capital Territory,0.0
+97,Total,Other Territories,0.0
+97,Total,Outside Australia,0.0
+98,Man,New South Wales,0.0
+98,Man,Victoria,0.0
+98,Man,Queensland,0.0
+98,Man,South Australia,0.0
+98,Man,Western Australia,0.0
+98,Man,Tasmania,0.0
+98,Man,Northern Territory,0.0
+98,Man,Australian Capital Territory,0.0
+98,Man,Other Territories,0.0
+98,Man,Outside Australia,0.0
+98,Woman,New South Wales,0.0
+98,Woman,Victoria,0.0
+98,Woman,Queensland,0.0
+98,Woman,South Australia,0.0
+98,Woman,Western Australia,0.0
+98,Woman,Tasmania,0.0
+98,Woman,Northern Territory,0.0
+98,Woman,Australian Capital Territory,0.0
+98,Woman,Other Territories,0.0
+98,Woman,Outside Australia,0.0
+98,Non-binary,New South Wales,0.0
+98,Non-binary,Victoria,0.0
+98,Non-binary,Queensland,0.0
+98,Non-binary,South Australia,0.0
+98,Non-binary,Western Australia,0.0
+98,Non-binary,Tasmania,0.0
+98,Non-binary,Northern Territory,0.0
+98,Non-binary,Australian Capital Territory,0.0
+98,Non-binary,Other Territories,0.0
+98,Non-binary,Outside Australia,0.0
+98,Total,New South Wales,0.0
+98,Total,Victoria,0.0
+98,Total,Queensland,0.0
+98,Total,South Australia,0.0
+98,Total,Western Australia,0.0
+98,Total,Tasmania,0.0
+98,Total,Northern Territory,0.0
+98,Total,Australian Capital Territory,0.0
+98,Total,Other Territories,0.0
+98,Total,Outside Australia,0.0
+99,Man,New South Wales,0.0
+99,Man,Victoria,0.0
+99,Man,Queensland,0.0
+99,Man,South Australia,0.0
+99,Man,Western Australia,0.0
+99,Man,Tasmania,0.0
+99,Man,Northern Territory,0.0
+99,Man,Australian Capital Territory,0.0
+99,Man,Other Territories,0.0
+99,Man,Outside Australia,0.0
+99,Woman,New South Wales,0.0
+99,Woman,Victoria,0.0
+99,Woman,Queensland,0.0
+99,Woman,South Australia,0.0
+99,Woman,Western Australia,0.0
+99,Woman,Tasmania,0.0
+99,Woman,Northern Territory,0.0
+99,Woman,Australian Capital Territory,0.0
+99,Woman,Other Territories,0.0
+99,Woman,Outside Australia,0.0
+99,Non-binary,New South Wales,0.0
+99,Non-binary,Victoria,0.0
+99,Non-binary,Queensland,0.0
+99,Non-binary,South Australia,0.0
+99,Non-binary,Western Australia,0.0
+99,Non-binary,Tasmania,0.0
+99,Non-binary,Northern Territory,0.0
+99,Non-binary,Australian Capital Territory,0.0
+99,Non-binary,Other Territories,0.0
+99,Non-binary,Outside Australia,0.0
+99,Total,New South Wales,0.0
+99,Total,Victoria,0.0
+99,Total,Queensland,0.0
+99,Total,South Australia,0.0
+99,Total,Western Australia,0.0
+99,Total,Tasmania,0.0
+99,Total,Northern Territory,0.0
+99,Total,Australian Capital Territory,0.0
+99,Total,Other Territories,0.0
+99,Total,Outside Australia,0.0

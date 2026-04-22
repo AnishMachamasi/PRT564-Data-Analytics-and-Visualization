@@ -1,0 +1,801 @@
+age,gender,level,value
+0,Man,Met 2014 physical activity guidelines,0.0
+0,Man,Did not meet 2014 physical activity guidelines,0.0
+0,Woman,Met 2014 physical activity guidelines,0.0
+0,Woman,Did not meet 2014 physical activity guidelines,0.0
+0,Non-binary,Met 2014 physical activity guidelines,0.0
+0,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+0,Total,Met 2014 physical activity guidelines,0.0
+0,Total,Did not meet 2014 physical activity guidelines,0.0
+1,Man,Met 2014 physical activity guidelines,0.0
+1,Man,Did not meet 2014 physical activity guidelines,0.0
+1,Woman,Met 2014 physical activity guidelines,0.0
+1,Woman,Did not meet 2014 physical activity guidelines,0.0
+1,Non-binary,Met 2014 physical activity guidelines,0.0
+1,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+1,Total,Met 2014 physical activity guidelines,0.0
+1,Total,Did not meet 2014 physical activity guidelines,0.0
+2,Man,Met 2014 physical activity guidelines,0.0
+2,Man,Did not meet 2014 physical activity guidelines,0.0
+2,Woman,Met 2014 physical activity guidelines,0.0
+2,Woman,Did not meet 2014 physical activity guidelines,0.0
+2,Non-binary,Met 2014 physical activity guidelines,0.0
+2,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+2,Total,Met 2014 physical activity guidelines,0.0
+2,Total,Did not meet 2014 physical activity guidelines,0.0
+3,Man,Met 2014 physical activity guidelines,0.0
+3,Man,Did not meet 2014 physical activity guidelines,0.0
+3,Woman,Met 2014 physical activity guidelines,0.0
+3,Woman,Did not meet 2014 physical activity guidelines,0.0
+3,Non-binary,Met 2014 physical activity guidelines,0.0
+3,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+3,Total,Met 2014 physical activity guidelines,0.0
+3,Total,Did not meet 2014 physical activity guidelines,0.0
+4,Man,Met 2014 physical activity guidelines,0.0
+4,Man,Did not meet 2014 physical activity guidelines,0.0
+4,Woman,Met 2014 physical activity guidelines,0.0
+4,Woman,Did not meet 2014 physical activity guidelines,0.0
+4,Non-binary,Met 2014 physical activity guidelines,0.0
+4,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+4,Total,Met 2014 physical activity guidelines,0.0
+4,Total,Did not meet 2014 physical activity guidelines,0.0
+5,Man,Met 2014 physical activity guidelines,0.0
+5,Man,Did not meet 2014 physical activity guidelines,0.0
+5,Woman,Met 2014 physical activity guidelines,0.0
+5,Woman,Did not meet 2014 physical activity guidelines,0.0
+5,Non-binary,Met 2014 physical activity guidelines,0.0
+5,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+5,Total,Met 2014 physical activity guidelines,0.0
+5,Total,Did not meet 2014 physical activity guidelines,0.0
+6,Man,Met 2014 physical activity guidelines,0.0
+6,Man,Did not meet 2014 physical activity guidelines,0.0
+6,Woman,Met 2014 physical activity guidelines,0.0
+6,Woman,Did not meet 2014 physical activity guidelines,0.0
+6,Non-binary,Met 2014 physical activity guidelines,0.0
+6,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+6,Total,Met 2014 physical activity guidelines,0.0
+6,Total,Did not meet 2014 physical activity guidelines,0.0
+7,Man,Met 2014 physical activity guidelines,0.0
+7,Man,Did not meet 2014 physical activity guidelines,0.0
+7,Woman,Met 2014 physical activity guidelines,0.0
+7,Woman,Did not meet 2014 physical activity guidelines,0.0
+7,Non-binary,Met 2014 physical activity guidelines,0.0
+7,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+7,Total,Met 2014 physical activity guidelines,0.0
+7,Total,Did not meet 2014 physical activity guidelines,0.0
+8,Man,Met 2014 physical activity guidelines,0.0
+8,Man,Did not meet 2014 physical activity guidelines,0.0
+8,Woman,Met 2014 physical activity guidelines,0.0
+8,Woman,Did not meet 2014 physical activity guidelines,0.0
+8,Non-binary,Met 2014 physical activity guidelines,0.0
+8,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+8,Total,Met 2014 physical activity guidelines,0.0
+8,Total,Did not meet 2014 physical activity guidelines,0.0
+9,Man,Met 2014 physical activity guidelines,0.0
+9,Man,Did not meet 2014 physical activity guidelines,0.0
+9,Woman,Met 2014 physical activity guidelines,0.0
+9,Woman,Did not meet 2014 physical activity guidelines,0.0
+9,Non-binary,Met 2014 physical activity guidelines,0.0
+9,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+9,Total,Met 2014 physical activity guidelines,0.0
+9,Total,Did not meet 2014 physical activity guidelines,0.0
+10,Man,Met 2014 physical activity guidelines,0.0
+10,Man,Did not meet 2014 physical activity guidelines,0.0
+10,Woman,Met 2014 physical activity guidelines,0.0
+10,Woman,Did not meet 2014 physical activity guidelines,0.0
+10,Non-binary,Met 2014 physical activity guidelines,0.0
+10,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+10,Total,Met 2014 physical activity guidelines,0.0
+10,Total,Did not meet 2014 physical activity guidelines,0.0
+11,Man,Met 2014 physical activity guidelines,0.0
+11,Man,Did not meet 2014 physical activity guidelines,0.0
+11,Woman,Met 2014 physical activity guidelines,0.0
+11,Woman,Did not meet 2014 physical activity guidelines,0.0
+11,Non-binary,Met 2014 physical activity guidelines,0.0
+11,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+11,Total,Met 2014 physical activity guidelines,0.0
+11,Total,Did not meet 2014 physical activity guidelines,0.0
+12,Man,Met 2014 physical activity guidelines,0.0
+12,Man,Did not meet 2014 physical activity guidelines,0.0
+12,Woman,Met 2014 physical activity guidelines,0.0
+12,Woman,Did not meet 2014 physical activity guidelines,0.0
+12,Non-binary,Met 2014 physical activity guidelines,0.0
+12,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+12,Total,Met 2014 physical activity guidelines,0.0
+12,Total,Did not meet 2014 physical activity guidelines,0.0
+13,Man,Met 2014 physical activity guidelines,0.0
+13,Man,Did not meet 2014 physical activity guidelines,0.0
+13,Woman,Met 2014 physical activity guidelines,0.0
+13,Woman,Did not meet 2014 physical activity guidelines,0.0
+13,Non-binary,Met 2014 physical activity guidelines,0.0
+13,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+13,Total,Met 2014 physical activity guidelines,0.0
+13,Total,Did not meet 2014 physical activity guidelines,0.0
+14,Man,Met 2014 physical activity guidelines,0.0
+14,Man,Did not meet 2014 physical activity guidelines,0.0
+14,Woman,Met 2014 physical activity guidelines,0.0
+14,Woman,Did not meet 2014 physical activity guidelines,0.0
+14,Non-binary,Met 2014 physical activity guidelines,0.0
+14,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+14,Total,Met 2014 physical activity guidelines,0.0
+14,Total,Did not meet 2014 physical activity guidelines,0.0
+15,Man,Met 2014 physical activity guidelines,0.0
+15,Man,Did not meet 2014 physical activity guidelines,0.0
+15,Woman,Met 2014 physical activity guidelines,0.0
+15,Woman,Did not meet 2014 physical activity guidelines,0.0
+15,Non-binary,Met 2014 physical activity guidelines,0.0
+15,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+15,Total,Met 2014 physical activity guidelines,0.0
+15,Total,Did not meet 2014 physical activity guidelines,0.0
+16,Man,Met 2014 physical activity guidelines,6.8
+16,Man,Did not meet 2014 physical activity guidelines,44.6
+16,Woman,Met 2014 physical activity guidelines,0.0
+16,Woman,Did not meet 2014 physical activity guidelines,40.6
+16,Non-binary,Met 2014 physical activity guidelines,0.0
+16,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+16,Total,Met 2014 physical activity guidelines,4.6
+16,Total,Did not meet 2014 physical activity guidelines,86.5
+17,Man,Met 2014 physical activity guidelines,3.9
+17,Man,Did not meet 2014 physical activity guidelines,68.3
+17,Woman,Met 2014 physical activity guidelines,0.0
+17,Woman,Did not meet 2014 physical activity guidelines,73.2
+17,Non-binary,Met 2014 physical activity guidelines,0.0
+17,Non-binary,Did not meet 2014 physical activity guidelines,7.1
+17,Total,Met 2014 physical activity guidelines,3.9
+17,Total,Did not meet 2014 physical activity guidelines,143.6
+18,Man,Met 2014 physical activity guidelines,61.1
+18,Man,Did not meet 2014 physical activity guidelines,111.9
+18,Woman,Met 2014 physical activity guidelines,44.6
+18,Woman,Did not meet 2014 physical activity guidelines,117.0
+18,Non-binary,Met 2014 physical activity guidelines,0.0
+18,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+18,Total,Met 2014 physical activity guidelines,95.5
+18,Total,Did not meet 2014 physical activity guidelines,225.7
+19,Man,Met 2014 physical activity guidelines,52.5
+19,Man,Did not meet 2014 physical activity guidelines,75.7
+19,Woman,Met 2014 physical activity guidelines,53.3
+19,Woman,Did not meet 2014 physical activity guidelines,112.1
+19,Non-binary,Met 2014 physical activity guidelines,0.0
+19,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+19,Total,Met 2014 physical activity guidelines,118.0
+19,Total,Did not meet 2014 physical activity guidelines,185.2
+20,Man,Met 2014 physical activity guidelines,39.7
+20,Man,Did not meet 2014 physical activity guidelines,73.9
+20,Woman,Met 2014 physical activity guidelines,29.5
+20,Woman,Did not meet 2014 physical activity guidelines,107.4
+20,Non-binary,Met 2014 physical activity guidelines,0.0
+20,Non-binary,Did not meet 2014 physical activity guidelines,3.4
+20,Total,Met 2014 physical activity guidelines,84.2
+20,Total,Did not meet 2014 physical activity guidelines,173.7
+21,Man,Met 2014 physical activity guidelines,60.0
+21,Man,Did not meet 2014 physical activity guidelines,106.2
+21,Woman,Met 2014 physical activity guidelines,23.0
+21,Woman,Did not meet 2014 physical activity guidelines,86.4
+21,Non-binary,Met 2014 physical activity guidelines,0.0
+21,Non-binary,Did not meet 2014 physical activity guidelines,1.4
+21,Total,Met 2014 physical activity guidelines,82.5
+21,Total,Did not meet 2014 physical activity guidelines,186.4
+22,Man,Met 2014 physical activity guidelines,44.8
+22,Man,Did not meet 2014 physical activity guidelines,110.1
+22,Woman,Met 2014 physical activity guidelines,33.7
+22,Woman,Did not meet 2014 physical activity guidelines,101.5
+22,Non-binary,Met 2014 physical activity guidelines,0.0
+22,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+22,Total,Met 2014 physical activity guidelines,91.8
+22,Total,Did not meet 2014 physical activity guidelines,216.3
+23,Man,Met 2014 physical activity guidelines,68.5
+23,Man,Did not meet 2014 physical activity guidelines,88.5
+23,Woman,Met 2014 physical activity guidelines,41.4
+23,Woman,Did not meet 2014 physical activity guidelines,99.0
+23,Non-binary,Met 2014 physical activity guidelines,0.0
+23,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+23,Total,Met 2014 physical activity guidelines,102.5
+23,Total,Did not meet 2014 physical activity guidelines,201.6
+24,Man,Met 2014 physical activity guidelines,40.7
+24,Man,Did not meet 2014 physical activity guidelines,69.7
+24,Woman,Met 2014 physical activity guidelines,31.8
+24,Woman,Did not meet 2014 physical activity guidelines,103.2
+24,Non-binary,Met 2014 physical activity guidelines,0.0
+24,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+24,Total,Met 2014 physical activity guidelines,69.8
+24,Total,Did not meet 2014 physical activity guidelines,177.0
+25,Man,Met 2014 physical activity guidelines,57.8
+25,Man,Did not meet 2014 physical activity guidelines,112.2
+25,Woman,Met 2014 physical activity guidelines,12.4
+25,Woman,Did not meet 2014 physical activity guidelines,104.2
+25,Non-binary,Met 2014 physical activity guidelines,0.0
+25,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+25,Total,Met 2014 physical activity guidelines,68.7
+25,Total,Did not meet 2014 physical activity guidelines,210.4
+26,Man,Met 2014 physical activity guidelines,32.8
+26,Man,Did not meet 2014 physical activity guidelines,104.0
+26,Woman,Met 2014 physical activity guidelines,57.0
+26,Woman,Did not meet 2014 physical activity guidelines,75.1
+26,Non-binary,Met 2014 physical activity guidelines,0.0
+26,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+26,Total,Met 2014 physical activity guidelines,95.6
+26,Total,Did not meet 2014 physical activity guidelines,173.8
+27,Man,Met 2014 physical activity guidelines,49.2
+27,Man,Did not meet 2014 physical activity guidelines,102.6
+27,Woman,Met 2014 physical activity guidelines,39.9
+27,Woman,Did not meet 2014 physical activity guidelines,137.1
+27,Non-binary,Met 2014 physical activity guidelines,0.0
+27,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+27,Total,Met 2014 physical activity guidelines,82.0
+27,Total,Did not meet 2014 physical activity guidelines,252.1
+28,Man,Met 2014 physical activity guidelines,64.0
+28,Man,Did not meet 2014 physical activity guidelines,112.7
+28,Woman,Met 2014 physical activity guidelines,56.6
+28,Woman,Did not meet 2014 physical activity guidelines,108.4
+28,Non-binary,Met 2014 physical activity guidelines,0.0
+28,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+28,Total,Met 2014 physical activity guidelines,139.0
+28,Total,Did not meet 2014 physical activity guidelines,211.9
+29,Man,Met 2014 physical activity guidelines,65.5
+29,Man,Did not meet 2014 physical activity guidelines,140.5
+29,Woman,Met 2014 physical activity guidelines,17.9
+29,Woman,Did not meet 2014 physical activity guidelines,138.6
+29,Non-binary,Met 2014 physical activity guidelines,0.0
+29,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+29,Total,Met 2014 physical activity guidelines,92.0
+29,Total,Did not meet 2014 physical activity guidelines,275.8
+30,Man,Met 2014 physical activity guidelines,54.5
+30,Man,Did not meet 2014 physical activity guidelines,179.1
+30,Woman,Met 2014 physical activity guidelines,33.2
+30,Woman,Did not meet 2014 physical activity guidelines,123.9
+30,Non-binary,Met 2014 physical activity guidelines,0.0
+30,Non-binary,Did not meet 2014 physical activity guidelines,1.9
+30,Total,Met 2014 physical activity guidelines,92.7
+30,Total,Did not meet 2014 physical activity guidelines,294.3
+31,Man,Met 2014 physical activity guidelines,44.3
+31,Man,Did not meet 2014 physical activity guidelines,120.0
+31,Woman,Met 2014 physical activity guidelines,56.3
+31,Woman,Did not meet 2014 physical activity guidelines,176.8
+31,Non-binary,Met 2014 physical activity guidelines,0.0
+31,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+31,Total,Met 2014 physical activity guidelines,109.4
+31,Total,Did not meet 2014 physical activity guidelines,293.2
+32,Man,Met 2014 physical activity guidelines,47.0
+32,Man,Did not meet 2014 physical activity guidelines,131.7
+32,Woman,Met 2014 physical activity guidelines,58.2
+32,Woman,Did not meet 2014 physical activity guidelines,167.1
+32,Non-binary,Met 2014 physical activity guidelines,0.0
+32,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+32,Total,Met 2014 physical activity guidelines,99.8
+32,Total,Did not meet 2014 physical activity guidelines,286.8
+33,Man,Met 2014 physical activity guidelines,52.2
+33,Man,Did not meet 2014 physical activity guidelines,124.5
+33,Woman,Met 2014 physical activity guidelines,30.5
+33,Woman,Did not meet 2014 physical activity guidelines,168.4
+33,Non-binary,Met 2014 physical activity guidelines,0.0
+33,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+33,Total,Met 2014 physical activity guidelines,84.7
+33,Total,Did not meet 2014 physical activity guidelines,298.3
+34,Man,Met 2014 physical activity guidelines,52.4
+34,Man,Did not meet 2014 physical activity guidelines,102.2
+34,Woman,Met 2014 physical activity guidelines,48.9
+34,Woman,Did not meet 2014 physical activity guidelines,160.7
+34,Non-binary,Met 2014 physical activity guidelines,0.0
+34,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+34,Total,Met 2014 physical activity guidelines,112.8
+34,Total,Did not meet 2014 physical activity guidelines,253.5
+35,Man,Met 2014 physical activity guidelines,45.1
+35,Man,Did not meet 2014 physical activity guidelines,121.3
+35,Woman,Met 2014 physical activity guidelines,43.1
+35,Woman,Did not meet 2014 physical activity guidelines,150.0
+35,Non-binary,Met 2014 physical activity guidelines,0.0
+35,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+35,Total,Met 2014 physical activity guidelines,91.9
+35,Total,Did not meet 2014 physical activity guidelines,266.6
+36,Man,Met 2014 physical activity guidelines,29.3
+36,Man,Did not meet 2014 physical activity guidelines,91.3
+36,Woman,Met 2014 physical activity guidelines,28.3
+36,Woman,Did not meet 2014 physical activity guidelines,133.4
+36,Non-binary,Met 2014 physical activity guidelines,0.0
+36,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+36,Total,Met 2014 physical activity guidelines,54.7
+36,Total,Did not meet 2014 physical activity guidelines,223.8
+37,Man,Met 2014 physical activity guidelines,42.0
+37,Man,Did not meet 2014 physical activity guidelines,117.4
+37,Woman,Met 2014 physical activity guidelines,41.8
+37,Woman,Did not meet 2014 physical activity guidelines,124.7
+37,Non-binary,Met 2014 physical activity guidelines,0.0
+37,Non-binary,Did not meet 2014 physical activity guidelines,3.1
+37,Total,Met 2014 physical activity guidelines,90.6
+37,Total,Did not meet 2014 physical activity guidelines,241.3
+38,Man,Met 2014 physical activity guidelines,27.4
+38,Man,Did not meet 2014 physical activity guidelines,158.5
+38,Woman,Met 2014 physical activity guidelines,46.6
+38,Woman,Did not meet 2014 physical activity guidelines,144.5
+38,Non-binary,Met 2014 physical activity guidelines,0.0
+38,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+38,Total,Met 2014 physical activity guidelines,70.2
+38,Total,Did not meet 2014 physical activity guidelines,300.9
+39,Man,Met 2014 physical activity guidelines,32.8
+39,Man,Did not meet 2014 physical activity guidelines,117.7
+39,Woman,Met 2014 physical activity guidelines,27.0
+39,Woman,Did not meet 2014 physical activity guidelines,148.5
+39,Non-binary,Met 2014 physical activity guidelines,0.0
+39,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+39,Total,Met 2014 physical activity guidelines,67.7
+39,Total,Did not meet 2014 physical activity guidelines,270.6
+40,Man,Met 2014 physical activity guidelines,66.2
+40,Man,Did not meet 2014 physical activity guidelines,158.5
+40,Woman,Met 2014 physical activity guidelines,33.5
+40,Woman,Did not meet 2014 physical activity guidelines,150.3
+40,Non-binary,Met 2014 physical activity guidelines,0.0
+40,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+40,Total,Met 2014 physical activity guidelines,90.3
+40,Total,Did not meet 2014 physical activity guidelines,303.1
+41,Man,Met 2014 physical activity guidelines,50.1
+41,Man,Did not meet 2014 physical activity guidelines,118.2
+41,Woman,Met 2014 physical activity guidelines,23.2
+41,Woman,Did not meet 2014 physical activity guidelines,140.4
+41,Non-binary,Met 2014 physical activity guidelines,0.0
+41,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+41,Total,Met 2014 physical activity guidelines,67.7
+41,Total,Did not meet 2014 physical activity guidelines,266.8
+42,Man,Met 2014 physical activity guidelines,53.3
+42,Man,Did not meet 2014 physical activity guidelines,139.2
+42,Woman,Met 2014 physical activity guidelines,25.0
+42,Woman,Did not meet 2014 physical activity guidelines,101.4
+42,Non-binary,Met 2014 physical activity guidelines,0.0
+42,Non-binary,Did not meet 2014 physical activity guidelines,3.0
+42,Total,Met 2014 physical activity guidelines,72.5
+42,Total,Did not meet 2014 physical activity guidelines,248.2
+43,Man,Met 2014 physical activity guidelines,46.1
+43,Man,Did not meet 2014 physical activity guidelines,131.6
+43,Woman,Met 2014 physical activity guidelines,38.5
+43,Woman,Did not meet 2014 physical activity guidelines,153.6
+43,Non-binary,Met 2014 physical activity guidelines,0.0
+43,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+43,Total,Met 2014 physical activity guidelines,74.1
+43,Total,Did not meet 2014 physical activity guidelines,276.1
+44,Man,Met 2014 physical activity guidelines,23.9
+44,Man,Did not meet 2014 physical activity guidelines,99.0
+44,Woman,Met 2014 physical activity guidelines,42.5
+44,Woman,Did not meet 2014 physical activity guidelines,128.6
+44,Non-binary,Met 2014 physical activity guidelines,0.0
+44,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+44,Total,Met 2014 physical activity guidelines,61.7
+44,Total,Did not meet 2014 physical activity guidelines,228.6
+45,Man,Met 2014 physical activity guidelines,37.1
+45,Man,Did not meet 2014 physical activity guidelines,154.4
+45,Woman,Met 2014 physical activity guidelines,38.2
+45,Woman,Did not meet 2014 physical activity guidelines,125.5
+45,Non-binary,Met 2014 physical activity guidelines,0.0
+45,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+45,Total,Met 2014 physical activity guidelines,81.9
+45,Total,Did not meet 2014 physical activity guidelines,278.1
+46,Man,Met 2014 physical activity guidelines,31.6
+46,Man,Did not meet 2014 physical activity guidelines,86.3
+46,Woman,Met 2014 physical activity guidelines,15.7
+46,Woman,Did not meet 2014 physical activity guidelines,146.0
+46,Non-binary,Met 2014 physical activity guidelines,0.0
+46,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+46,Total,Met 2014 physical activity guidelines,50.4
+46,Total,Did not meet 2014 physical activity guidelines,221.7
+47,Man,Met 2014 physical activity guidelines,30.7
+47,Man,Did not meet 2014 physical activity guidelines,108.2
+47,Woman,Met 2014 physical activity guidelines,18.2
+47,Woman,Did not meet 2014 physical activity guidelines,88.6
+47,Non-binary,Met 2014 physical activity guidelines,0.0
+47,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+47,Total,Met 2014 physical activity guidelines,49.9
+47,Total,Did not meet 2014 physical activity guidelines,196.8
+48,Man,Met 2014 physical activity guidelines,54.3
+48,Man,Did not meet 2014 physical activity guidelines,139.1
+48,Woman,Met 2014 physical activity guidelines,17.6
+48,Woman,Did not meet 2014 physical activity guidelines,110.6
+48,Non-binary,Met 2014 physical activity guidelines,0.0
+48,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+48,Total,Met 2014 physical activity guidelines,74.9
+48,Total,Did not meet 2014 physical activity guidelines,252.1
+49,Man,Met 2014 physical activity guidelines,14.8
+49,Man,Did not meet 2014 physical activity guidelines,111.8
+49,Woman,Met 2014 physical activity guidelines,46.1
+49,Woman,Did not meet 2014 physical activity guidelines,158.4
+49,Non-binary,Met 2014 physical activity guidelines,0.0
+49,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+49,Total,Met 2014 physical activity guidelines,60.2
+49,Total,Did not meet 2014 physical activity guidelines,281.6
+50,Man,Met 2014 physical activity guidelines,27.8
+50,Man,Did not meet 2014 physical activity guidelines,132.3
+50,Woman,Met 2014 physical activity guidelines,27.2
+50,Woman,Did not meet 2014 physical activity guidelines,160.8
+50,Non-binary,Met 2014 physical activity guidelines,0.0
+50,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+50,Total,Met 2014 physical activity guidelines,52.3
+50,Total,Did not meet 2014 physical activity guidelines,291.3
+51,Man,Met 2014 physical activity guidelines,29.2
+51,Man,Did not meet 2014 physical activity guidelines,103.4
+51,Woman,Met 2014 physical activity guidelines,16.4
+51,Woman,Did not meet 2014 physical activity guidelines,120.9
+51,Non-binary,Met 2014 physical activity guidelines,0.0
+51,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+51,Total,Met 2014 physical activity guidelines,45.9
+51,Total,Did not meet 2014 physical activity guidelines,230.4
+52,Man,Met 2014 physical activity guidelines,9.7
+52,Man,Did not meet 2014 physical activity guidelines,130.9
+52,Woman,Met 2014 physical activity guidelines,27.3
+52,Woman,Did not meet 2014 physical activity guidelines,138.0
+52,Non-binary,Met 2014 physical activity guidelines,0.0
+52,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+52,Total,Met 2014 physical activity guidelines,33.6
+52,Total,Did not meet 2014 physical activity guidelines,270.7
+53,Man,Met 2014 physical activity guidelines,39.8
+53,Man,Did not meet 2014 physical activity guidelines,97.8
+53,Woman,Met 2014 physical activity guidelines,18.6
+53,Woman,Did not meet 2014 physical activity guidelines,143.7
+53,Non-binary,Met 2014 physical activity guidelines,0.0
+53,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+53,Total,Met 2014 physical activity guidelines,59.4
+53,Total,Did not meet 2014 physical activity guidelines,233.5
+54,Man,Met 2014 physical activity guidelines,21.0
+54,Man,Did not meet 2014 physical activity guidelines,138.6
+54,Woman,Met 2014 physical activity guidelines,25.9
+54,Woman,Did not meet 2014 physical activity guidelines,116.7
+54,Non-binary,Met 2014 physical activity guidelines,0.0
+54,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+54,Total,Met 2014 physical activity guidelines,50.0
+54,Total,Did not meet 2014 physical activity guidelines,251.3
+55,Man,Met 2014 physical activity guidelines,34.2
+55,Man,Did not meet 2014 physical activity guidelines,84.9
+55,Woman,Met 2014 physical activity guidelines,24.1
+55,Woman,Did not meet 2014 physical activity guidelines,106.5
+55,Non-binary,Met 2014 physical activity guidelines,0.0
+55,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+55,Total,Met 2014 physical activity guidelines,53.8
+55,Total,Did not meet 2014 physical activity guidelines,185.5
+56,Man,Met 2014 physical activity guidelines,17.5
+56,Man,Did not meet 2014 physical activity guidelines,131.1
+56,Woman,Met 2014 physical activity guidelines,34.2
+56,Woman,Did not meet 2014 physical activity guidelines,124.0
+56,Non-binary,Met 2014 physical activity guidelines,0.0
+56,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+56,Total,Met 2014 physical activity guidelines,57.2
+56,Total,Did not meet 2014 physical activity guidelines,253.6
+57,Man,Met 2014 physical activity guidelines,27.5
+57,Man,Did not meet 2014 physical activity guidelines,149.8
+57,Woman,Met 2014 physical activity guidelines,22.1
+57,Woman,Did not meet 2014 physical activity guidelines,135.9
+57,Non-binary,Met 2014 physical activity guidelines,0.0
+57,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+57,Total,Met 2014 physical activity guidelines,47.3
+57,Total,Did not meet 2014 physical activity guidelines,286.8
+58,Man,Met 2014 physical activity guidelines,22.6
+58,Man,Did not meet 2014 physical activity guidelines,146.4
+58,Woman,Met 2014 physical activity guidelines,25.2
+58,Woman,Did not meet 2014 physical activity guidelines,85.7
+58,Non-binary,Met 2014 physical activity guidelines,0.0
+58,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+58,Total,Met 2014 physical activity guidelines,49.9
+58,Total,Did not meet 2014 physical activity guidelines,228.7
+59,Man,Met 2014 physical activity guidelines,7.7
+59,Man,Did not meet 2014 physical activity guidelines,121.4
+59,Woman,Met 2014 physical activity guidelines,23.0
+59,Woman,Did not meet 2014 physical activity guidelines,134.3
+59,Non-binary,Met 2014 physical activity guidelines,0.0
+59,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+59,Total,Met 2014 physical activity guidelines,30.9
+59,Total,Did not meet 2014 physical activity guidelines,260.1
+60,Man,Met 2014 physical activity guidelines,29.2
+60,Man,Did not meet 2014 physical activity guidelines,96.2
+60,Woman,Met 2014 physical activity guidelines,29.6
+60,Woman,Did not meet 2014 physical activity guidelines,121.5
+60,Non-binary,Met 2014 physical activity guidelines,0.0
+60,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+60,Total,Met 2014 physical activity guidelines,56.6
+60,Total,Did not meet 2014 physical activity guidelines,227.4
+61,Man,Met 2014 physical activity guidelines,16.2
+61,Man,Did not meet 2014 physical activity guidelines,135.2
+61,Woman,Met 2014 physical activity guidelines,26.3
+61,Woman,Did not meet 2014 physical activity guidelines,151.9
+61,Non-binary,Met 2014 physical activity guidelines,0.0
+61,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+61,Total,Met 2014 physical activity guidelines,42.4
+61,Total,Did not meet 2014 physical activity guidelines,281.5
+62,Man,Met 2014 physical activity guidelines,17.0
+62,Man,Did not meet 2014 physical activity guidelines,99.8
+62,Woman,Met 2014 physical activity guidelines,20.4
+62,Woman,Did not meet 2014 physical activity guidelines,129.9
+62,Non-binary,Met 2014 physical activity guidelines,0.0
+62,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+62,Total,Met 2014 physical activity guidelines,32.9
+62,Total,Did not meet 2014 physical activity guidelines,233.4
+63,Man,Met 2014 physical activity guidelines,14.4
+63,Man,Did not meet 2014 physical activity guidelines,123.7
+63,Woman,Met 2014 physical activity guidelines,20.8
+63,Woman,Did not meet 2014 physical activity guidelines,112.6
+63,Non-binary,Met 2014 physical activity guidelines,0.0
+63,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+63,Total,Met 2014 physical activity guidelines,47.4
+63,Total,Did not meet 2014 physical activity guidelines,228.4
+64,Man,Met 2014 physical activity guidelines,27.2
+64,Man,Did not meet 2014 physical activity guidelines,105.2
+64,Woman,Met 2014 physical activity guidelines,22.2
+64,Woman,Did not meet 2014 physical activity guidelines,113.4
+64,Non-binary,Met 2014 physical activity guidelines,0.0
+64,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+64,Total,Met 2014 physical activity guidelines,52.8
+64,Total,Did not meet 2014 physical activity guidelines,224.8
+65,Man,Met 2014 physical activity guidelines,49.4
+65,Man,Did not meet 2014 physical activity guidelines,79.4
+65,Woman,Met 2014 physical activity guidelines,52.4
+65,Woman,Did not meet 2014 physical activity guidelines,68.7
+65,Non-binary,Met 2014 physical activity guidelines,0.0
+65,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+65,Total,Met 2014 physical activity guidelines,102.2
+65,Total,Did not meet 2014 physical activity guidelines,154.2
+66,Man,Met 2014 physical activity guidelines,40.8
+66,Man,Did not meet 2014 physical activity guidelines,65.3
+66,Woman,Met 2014 physical activity guidelines,65.0
+66,Woman,Did not meet 2014 physical activity guidelines,95.0
+66,Non-binary,Met 2014 physical activity guidelines,0.0
+66,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+66,Total,Met 2014 physical activity guidelines,107.3
+66,Total,Did not meet 2014 physical activity guidelines,166.0
+67,Man,Met 2014 physical activity guidelines,42.5
+67,Man,Did not meet 2014 physical activity guidelines,80.4
+67,Woman,Met 2014 physical activity guidelines,45.5
+67,Woman,Did not meet 2014 physical activity guidelines,87.5
+67,Non-binary,Met 2014 physical activity guidelines,0.0
+67,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+67,Total,Met 2014 physical activity guidelines,91.5
+67,Total,Did not meet 2014 physical activity guidelines,167.0
+68,Man,Met 2014 physical activity guidelines,38.3
+68,Man,Did not meet 2014 physical activity guidelines,65.1
+68,Woman,Met 2014 physical activity guidelines,32.7
+68,Woman,Did not meet 2014 physical activity guidelines,62.0
+68,Non-binary,Met 2014 physical activity guidelines,0.0
+68,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+68,Total,Met 2014 physical activity guidelines,75.1
+68,Total,Did not meet 2014 physical activity guidelines,131.9
+69,Man,Met 2014 physical activity guidelines,40.2
+69,Man,Did not meet 2014 physical activity guidelines,55.1
+69,Woman,Met 2014 physical activity guidelines,40.2
+69,Woman,Did not meet 2014 physical activity guidelines,90.4
+69,Non-binary,Met 2014 physical activity guidelines,0.0
+69,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+69,Total,Met 2014 physical activity guidelines,86.1
+69,Total,Did not meet 2014 physical activity guidelines,147.8
+70,Man,Met 2014 physical activity guidelines,55.7
+70,Man,Did not meet 2014 physical activity guidelines,65.2
+70,Woman,Met 2014 physical activity guidelines,45.8
+70,Woman,Did not meet 2014 physical activity guidelines,80.5
+70,Non-binary,Met 2014 physical activity guidelines,0.0
+70,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+70,Total,Met 2014 physical activity guidelines,106.2
+70,Total,Did not meet 2014 physical activity guidelines,141.3
+71,Man,Met 2014 physical activity guidelines,37.9
+71,Man,Did not meet 2014 physical activity guidelines,64.8
+71,Woman,Met 2014 physical activity guidelines,49.3
+71,Woman,Did not meet 2014 physical activity guidelines,74.0
+71,Non-binary,Met 2014 physical activity guidelines,0.0
+71,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+71,Total,Met 2014 physical activity guidelines,84.4
+71,Total,Did not meet 2014 physical activity guidelines,134.9
+72,Man,Met 2014 physical activity guidelines,40.6
+72,Man,Did not meet 2014 physical activity guidelines,56.6
+72,Woman,Met 2014 physical activity guidelines,20.9
+72,Woman,Did not meet 2014 physical activity guidelines,70.3
+72,Non-binary,Met 2014 physical activity guidelines,0.0
+72,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+72,Total,Met 2014 physical activity guidelines,68.3
+72,Total,Did not meet 2014 physical activity guidelines,123.7
+73,Man,Met 2014 physical activity guidelines,44.4
+73,Man,Did not meet 2014 physical activity guidelines,64.7
+73,Woman,Met 2014 physical activity guidelines,48.1
+73,Woman,Did not meet 2014 physical activity guidelines,58.5
+73,Non-binary,Met 2014 physical activity guidelines,0.0
+73,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+73,Total,Met 2014 physical activity guidelines,93.8
+73,Total,Did not meet 2014 physical activity guidelines,119.8
+74,Man,Met 2014 physical activity guidelines,35.5
+74,Man,Did not meet 2014 physical activity guidelines,76.2
+74,Woman,Met 2014 physical activity guidelines,26.7
+74,Woman,Did not meet 2014 physical activity guidelines,62.5
+74,Non-binary,Met 2014 physical activity guidelines,0.0
+74,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+74,Total,Met 2014 physical activity guidelines,61.1
+74,Total,Did not meet 2014 physical activity guidelines,136.3
+75,Man,Met 2014 physical activity guidelines,20.5
+75,Man,Did not meet 2014 physical activity guidelines,73.1
+75,Woman,Met 2014 physical activity guidelines,32.4
+75,Woman,Did not meet 2014 physical activity guidelines,65.9
+75,Non-binary,Met 2014 physical activity guidelines,0.0
+75,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+75,Total,Met 2014 physical activity guidelines,55.9
+75,Total,Did not meet 2014 physical activity guidelines,142.8
+76,Man,Met 2014 physical activity guidelines,39.4
+76,Man,Did not meet 2014 physical activity guidelines,51.5
+76,Woman,Met 2014 physical activity guidelines,20.4
+76,Woman,Did not meet 2014 physical activity guidelines,69.0
+76,Non-binary,Met 2014 physical activity guidelines,0.0
+76,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+76,Total,Met 2014 physical activity guidelines,55.8
+76,Total,Did not meet 2014 physical activity guidelines,124.2
+77,Man,Met 2014 physical activity guidelines,25.7
+77,Man,Did not meet 2014 physical activity guidelines,49.5
+77,Woman,Met 2014 physical activity guidelines,29.9
+77,Woman,Did not meet 2014 physical activity guidelines,65.7
+77,Non-binary,Met 2014 physical activity guidelines,0.0
+77,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+77,Total,Met 2014 physical activity guidelines,54.4
+77,Total,Did not meet 2014 physical activity guidelines,116.1
+78,Man,Met 2014 physical activity guidelines,26.9
+78,Man,Did not meet 2014 physical activity guidelines,50.3
+78,Woman,Met 2014 physical activity guidelines,22.2
+78,Woman,Did not meet 2014 physical activity guidelines,65.4
+78,Non-binary,Met 2014 physical activity guidelines,0.0
+78,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+78,Total,Met 2014 physical activity guidelines,55.3
+78,Total,Did not meet 2014 physical activity guidelines,120.5
+79,Man,Met 2014 physical activity guidelines,20.8
+79,Man,Did not meet 2014 physical activity guidelines,35.2
+79,Woman,Met 2014 physical activity guidelines,25.9
+79,Woman,Did not meet 2014 physical activity guidelines,57.3
+79,Non-binary,Met 2014 physical activity guidelines,0.0
+79,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+79,Total,Met 2014 physical activity guidelines,52.6
+79,Total,Did not meet 2014 physical activity guidelines,90.2
+80,Man,Met 2014 physical activity guidelines,24.4
+80,Man,Did not meet 2014 physical activity guidelines,39.2
+80,Woman,Met 2014 physical activity guidelines,16.6
+80,Woman,Did not meet 2014 physical activity guidelines,43.9
+80,Non-binary,Met 2014 physical activity guidelines,0.0
+80,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+80,Total,Met 2014 physical activity guidelines,43.7
+80,Total,Did not meet 2014 physical activity guidelines,77.2
+81,Man,Met 2014 physical activity guidelines,16.6
+81,Man,Did not meet 2014 physical activity guidelines,49.5
+81,Woman,Met 2014 physical activity guidelines,18.4
+81,Woman,Did not meet 2014 physical activity guidelines,45.8
+81,Non-binary,Met 2014 physical activity guidelines,0.0
+81,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+81,Total,Met 2014 physical activity guidelines,37.4
+81,Total,Did not meet 2014 physical activity guidelines,96.7
+82,Man,Met 2014 physical activity guidelines,17.0
+82,Man,Did not meet 2014 physical activity guidelines,35.9
+82,Woman,Met 2014 physical activity guidelines,4.7
+82,Woman,Did not meet 2014 physical activity guidelines,26.0
+82,Non-binary,Met 2014 physical activity guidelines,0.0
+82,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+82,Total,Met 2014 physical activity guidelines,23.3
+82,Total,Did not meet 2014 physical activity guidelines,64.8
+83,Man,Met 2014 physical activity guidelines,4.8
+83,Man,Did not meet 2014 physical activity guidelines,43.2
+83,Woman,Met 2014 physical activity guidelines,5.8
+83,Woman,Did not meet 2014 physical activity guidelines,41.9
+83,Non-binary,Met 2014 physical activity guidelines,0.0
+83,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+83,Total,Met 2014 physical activity guidelines,12.2
+83,Total,Did not meet 2014 physical activity guidelines,82.8
+84,Man,Met 2014 physical activity guidelines,7.5
+84,Man,Did not meet 2014 physical activity guidelines,15.7
+84,Woman,Met 2014 physical activity guidelines,7.8
+84,Woman,Did not meet 2014 physical activity guidelines,32.4
+84,Non-binary,Met 2014 physical activity guidelines,0.0
+84,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+84,Total,Met 2014 physical activity guidelines,14.5
+84,Total,Did not meet 2014 physical activity guidelines,54.2
+85,Man,Met 2014 physical activity guidelines,11.5
+85,Man,Did not meet 2014 physical activity guidelines,15.5
+85,Woman,Met 2014 physical activity guidelines,6.7
+85,Woman,Did not meet 2014 physical activity guidelines,37.2
+85,Non-binary,Met 2014 physical activity guidelines,0.0
+85,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+85,Total,Met 2014 physical activity guidelines,13.9
+85,Total,Did not meet 2014 physical activity guidelines,58.3
+86,Man,Met 2014 physical activity guidelines,6.5
+86,Man,Did not meet 2014 physical activity guidelines,8.7
+86,Woman,Met 2014 physical activity guidelines,6.9
+86,Woman,Did not meet 2014 physical activity guidelines,32.9
+86,Non-binary,Met 2014 physical activity guidelines,0.0
+86,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+86,Total,Met 2014 physical activity guidelines,16.2
+86,Total,Did not meet 2014 physical activity guidelines,40.5
+87,Man,Met 2014 physical activity guidelines,5.0
+87,Man,Did not meet 2014 physical activity guidelines,18.7
+87,Woman,Met 2014 physical activity guidelines,4.0
+87,Woman,Did not meet 2014 physical activity guidelines,13.4
+87,Non-binary,Met 2014 physical activity guidelines,0.0
+87,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+87,Total,Met 2014 physical activity guidelines,8.2
+87,Total,Did not meet 2014 physical activity guidelines,31.2
+88,Man,Met 2014 physical activity guidelines,3.8
+88,Man,Did not meet 2014 physical activity guidelines,13.7
+88,Woman,Met 2014 physical activity guidelines,6.5
+88,Woman,Did not meet 2014 physical activity guidelines,18.4
+88,Non-binary,Met 2014 physical activity guidelines,0.0
+88,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+88,Total,Met 2014 physical activity guidelines,11.2
+88,Total,Did not meet 2014 physical activity guidelines,28.2
+89,Man,Met 2014 physical activity guidelines,0.0
+89,Man,Did not meet 2014 physical activity guidelines,18.9
+89,Woman,Met 2014 physical activity guidelines,10.1
+89,Woman,Did not meet 2014 physical activity guidelines,13.7
+89,Non-binary,Met 2014 physical activity guidelines,0.0
+89,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+89,Total,Met 2014 physical activity guidelines,9.8
+89,Total,Did not meet 2014 physical activity guidelines,33.8
+90,Man,Met 2014 physical activity guidelines,2.2
+90,Man,Did not meet 2014 physical activity guidelines,2.5
+90,Woman,Met 2014 physical activity guidelines,1.8
+90,Woman,Did not meet 2014 physical activity guidelines,6.7
+90,Non-binary,Met 2014 physical activity guidelines,0.0
+90,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+90,Total,Met 2014 physical activity guidelines,2.6
+90,Total,Did not meet 2014 physical activity guidelines,9.9
+91,Man,Met 2014 physical activity guidelines,0.0
+91,Man,Did not meet 2014 physical activity guidelines,9.9
+91,Woman,Met 2014 physical activity guidelines,2.3
+91,Woman,Did not meet 2014 physical activity guidelines,14.0
+91,Non-binary,Met 2014 physical activity guidelines,0.0
+91,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+91,Total,Met 2014 physical activity guidelines,11.7
+91,Total,Did not meet 2014 physical activity guidelines,18.6
+92,Man,Met 2014 physical activity guidelines,0.0
+92,Man,Did not meet 2014 physical activity guidelines,3.5
+92,Woman,Met 2014 physical activity guidelines,0.0
+92,Woman,Did not meet 2014 physical activity guidelines,10.2
+92,Non-binary,Met 2014 physical activity guidelines,0.0
+92,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+92,Total,Met 2014 physical activity guidelines,0.0
+92,Total,Did not meet 2014 physical activity guidelines,11.5
+93,Man,Met 2014 physical activity guidelines,0.0
+93,Man,Did not meet 2014 physical activity guidelines,4.6
+93,Woman,Met 2014 physical activity guidelines,0.0
+93,Woman,Did not meet 2014 physical activity guidelines,2.8
+93,Non-binary,Met 2014 physical activity guidelines,0.0
+93,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+93,Total,Met 2014 physical activity guidelines,0.0
+93,Total,Did not meet 2014 physical activity guidelines,5.2
+94,Man,Met 2014 physical activity guidelines,0.0
+94,Man,Did not meet 2014 physical activity guidelines,0.0
+94,Woman,Met 2014 physical activity guidelines,0.0
+94,Woman,Did not meet 2014 physical activity guidelines,6.5
+94,Non-binary,Met 2014 physical activity guidelines,0.0
+94,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+94,Total,Met 2014 physical activity guidelines,0.0
+94,Total,Did not meet 2014 physical activity guidelines,10.3
+95,Man,Met 2014 physical activity guidelines,0.0
+95,Man,Did not meet 2014 physical activity guidelines,0.0
+95,Woman,Met 2014 physical activity guidelines,0.0
+95,Woman,Did not meet 2014 physical activity guidelines,0.0
+95,Non-binary,Met 2014 physical activity guidelines,0.0
+95,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+95,Total,Met 2014 physical activity guidelines,0.0
+95,Total,Did not meet 2014 physical activity guidelines,4.4
+96,Man,Met 2014 physical activity guidelines,0.0
+96,Man,Did not meet 2014 physical activity guidelines,0.0
+96,Woman,Met 2014 physical activity guidelines,0.0
+96,Woman,Did not meet 2014 physical activity guidelines,4.6
+96,Non-binary,Met 2014 physical activity guidelines,0.0
+96,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+96,Total,Met 2014 physical activity guidelines,0.0
+96,Total,Did not meet 2014 physical activity guidelines,6.1
+97,Man,Met 2014 physical activity guidelines,0.0
+97,Man,Did not meet 2014 physical activity guidelines,0.0
+97,Woman,Met 2014 physical activity guidelines,0.0
+97,Woman,Did not meet 2014 physical activity guidelines,3.7
+97,Non-binary,Met 2014 physical activity guidelines,0.0
+97,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+97,Total,Met 2014 physical activity guidelines,0.0
+97,Total,Did not meet 2014 physical activity guidelines,3.7
+98,Man,Met 2014 physical activity guidelines,0.0
+98,Man,Did not meet 2014 physical activity guidelines,0.0
+98,Woman,Met 2014 physical activity guidelines,0.0
+98,Woman,Did not meet 2014 physical activity guidelines,8.1
+98,Non-binary,Met 2014 physical activity guidelines,0.0
+98,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+98,Total,Met 2014 physical activity guidelines,0.0
+98,Total,Did not meet 2014 physical activity guidelines,9.5
+99,Man,Met 2014 physical activity guidelines,0.0
+99,Man,Did not meet 2014 physical activity guidelines,0.0
+99,Woman,Met 2014 physical activity guidelines,0.0
+99,Woman,Did not meet 2014 physical activity guidelines,2.0
+99,Non-binary,Met 2014 physical activity guidelines,0.0
+99,Non-binary,Did not meet 2014 physical activity guidelines,0.0
+99,Total,Met 2014 physical activity guidelines,0.0
+99,Total,Did not meet 2014 physical activity guidelines,2.9

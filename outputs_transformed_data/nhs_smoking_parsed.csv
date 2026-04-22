@@ -1,0 +1,1201 @@
+age,gender,level,value
+0,Man,Current daily smoker,0.0
+0,Man,Current smoker - other,0.0
+0,Man,Current non-smoker,0.0
+0,Woman,Current daily smoker,0.0
+0,Woman,Current smoker - other,0.0
+0,Woman,Current non-smoker,0.0
+0,Non-binary,Current daily smoker,0.0
+0,Non-binary,Current smoker - other,0.0
+0,Non-binary,Current non-smoker,0.0
+0,Total,Current daily smoker,0.0
+0,Total,Current smoker - other,0.0
+0,Total,Current non-smoker,0.0
+1,Man,Current daily smoker,0.0
+1,Man,Current smoker - other,0.0
+1,Man,Current non-smoker,0.0
+1,Woman,Current daily smoker,0.0
+1,Woman,Current smoker - other,0.0
+1,Woman,Current non-smoker,0.0
+1,Non-binary,Current daily smoker,0.0
+1,Non-binary,Current smoker - other,0.0
+1,Non-binary,Current non-smoker,0.0
+1,Total,Current daily smoker,0.0
+1,Total,Current smoker - other,0.0
+1,Total,Current non-smoker,0.0
+2,Man,Current daily smoker,0.0
+2,Man,Current smoker - other,0.0
+2,Man,Current non-smoker,0.0
+2,Woman,Current daily smoker,0.0
+2,Woman,Current smoker - other,0.0
+2,Woman,Current non-smoker,0.0
+2,Non-binary,Current daily smoker,0.0
+2,Non-binary,Current smoker - other,0.0
+2,Non-binary,Current non-smoker,0.0
+2,Total,Current daily smoker,0.0
+2,Total,Current smoker - other,0.0
+2,Total,Current non-smoker,0.0
+3,Man,Current daily smoker,0.0
+3,Man,Current smoker - other,0.0
+3,Man,Current non-smoker,0.0
+3,Woman,Current daily smoker,0.0
+3,Woman,Current smoker - other,0.0
+3,Woman,Current non-smoker,0.0
+3,Non-binary,Current daily smoker,0.0
+3,Non-binary,Current smoker - other,0.0
+3,Non-binary,Current non-smoker,0.0
+3,Total,Current daily smoker,0.0
+3,Total,Current smoker - other,0.0
+3,Total,Current non-smoker,0.0
+4,Man,Current daily smoker,0.0
+4,Man,Current smoker - other,0.0
+4,Man,Current non-smoker,0.0
+4,Woman,Current daily smoker,0.0
+4,Woman,Current smoker - other,0.0
+4,Woman,Current non-smoker,0.0
+4,Non-binary,Current daily smoker,0.0
+4,Non-binary,Current smoker - other,0.0
+4,Non-binary,Current non-smoker,0.0
+4,Total,Current daily smoker,0.0
+4,Total,Current smoker - other,0.0
+4,Total,Current non-smoker,0.0
+5,Man,Current daily smoker,0.0
+5,Man,Current smoker - other,0.0
+5,Man,Current non-smoker,0.0
+5,Woman,Current daily smoker,0.0
+5,Woman,Current smoker - other,0.0
+5,Woman,Current non-smoker,0.0
+5,Non-binary,Current daily smoker,0.0
+5,Non-binary,Current smoker - other,0.0
+5,Non-binary,Current non-smoker,0.0
+5,Total,Current daily smoker,0.0
+5,Total,Current smoker - other,0.0
+5,Total,Current non-smoker,0.0
+6,Man,Current daily smoker,0.0
+6,Man,Current smoker - other,0.0
+6,Man,Current non-smoker,0.0
+6,Woman,Current daily smoker,0.0
+6,Woman,Current smoker - other,0.0
+6,Woman,Current non-smoker,0.0
+6,Non-binary,Current daily smoker,0.0
+6,Non-binary,Current smoker - other,0.0
+6,Non-binary,Current non-smoker,0.0
+6,Total,Current daily smoker,0.0
+6,Total,Current smoker - other,0.0
+6,Total,Current non-smoker,0.0
+7,Man,Current daily smoker,0.0
+7,Man,Current smoker - other,0.0
+7,Man,Current non-smoker,0.0
+7,Woman,Current daily smoker,0.0
+7,Woman,Current smoker - other,0.0
+7,Woman,Current non-smoker,0.0
+7,Non-binary,Current daily smoker,0.0
+7,Non-binary,Current smoker - other,0.0
+7,Non-binary,Current non-smoker,0.0
+7,Total,Current daily smoker,0.0
+7,Total,Current smoker - other,0.0
+7,Total,Current non-smoker,0.0
+8,Man,Current daily smoker,0.0
+8,Man,Current smoker - other,0.0
+8,Man,Current non-smoker,0.0
+8,Woman,Current daily smoker,0.0
+8,Woman,Current smoker - other,0.0
+8,Woman,Current non-smoker,0.0
+8,Non-binary,Current daily smoker,0.0
+8,Non-binary,Current smoker - other,0.0
+8,Non-binary,Current non-smoker,0.0
+8,Total,Current daily smoker,0.0
+8,Total,Current smoker - other,0.0
+8,Total,Current non-smoker,0.0
+9,Man,Current daily smoker,0.0
+9,Man,Current smoker - other,0.0
+9,Man,Current non-smoker,0.0
+9,Woman,Current daily smoker,0.0
+9,Woman,Current smoker - other,0.0
+9,Woman,Current non-smoker,0.0
+9,Non-binary,Current daily smoker,0.0
+9,Non-binary,Current smoker - other,0.0
+9,Non-binary,Current non-smoker,0.0
+9,Total,Current daily smoker,0.0
+9,Total,Current smoker - other,0.0
+9,Total,Current non-smoker,0.0
+10,Man,Current daily smoker,0.0
+10,Man,Current smoker - other,0.0
+10,Man,Current non-smoker,0.0
+10,Woman,Current daily smoker,0.0
+10,Woman,Current smoker - other,0.0
+10,Woman,Current non-smoker,0.0
+10,Non-binary,Current daily smoker,0.0
+10,Non-binary,Current smoker - other,0.0
+10,Non-binary,Current non-smoker,0.0
+10,Total,Current daily smoker,0.0
+10,Total,Current smoker - other,0.0
+10,Total,Current non-smoker,0.0
+11,Man,Current daily smoker,0.0
+11,Man,Current smoker - other,0.0
+11,Man,Current non-smoker,0.0
+11,Woman,Current daily smoker,0.0
+11,Woman,Current smoker - other,0.0
+11,Woman,Current non-smoker,0.0
+11,Non-binary,Current daily smoker,0.0
+11,Non-binary,Current smoker - other,0.0
+11,Non-binary,Current non-smoker,0.0
+11,Total,Current daily smoker,0.0
+11,Total,Current smoker - other,0.0
+11,Total,Current non-smoker,0.0
+12,Man,Current daily smoker,0.0
+12,Man,Current smoker - other,0.0
+12,Man,Current non-smoker,0.0
+12,Woman,Current daily smoker,0.0
+12,Woman,Current smoker - other,0.0
+12,Woman,Current non-smoker,0.0
+12,Non-binary,Current daily smoker,0.0
+12,Non-binary,Current smoker - other,0.0
+12,Non-binary,Current non-smoker,0.0
+12,Total,Current daily smoker,0.0
+12,Total,Current smoker - other,0.0
+12,Total,Current non-smoker,0.0
+13,Man,Current daily smoker,0.0
+13,Man,Current smoker - other,0.0
+13,Man,Current non-smoker,0.0
+13,Woman,Current daily smoker,0.0
+13,Woman,Current smoker - other,0.0
+13,Woman,Current non-smoker,0.0
+13,Non-binary,Current daily smoker,0.0
+13,Non-binary,Current smoker - other,0.0
+13,Non-binary,Current non-smoker,0.0
+13,Total,Current daily smoker,0.0
+13,Total,Current smoker - other,0.0
+13,Total,Current non-smoker,0.0
+14,Man,Current daily smoker,0.0
+14,Man,Current smoker - other,0.0
+14,Man,Current non-smoker,0.0
+14,Woman,Current daily smoker,0.0
+14,Woman,Current smoker - other,0.0
+14,Woman,Current non-smoker,0.0
+14,Non-binary,Current daily smoker,0.0
+14,Non-binary,Current smoker - other,0.0
+14,Non-binary,Current non-smoker,0.0
+14,Total,Current daily smoker,0.0
+14,Total,Current smoker - other,0.0
+14,Total,Current non-smoker,0.0
+15,Man,Current daily smoker,0.0
+15,Man,Current smoker - other,0.0
+15,Man,Current non-smoker,0.0
+15,Woman,Current daily smoker,0.0
+15,Woman,Current smoker - other,0.0
+15,Woman,Current non-smoker,0.0
+15,Non-binary,Current daily smoker,0.0
+15,Non-binary,Current smoker - other,0.0
+15,Non-binary,Current non-smoker,0.0
+15,Total,Current daily smoker,0.0
+15,Total,Current smoker - other,0.0
+15,Total,Current non-smoker,0.0
+16,Man,Current daily smoker,0.0
+16,Man,Current smoker - other,0.0
+16,Man,Current non-smoker,54.7
+16,Woman,Current daily smoker,0.0
+16,Woman,Current smoker - other,0.0
+16,Woman,Current non-smoker,35.5
+16,Non-binary,Current daily smoker,0.0
+16,Non-binary,Current smoker - other,0.0
+16,Non-binary,Current non-smoker,0.0
+16,Total,Current daily smoker,0.0
+16,Total,Current smoker - other,0.0
+16,Total,Current non-smoker,93.4
+17,Man,Current daily smoker,0.0
+17,Man,Current smoker - other,0.0
+17,Man,Current non-smoker,62.2
+17,Woman,Current daily smoker,0.0
+17,Woman,Current smoker - other,0.0
+17,Woman,Current non-smoker,63.0
+17,Non-binary,Current daily smoker,0.0
+17,Non-binary,Current smoker - other,0.0
+17,Non-binary,Current non-smoker,0.0
+17,Total,Current daily smoker,3.6
+17,Total,Current smoker - other,0.0
+17,Total,Current non-smoker,137.3
+18,Man,Current daily smoker,8.9
+18,Man,Current smoker - other,11.0
+18,Man,Current non-smoker,163.5
+18,Woman,Current daily smoker,0.0
+18,Woman,Current smoker - other,3.4
+18,Woman,Current non-smoker,132.7
+18,Non-binary,Current daily smoker,0.0
+18,Non-binary,Current smoker - other,0.0
+18,Non-binary,Current non-smoker,0.0
+18,Total,Current daily smoker,11.6
+18,Total,Current smoker - other,7.2
+18,Total,Current non-smoker,289.4
+19,Man,Current daily smoker,0.0
+19,Man,Current smoker - other,15.7
+19,Man,Current non-smoker,124.6
+19,Woman,Current daily smoker,14.5
+19,Woman,Current smoker - other,0.0
+19,Woman,Current non-smoker,147.9
+19,Non-binary,Current daily smoker,0.0
+19,Non-binary,Current smoker - other,0.0
+19,Non-binary,Current non-smoker,0.0
+19,Total,Current daily smoker,11.3
+19,Total,Current smoker - other,24.3
+19,Total,Current non-smoker,270.1
+20,Man,Current daily smoker,18.2
+20,Man,Current smoker - other,0.0
+20,Man,Current non-smoker,106.0
+20,Woman,Current daily smoker,2.4
+20,Woman,Current smoker - other,0.0
+20,Woman,Current non-smoker,144.9
+20,Non-binary,Current daily smoker,0.0
+20,Non-binary,Current smoker - other,0.0
+20,Non-binary,Current non-smoker,3.4
+20,Total,Current daily smoker,18.4
+20,Total,Current smoker - other,6.0
+20,Total,Current non-smoker,238.8
+21,Man,Current daily smoker,14.5
+21,Man,Current smoker - other,10.0
+21,Man,Current non-smoker,129.8
+21,Woman,Current daily smoker,10.4
+21,Woman,Current smoker - other,0.0
+21,Woman,Current non-smoker,94.5
+21,Non-binary,Current daily smoker,0.0
+21,Non-binary,Current smoker - other,0.0
+21,Non-binary,Current non-smoker,5.1
+21,Total,Current daily smoker,22.6
+21,Total,Current smoker - other,10.0
+21,Total,Current non-smoker,231.8
+22,Man,Current daily smoker,20.5
+22,Man,Current smoker - other,11.8
+22,Man,Current non-smoker,132.9
+22,Woman,Current daily smoker,5.9
+22,Woman,Current smoker - other,9.2
+22,Woman,Current non-smoker,140.8
+22,Non-binary,Current daily smoker,0.0
+22,Non-binary,Current smoker - other,0.0
+22,Non-binary,Current non-smoker,6.0
+22,Total,Current daily smoker,19.6
+22,Total,Current smoker - other,17.1
+22,Total,Current non-smoker,261.7
+23,Man,Current daily smoker,9.2
+23,Man,Current smoker - other,2.3
+23,Man,Current non-smoker,148.0
+23,Woman,Current daily smoker,7.8
+23,Woman,Current smoker - other,5.7
+23,Woman,Current non-smoker,126.4
+23,Non-binary,Current daily smoker,0.0
+23,Non-binary,Current smoker - other,0.0
+23,Non-binary,Current non-smoker,0.0
+23,Total,Current daily smoker,28.2
+23,Total,Current smoker - other,7.9
+23,Total,Current non-smoker,267.6
+24,Man,Current daily smoker,14.6
+24,Man,Current smoker - other,12.1
+24,Man,Current non-smoker,95.3
+24,Woman,Current daily smoker,13.3
+24,Woman,Current smoker - other,0.0
+24,Woman,Current non-smoker,114.4
+24,Non-binary,Current daily smoker,0.0
+24,Non-binary,Current smoker - other,0.0
+24,Non-binary,Current non-smoker,0.0
+24,Total,Current daily smoker,31.3
+24,Total,Current smoker - other,10.4
+24,Total,Current non-smoker,203.8
+25,Man,Current daily smoker,33.4
+25,Man,Current smoker - other,0.0
+25,Man,Current non-smoker,135.0
+25,Woman,Current daily smoker,18.9
+25,Woman,Current smoker - other,0.0
+25,Woman,Current non-smoker,100.5
+25,Non-binary,Current daily smoker,0.0
+25,Non-binary,Current smoker - other,0.0
+25,Non-binary,Current non-smoker,0.0
+25,Total,Current daily smoker,49.6
+25,Total,Current smoker - other,3.8
+25,Total,Current non-smoker,233.1
+26,Man,Current daily smoker,19.4
+26,Man,Current smoker - other,0.0
+26,Man,Current non-smoker,116.8
+26,Woman,Current daily smoker,9.7
+26,Woman,Current smoker - other,0.0
+26,Woman,Current non-smoker,123.0
+26,Non-binary,Current daily smoker,0.0
+26,Non-binary,Current smoker - other,0.0
+26,Non-binary,Current non-smoker,0.0
+26,Total,Current daily smoker,24.0
+26,Total,Current smoker - other,3.1
+26,Total,Current non-smoker,239.7
+27,Man,Current daily smoker,27.3
+27,Man,Current smoker - other,0.0
+27,Man,Current non-smoker,127.6
+27,Woman,Current daily smoker,9.1
+27,Woman,Current smoker - other,1.0
+27,Woman,Current non-smoker,158.7
+27,Non-binary,Current daily smoker,0.0
+27,Non-binary,Current smoker - other,0.0
+27,Non-binary,Current non-smoker,0.0
+27,Total,Current daily smoker,40.7
+27,Total,Current smoker - other,2.2
+27,Total,Current non-smoker,288.8
+28,Man,Current daily smoker,25.1
+28,Man,Current smoker - other,4.9
+28,Man,Current non-smoker,153.3
+28,Woman,Current daily smoker,5.6
+28,Woman,Current smoker - other,0.6
+28,Woman,Current non-smoker,161.4
+28,Non-binary,Current daily smoker,0.0
+28,Non-binary,Current smoker - other,0.0
+28,Non-binary,Current non-smoker,19.4
+28,Total,Current daily smoker,31.4
+28,Total,Current smoker - other,8.0
+28,Total,Current non-smoker,320.1
+29,Man,Current daily smoker,15.9
+29,Man,Current smoker - other,3.3
+29,Man,Current non-smoker,167.3
+29,Woman,Current daily smoker,25.1
+29,Woman,Current smoker - other,0.0
+29,Woman,Current non-smoker,143.7
+29,Non-binary,Current daily smoker,0.0
+29,Non-binary,Current smoker - other,0.0
+29,Non-binary,Current non-smoker,0.0
+29,Total,Current daily smoker,43.1
+29,Total,Current smoker - other,3.3
+29,Total,Current non-smoker,311.8
+30,Man,Current daily smoker,31.7
+30,Man,Current smoker - other,8.2
+30,Man,Current non-smoker,193.2
+30,Woman,Current daily smoker,17.3
+30,Woman,Current smoker - other,0.9
+30,Woman,Current non-smoker,139.0
+30,Non-binary,Current daily smoker,0.0
+30,Non-binary,Current smoker - other,0.0
+30,Non-binary,Current non-smoker,1.9
+30,Total,Current daily smoker,53.1
+30,Total,Current smoker - other,11.3
+30,Total,Current non-smoker,326.1
+31,Man,Current daily smoker,28.1
+31,Man,Current smoker - other,6.9
+31,Man,Current non-smoker,127.7
+31,Woman,Current daily smoker,11.7
+31,Woman,Current smoker - other,0.0
+31,Woman,Current non-smoker,217.3
+31,Non-binary,Current daily smoker,0.0
+31,Non-binary,Current smoker - other,0.0
+31,Non-binary,Current non-smoker,0.0
+31,Total,Current daily smoker,44.1
+31,Total,Current smoker - other,6.9
+31,Total,Current non-smoker,356.5
+32,Man,Current daily smoker,16.7
+32,Man,Current smoker - other,0.0
+32,Man,Current non-smoker,159.2
+32,Woman,Current daily smoker,23.7
+32,Woman,Current smoker - other,11.9
+32,Woman,Current non-smoker,181.4
+32,Non-binary,Current daily smoker,0.0
+32,Non-binary,Current smoker - other,0.0
+32,Non-binary,Current non-smoker,0.0
+32,Total,Current daily smoker,37.7
+32,Total,Current smoker - other,14.0
+32,Total,Current non-smoker,344.1
+33,Man,Current daily smoker,23.1
+33,Man,Current smoker - other,2.7
+33,Man,Current non-smoker,152.6
+33,Woman,Current daily smoker,14.0
+33,Woman,Current smoker - other,0.0
+33,Woman,Current non-smoker,181.5
+33,Non-binary,Current daily smoker,0.0
+33,Non-binary,Current smoker - other,0.0
+33,Non-binary,Current non-smoker,0.0
+33,Total,Current daily smoker,38.7
+33,Total,Current smoker - other,8.6
+33,Total,Current non-smoker,329.0
+34,Man,Current daily smoker,13.0
+34,Man,Current smoker - other,13.1
+34,Man,Current non-smoker,129.2
+34,Woman,Current daily smoker,24.1
+34,Woman,Current smoker - other,0.0
+34,Woman,Current non-smoker,199.8
+34,Non-binary,Current daily smoker,0.0
+34,Non-binary,Current smoker - other,0.0
+34,Non-binary,Current non-smoker,0.0
+34,Total,Current daily smoker,30.8
+34,Total,Current smoker - other,13.1
+34,Total,Current non-smoker,323.7
+35,Man,Current daily smoker,9.0
+35,Man,Current smoker - other,5.3
+35,Man,Current non-smoker,156.9
+35,Woman,Current daily smoker,18.6
+35,Woman,Current smoker - other,3.7
+35,Woman,Current non-smoker,175.5
+35,Non-binary,Current daily smoker,0.0
+35,Non-binary,Current smoker - other,0.0
+35,Non-binary,Current non-smoker,0.0
+35,Total,Current daily smoker,20.2
+35,Total,Current smoker - other,4.5
+35,Total,Current non-smoker,324.4
+36,Man,Current daily smoker,26.6
+36,Man,Current smoker - other,0.0
+36,Man,Current non-smoker,88.9
+36,Woman,Current daily smoker,7.9
+36,Woman,Current smoker - other,0.0
+36,Woman,Current non-smoker,157.1
+36,Non-binary,Current daily smoker,0.0
+36,Non-binary,Current smoker - other,0.0
+36,Non-binary,Current non-smoker,0.0
+36,Total,Current daily smoker,39.9
+36,Total,Current smoker - other,0.0
+36,Total,Current non-smoker,239.9
+37,Man,Current daily smoker,27.1
+37,Man,Current smoker - other,3.0
+37,Man,Current non-smoker,133.5
+37,Woman,Current daily smoker,11.2
+37,Woman,Current smoker - other,0.0
+37,Woman,Current non-smoker,149.2
+37,Non-binary,Current daily smoker,0.0
+37,Non-binary,Current smoker - other,0.0
+37,Non-binary,Current non-smoker,3.1
+37,Total,Current daily smoker,36.4
+37,Total,Current smoker - other,5.3
+37,Total,Current non-smoker,286.2
+38,Man,Current daily smoker,16.3
+38,Man,Current smoker - other,0.0
+38,Man,Current non-smoker,157.6
+38,Woman,Current daily smoker,7.8
+38,Woman,Current smoker - other,0.0
+38,Woman,Current non-smoker,181.4
+38,Non-binary,Current daily smoker,0.0
+38,Non-binary,Current smoker - other,0.0
+38,Non-binary,Current non-smoker,0.0
+38,Total,Current daily smoker,32.8
+38,Total,Current smoker - other,0.0
+38,Total,Current non-smoker,340.7
+39,Man,Current daily smoker,27.6
+39,Man,Current smoker - other,4.2
+39,Man,Current non-smoker,119.7
+39,Woman,Current daily smoker,5.4
+39,Woman,Current smoker - other,0.0
+39,Woman,Current non-smoker,171.9
+39,Non-binary,Current daily smoker,0.0
+39,Non-binary,Current smoker - other,0.0
+39,Non-binary,Current non-smoker,0.0
+39,Total,Current daily smoker,29.3
+39,Total,Current smoker - other,4.2
+39,Total,Current non-smoker,294.6
+40,Man,Current daily smoker,23.0
+40,Man,Current smoker - other,6.3
+40,Man,Current non-smoker,187.3
+40,Woman,Current daily smoker,12.8
+40,Woman,Current smoker - other,0.0
+40,Woman,Current non-smoker,159.4
+40,Non-binary,Current daily smoker,0.0
+40,Non-binary,Current smoker - other,0.0
+40,Non-binary,Current non-smoker,0.0
+40,Total,Current daily smoker,38.7
+40,Total,Current smoker - other,8.9
+40,Total,Current non-smoker,348.3
+41,Man,Current daily smoker,23.3
+41,Man,Current smoker - other,3.1
+41,Man,Current non-smoker,144.4
+41,Woman,Current daily smoker,28.8
+41,Woman,Current smoker - other,0.0
+41,Woman,Current non-smoker,147.4
+41,Non-binary,Current daily smoker,0.0
+41,Non-binary,Current smoker - other,0.0
+41,Non-binary,Current non-smoker,0.0
+41,Total,Current daily smoker,42.2
+41,Total,Current smoker - other,3.1
+41,Total,Current non-smoker,296.3
+42,Man,Current daily smoker,38.0
+42,Man,Current smoker - other,0.0
+42,Man,Current non-smoker,150.1
+42,Woman,Current daily smoker,21.8
+42,Woman,Current smoker - other,0.0
+42,Woman,Current non-smoker,117.6
+42,Non-binary,Current daily smoker,0.0
+42,Non-binary,Current smoker - other,0.0
+42,Non-binary,Current non-smoker,3.0
+42,Total,Current daily smoker,53.9
+42,Total,Current smoker - other,0.0
+42,Total,Current non-smoker,266.8
+43,Man,Current daily smoker,13.0
+43,Man,Current smoker - other,0.0
+43,Man,Current non-smoker,152.1
+43,Woman,Current daily smoker,18.5
+43,Woman,Current smoker - other,0.0
+43,Woman,Current non-smoker,159.8
+43,Non-binary,Current daily smoker,0.0
+43,Non-binary,Current smoker - other,0.0
+43,Non-binary,Current non-smoker,0.0
+43,Total,Current daily smoker,29.6
+43,Total,Current smoker - other,0.0
+43,Total,Current non-smoker,321.5
+44,Man,Current daily smoker,19.0
+44,Man,Current smoker - other,0.0
+44,Man,Current non-smoker,107.5
+44,Woman,Current daily smoker,10.1
+44,Woman,Current smoker - other,0.0
+44,Woman,Current non-smoker,155.7
+44,Non-binary,Current daily smoker,0.0
+44,Non-binary,Current smoker - other,0.0
+44,Non-binary,Current non-smoker,0.0
+44,Total,Current daily smoker,30.4
+44,Total,Current smoker - other,0.0
+44,Total,Current non-smoker,260.2
+45,Man,Current daily smoker,27.5
+45,Man,Current smoker - other,0.0
+45,Man,Current non-smoker,167.3
+45,Woman,Current daily smoker,15.4
+45,Woman,Current smoker - other,4.0
+45,Woman,Current non-smoker,146.1
+45,Non-binary,Current daily smoker,0.0
+45,Non-binary,Current smoker - other,0.0
+45,Non-binary,Current non-smoker,0.0
+45,Total,Current daily smoker,43.4
+45,Total,Current smoker - other,2.0
+45,Total,Current non-smoker,306.9
+46,Man,Current daily smoker,15.5
+46,Man,Current smoker - other,0.0
+46,Man,Current non-smoker,101.7
+46,Woman,Current daily smoker,7.6
+46,Woman,Current smoker - other,0.0
+46,Woman,Current non-smoker,146.9
+46,Non-binary,Current daily smoker,0.0
+46,Non-binary,Current smoker - other,0.0
+46,Non-binary,Current non-smoker,0.0
+46,Total,Current daily smoker,29.6
+46,Total,Current smoker - other,0.0
+46,Total,Current non-smoker,247.2
+47,Man,Current daily smoker,11.2
+47,Man,Current smoker - other,3.0
+47,Man,Current non-smoker,122.4
+47,Woman,Current daily smoker,9.6
+47,Woman,Current smoker - other,0.0
+47,Woman,Current non-smoker,100.7
+47,Non-binary,Current daily smoker,0.0
+47,Non-binary,Current smoker - other,0.0
+47,Non-binary,Current non-smoker,0.0
+47,Total,Current daily smoker,25.8
+47,Total,Current smoker - other,4.2
+47,Total,Current non-smoker,228.8
+48,Man,Current daily smoker,26.8
+48,Man,Current smoker - other,14.9
+48,Man,Current non-smoker,168.0
+48,Woman,Current daily smoker,11.3
+48,Woman,Current smoker - other,0.0
+48,Woman,Current non-smoker,116.6
+48,Non-binary,Current daily smoker,0.0
+48,Non-binary,Current smoker - other,0.0
+48,Non-binary,Current non-smoker,0.0
+48,Total,Current daily smoker,36.6
+48,Total,Current smoker - other,20.8
+48,Total,Current non-smoker,284.2
+49,Man,Current daily smoker,20.8
+49,Man,Current smoker - other,0.0
+49,Man,Current non-smoker,103.4
+49,Woman,Current daily smoker,21.5
+49,Woman,Current smoker - other,0.0
+49,Woman,Current non-smoker,183.4
+49,Non-binary,Current daily smoker,0.0
+49,Non-binary,Current smoker - other,0.0
+49,Non-binary,Current non-smoker,0.0
+49,Total,Current daily smoker,49.5
+49,Total,Current smoker - other,8.9
+49,Total,Current non-smoker,283.6
+50,Man,Current daily smoker,33.4
+50,Man,Current smoker - other,0.0
+50,Man,Current non-smoker,128.5
+50,Woman,Current daily smoker,33.3
+50,Woman,Current smoker - other,2.4
+50,Woman,Current non-smoker,143.3
+50,Non-binary,Current daily smoker,0.0
+50,Non-binary,Current smoker - other,0.0
+50,Non-binary,Current non-smoker,0.0
+50,Total,Current daily smoker,79.9
+50,Total,Current smoker - other,2.4
+50,Total,Current non-smoker,271.7
+51,Man,Current daily smoker,21.6
+51,Man,Current smoker - other,0.0
+51,Man,Current non-smoker,114.0
+51,Woman,Current daily smoker,18.8
+51,Woman,Current smoker - other,0.0
+51,Woman,Current non-smoker,128.3
+51,Non-binary,Current daily smoker,0.0
+51,Non-binary,Current smoker - other,0.0
+51,Non-binary,Current non-smoker,0.0
+51,Total,Current daily smoker,36.8
+51,Total,Current smoker - other,0.5
+51,Total,Current non-smoker,241.1
+52,Man,Current daily smoker,16.4
+52,Man,Current smoker - other,6.2
+52,Man,Current non-smoker,108.4
+52,Woman,Current daily smoker,20.1
+52,Woman,Current smoker - other,0.0
+52,Woman,Current non-smoker,152.2
+52,Non-binary,Current daily smoker,0.0
+52,Non-binary,Current smoker - other,0.0
+52,Non-binary,Current non-smoker,0.0
+52,Total,Current daily smoker,33.8
+52,Total,Current smoker - other,5.1
+52,Total,Current non-smoker,260.3
+53,Man,Current daily smoker,37.8
+53,Man,Current smoker - other,0.0
+53,Man,Current non-smoker,99.5
+53,Woman,Current daily smoker,31.4
+53,Woman,Current smoker - other,0.0
+53,Woman,Current non-smoker,124.6
+53,Non-binary,Current daily smoker,0.0
+53,Non-binary,Current smoker - other,0.0
+53,Non-binary,Current non-smoker,0.0
+53,Total,Current daily smoker,61.8
+53,Total,Current smoker - other,7.3
+53,Total,Current non-smoker,224.5
+54,Man,Current daily smoker,35.2
+54,Man,Current smoker - other,0.0
+54,Man,Current non-smoker,115.9
+54,Woman,Current daily smoker,15.6
+54,Woman,Current smoker - other,0.0
+54,Woman,Current non-smoker,125.4
+54,Non-binary,Current daily smoker,0.0
+54,Non-binary,Current smoker - other,0.0
+54,Non-binary,Current non-smoker,0.0
+54,Total,Current daily smoker,50.3
+54,Total,Current smoker - other,6.9
+54,Total,Current non-smoker,248.0
+55,Man,Current daily smoker,38.0
+55,Man,Current smoker - other,0.0
+55,Man,Current non-smoker,74.2
+55,Woman,Current daily smoker,23.4
+55,Woman,Current smoker - other,0.0
+55,Woman,Current non-smoker,102.8
+55,Non-binary,Current daily smoker,0.0
+55,Non-binary,Current smoker - other,0.0
+55,Non-binary,Current non-smoker,0.0
+55,Total,Current daily smoker,61.1
+55,Total,Current smoker - other,9.2
+55,Total,Current non-smoker,175.5
+56,Man,Current daily smoker,14.8
+56,Man,Current smoker - other,0.0
+56,Man,Current non-smoker,136.3
+56,Woman,Current daily smoker,11.0
+56,Woman,Current smoker - other,4.0
+56,Woman,Current non-smoker,145.0
+56,Non-binary,Current daily smoker,0.0
+56,Non-binary,Current smoker - other,0.0
+56,Non-binary,Current non-smoker,0.0
+56,Total,Current daily smoker,25.7
+56,Total,Current smoker - other,4.0
+56,Total,Current non-smoker,276.7
+57,Man,Current daily smoker,42.4
+57,Man,Current smoker - other,0.0
+57,Man,Current non-smoker,127.3
+57,Woman,Current daily smoker,20.6
+57,Woman,Current smoker - other,0.0
+57,Woman,Current non-smoker,137.6
+57,Non-binary,Current daily smoker,0.0
+57,Non-binary,Current smoker - other,0.0
+57,Non-binary,Current non-smoker,0.0
+57,Total,Current daily smoker,72.6
+57,Total,Current smoker - other,0.0
+57,Total,Current non-smoker,265.7
+58,Man,Current daily smoker,23.6
+58,Man,Current smoker - other,0.0
+58,Man,Current non-smoker,141.2
+58,Woman,Current daily smoker,15.5
+58,Woman,Current smoker - other,3.1
+58,Woman,Current non-smoker,96.2
+58,Non-binary,Current daily smoker,0.0
+58,Non-binary,Current smoker - other,0.0
+58,Non-binary,Current non-smoker,0.0
+58,Total,Current daily smoker,46.8
+58,Total,Current smoker - other,2.7
+58,Total,Current non-smoker,239.8
+59,Man,Current daily smoker,23.5
+59,Man,Current smoker - other,0.0
+59,Man,Current non-smoker,107.0
+59,Woman,Current daily smoker,36.1
+59,Woman,Current smoker - other,0.0
+59,Woman,Current non-smoker,126.6
+59,Non-binary,Current daily smoker,0.0
+59,Non-binary,Current smoker - other,0.0
+59,Non-binary,Current non-smoker,0.0
+59,Total,Current daily smoker,65.7
+59,Total,Current smoker - other,0.0
+59,Total,Current non-smoker,233.7
+60,Man,Current daily smoker,18.6
+60,Man,Current smoker - other,0.0
+60,Man,Current non-smoker,104.4
+60,Woman,Current daily smoker,13.6
+60,Woman,Current smoker - other,0.0
+60,Woman,Current non-smoker,141.0
+60,Non-binary,Current daily smoker,0.0
+60,Non-binary,Current smoker - other,0.0
+60,Non-binary,Current non-smoker,0.0
+60,Total,Current daily smoker,25.2
+60,Total,Current smoker - other,0.0
+60,Total,Current non-smoker,250.9
+61,Man,Current daily smoker,17.3
+61,Man,Current smoker - other,0.0
+61,Man,Current non-smoker,127.7
+61,Woman,Current daily smoker,19.4
+61,Woman,Current smoker - other,0.0
+61,Woman,Current non-smoker,151.6
+61,Non-binary,Current daily smoker,0.0
+61,Non-binary,Current smoker - other,0.0
+61,Non-binary,Current non-smoker,0.0
+61,Total,Current daily smoker,45.0
+61,Total,Current smoker - other,3.6
+61,Total,Current non-smoker,273.5
+62,Man,Current daily smoker,18.5
+62,Man,Current smoker - other,0.0
+62,Man,Current non-smoker,91.8
+62,Woman,Current daily smoker,16.7
+62,Woman,Current smoker - other,0.0
+62,Woman,Current non-smoker,131.9
+62,Non-binary,Current daily smoker,0.0
+62,Non-binary,Current smoker - other,0.0
+62,Non-binary,Current non-smoker,0.0
+62,Total,Current daily smoker,32.6
+62,Total,Current smoker - other,0.0
+62,Total,Current non-smoker,232.8
+63,Man,Current daily smoker,25.0
+63,Man,Current smoker - other,0.0
+63,Man,Current non-smoker,115.7
+63,Woman,Current daily smoker,22.0
+63,Woman,Current smoker - other,0.0
+63,Woman,Current non-smoker,111.0
+63,Non-binary,Current daily smoker,0.0
+63,Non-binary,Current smoker - other,0.0
+63,Non-binary,Current non-smoker,0.0
+63,Total,Current daily smoker,46.9
+63,Total,Current smoker - other,7.4
+63,Total,Current non-smoker,225.4
+64,Man,Current daily smoker,14.8
+64,Man,Current smoker - other,0.0
+64,Man,Current non-smoker,129.9
+64,Woman,Current daily smoker,10.3
+64,Woman,Current smoker - other,6.8
+64,Woman,Current non-smoker,124.0
+64,Non-binary,Current daily smoker,0.0
+64,Non-binary,Current smoker - other,0.0
+64,Non-binary,Current non-smoker,0.0
+64,Total,Current daily smoker,21.7
+64,Total,Current smoker - other,0.0
+64,Total,Current non-smoker,253.6
+65,Man,Current daily smoker,12.1
+65,Man,Current smoker - other,0.0
+65,Man,Current non-smoker,121.4
+65,Woman,Current daily smoker,10.6
+65,Woman,Current smoker - other,3.1
+65,Woman,Current non-smoker,109.1
+65,Non-binary,Current daily smoker,0.0
+65,Non-binary,Current smoker - other,0.0
+65,Non-binary,Current non-smoker,0.0
+65,Total,Current daily smoker,24.7
+65,Total,Current smoker - other,3.1
+65,Total,Current non-smoker,230.9
+66,Man,Current daily smoker,14.9
+66,Man,Current smoker - other,0.0
+66,Man,Current non-smoker,93.5
+66,Woman,Current daily smoker,19.6
+66,Woman,Current smoker - other,0.0
+66,Woman,Current non-smoker,141.6
+66,Non-binary,Current daily smoker,0.0
+66,Non-binary,Current smoker - other,0.0
+66,Non-binary,Current non-smoker,0.0
+66,Total,Current daily smoker,35.5
+66,Total,Current smoker - other,0.0
+66,Total,Current non-smoker,237.6
+67,Man,Current daily smoker,13.4
+67,Man,Current smoker - other,0.0
+67,Man,Current non-smoker,110.6
+67,Woman,Current daily smoker,8.2
+67,Woman,Current smoker - other,0.0
+67,Woman,Current non-smoker,126.2
+67,Non-binary,Current daily smoker,0.0
+67,Non-binary,Current smoker - other,0.0
+67,Non-binary,Current non-smoker,0.0
+67,Total,Current daily smoker,21.2
+67,Total,Current smoker - other,0.0
+67,Total,Current non-smoker,235.0
+68,Man,Current daily smoker,12.8
+68,Man,Current smoker - other,0.0
+68,Man,Current non-smoker,90.7
+68,Woman,Current daily smoker,9.9
+68,Woman,Current smoker - other,0.0
+68,Woman,Current non-smoker,83.4
+68,Non-binary,Current daily smoker,0.0
+68,Non-binary,Current smoker - other,0.0
+68,Non-binary,Current non-smoker,0.0
+68,Total,Current daily smoker,22.4
+68,Total,Current smoker - other,2.9
+68,Total,Current non-smoker,181.5
+69,Man,Current daily smoker,13.2
+69,Man,Current smoker - other,0.0
+69,Man,Current non-smoker,83.5
+69,Woman,Current daily smoker,12.2
+69,Woman,Current smoker - other,0.0
+69,Woman,Current non-smoker,119.8
+69,Non-binary,Current daily smoker,0.0
+69,Non-binary,Current smoker - other,0.0
+69,Non-binary,Current non-smoker,0.0
+69,Total,Current daily smoker,27.5
+69,Total,Current smoker - other,4.4
+69,Total,Current non-smoker,197.9
+70,Man,Current daily smoker,15.5
+70,Man,Current smoker - other,0.0
+70,Man,Current non-smoker,102.6
+70,Woman,Current daily smoker,7.3
+70,Woman,Current smoker - other,0.0
+70,Woman,Current non-smoker,116.7
+70,Non-binary,Current daily smoker,0.0
+70,Non-binary,Current smoker - other,0.0
+70,Non-binary,Current non-smoker,0.0
+70,Total,Current daily smoker,24.4
+70,Total,Current smoker - other,0.0
+70,Total,Current non-smoker,221.6
+71,Man,Current daily smoker,7.9
+71,Man,Current smoker - other,0.0
+71,Man,Current non-smoker,100.4
+71,Woman,Current daily smoker,7.7
+71,Woman,Current smoker - other,1.6
+71,Woman,Current non-smoker,117.4
+71,Non-binary,Current daily smoker,0.0
+71,Non-binary,Current smoker - other,0.0
+71,Non-binary,Current non-smoker,0.0
+71,Total,Current daily smoker,11.5
+71,Total,Current smoker - other,1.6
+71,Total,Current non-smoker,212.9
+72,Man,Current daily smoker,3.8
+72,Man,Current smoker - other,0.0
+72,Man,Current non-smoker,95.2
+72,Woman,Current daily smoker,7.5
+72,Woman,Current smoker - other,0.0
+72,Woman,Current non-smoker,89.7
+72,Non-binary,Current daily smoker,0.0
+72,Non-binary,Current smoker - other,0.0
+72,Non-binary,Current non-smoker,0.0
+72,Total,Current daily smoker,10.2
+72,Total,Current smoker - other,0.0
+72,Total,Current non-smoker,184.7
+73,Man,Current daily smoker,5.0
+73,Man,Current smoker - other,0.0
+73,Man,Current non-smoker,100.5
+73,Woman,Current daily smoker,2.9
+73,Woman,Current smoker - other,0.0
+73,Woman,Current non-smoker,98.7
+73,Non-binary,Current daily smoker,0.0
+73,Non-binary,Current smoker - other,0.0
+73,Non-binary,Current non-smoker,0.0
+73,Total,Current daily smoker,7.6
+73,Total,Current smoker - other,0.0
+73,Total,Current non-smoker,207.6
+74,Man,Current daily smoker,4.7
+74,Man,Current smoker - other,0.0
+74,Man,Current non-smoker,99.1
+74,Woman,Current daily smoker,0.0
+74,Woman,Current smoker - other,0.0
+74,Woman,Current non-smoker,89.6
+74,Non-binary,Current daily smoker,0.0
+74,Non-binary,Current smoker - other,0.0
+74,Non-binary,Current non-smoker,0.0
+74,Total,Current daily smoker,4.9
+74,Total,Current smoker - other,0.0
+74,Total,Current non-smoker,194.8
+75,Man,Current daily smoker,11.2
+75,Man,Current smoker - other,0.0
+75,Man,Current non-smoker,80.8
+75,Woman,Current daily smoker,6.3
+75,Woman,Current smoker - other,0.0
+75,Woman,Current non-smoker,97.4
+75,Non-binary,Current daily smoker,0.0
+75,Non-binary,Current smoker - other,0.0
+75,Non-binary,Current non-smoker,0.0
+75,Total,Current daily smoker,14.1
+75,Total,Current smoker - other,0.0
+75,Total,Current non-smoker,174.8
+76,Man,Current daily smoker,0.0
+76,Man,Current smoker - other,0.0
+76,Man,Current non-smoker,91.7
+76,Woman,Current daily smoker,0.0
+76,Woman,Current smoker - other,0.0
+76,Woman,Current non-smoker,89.0
+76,Non-binary,Current daily smoker,0.0
+76,Non-binary,Current smoker - other,0.0
+76,Non-binary,Current non-smoker,0.0
+76,Total,Current daily smoker,0.0
+76,Total,Current smoker - other,0.0
+76,Total,Current non-smoker,182.7
+77,Man,Current daily smoker,12.0
+77,Man,Current smoker - other,0.0
+77,Man,Current non-smoker,65.8
+77,Woman,Current daily smoker,2.8
+77,Woman,Current smoker - other,0.0
+77,Woman,Current non-smoker,93.0
+77,Non-binary,Current daily smoker,0.0
+77,Non-binary,Current smoker - other,0.0
+77,Non-binary,Current non-smoker,0.0
+77,Total,Current daily smoker,7.2
+77,Total,Current smoker - other,0.0
+77,Total,Current non-smoker,164.7
+78,Man,Current daily smoker,0.0
+78,Man,Current smoker - other,2.0
+78,Man,Current non-smoker,80.1
+78,Woman,Current daily smoker,6.0
+78,Woman,Current smoker - other,0.0
+78,Woman,Current non-smoker,83.8
+78,Non-binary,Current daily smoker,0.0
+78,Non-binary,Current smoker - other,0.0
+78,Non-binary,Current non-smoker,0.0
+78,Total,Current daily smoker,6.4
+78,Total,Current smoker - other,2.0
+78,Total,Current non-smoker,162.8
+79,Man,Current daily smoker,0.0
+79,Man,Current smoker - other,0.0
+79,Man,Current non-smoker,57.7
+79,Woman,Current daily smoker,1.5
+79,Woman,Current smoker - other,0.0
+79,Woman,Current non-smoker,86.6
+79,Non-binary,Current daily smoker,0.0
+79,Non-binary,Current smoker - other,0.0
+79,Non-binary,Current non-smoker,0.0
+79,Total,Current daily smoker,1.7
+79,Total,Current smoker - other,0.0
+79,Total,Current non-smoker,144.3
+80,Man,Current daily smoker,6.2
+80,Man,Current smoker - other,0.0
+80,Man,Current non-smoker,59.3
+80,Woman,Current daily smoker,0.0
+80,Woman,Current smoker - other,0.0
+80,Woman,Current non-smoker,64.5
+80,Non-binary,Current daily smoker,0.0
+80,Non-binary,Current smoker - other,0.0
+80,Non-binary,Current non-smoker,0.0
+80,Total,Current daily smoker,6.2
+80,Total,Current smoker - other,0.0
+80,Total,Current non-smoker,114.1
+81,Man,Current daily smoker,0.0
+81,Man,Current smoker - other,0.0
+81,Man,Current non-smoker,65.0
+81,Woman,Current daily smoker,3.2
+81,Woman,Current smoker - other,0.0
+81,Woman,Current non-smoker,63.3
+81,Non-binary,Current daily smoker,0.0
+81,Non-binary,Current smoker - other,0.0
+81,Non-binary,Current non-smoker,0.0
+81,Total,Current daily smoker,4.7
+81,Total,Current smoker - other,0.0
+81,Total,Current non-smoker,126.1
+82,Man,Current daily smoker,0.0
+82,Man,Current smoker - other,0.0
+82,Man,Current non-smoker,52.5
+82,Woman,Current daily smoker,0.0
+82,Woman,Current smoker - other,0.0
+82,Woman,Current non-smoker,31.5
+82,Non-binary,Current daily smoker,0.0
+82,Non-binary,Current smoker - other,0.0
+82,Non-binary,Current non-smoker,0.0
+82,Total,Current daily smoker,3.3
+82,Total,Current smoker - other,0.0
+82,Total,Current non-smoker,79.7
+83,Man,Current daily smoker,0.0
+83,Man,Current smoker - other,0.0
+83,Man,Current non-smoker,46.4
+83,Woman,Current daily smoker,3.7
+83,Woman,Current smoker - other,0.0
+83,Woman,Current non-smoker,41.6
+83,Non-binary,Current daily smoker,0.0
+83,Non-binary,Current smoker - other,0.0
+83,Non-binary,Current non-smoker,0.0
+83,Total,Current daily smoker,4.3
+83,Total,Current smoker - other,0.0
+83,Total,Current non-smoker,84.4
+84,Man,Current daily smoker,0.0
+84,Man,Current smoker - other,0.0
+84,Man,Current non-smoker,28.1
+84,Woman,Current daily smoker,0.0
+84,Woman,Current smoker - other,0.0
+84,Woman,Current non-smoker,34.7
+84,Non-binary,Current daily smoker,0.0
+84,Non-binary,Current smoker - other,0.0
+84,Non-binary,Current non-smoker,0.0
+84,Total,Current daily smoker,0.0
+84,Total,Current smoker - other,0.0
+84,Total,Current non-smoker,63.7
+85,Man,Current daily smoker,0.0
+85,Man,Current smoker - other,0.0
+85,Man,Current non-smoker,25.7
+85,Woman,Current daily smoker,0.9
+85,Woman,Current smoker - other,0.0
+85,Woman,Current non-smoker,46.6
+85,Non-binary,Current daily smoker,0.0
+85,Non-binary,Current smoker - other,0.0
+85,Non-binary,Current non-smoker,0.0
+85,Total,Current daily smoker,0.9
+85,Total,Current smoker - other,0.0
+85,Total,Current non-smoker,74.5
+86,Man,Current daily smoker,0.0
+86,Man,Current smoker - other,0.0
+86,Man,Current non-smoker,20.6
+86,Woman,Current daily smoker,0.0
+86,Woman,Current smoker - other,0.0
+86,Woman,Current non-smoker,38.0
+86,Non-binary,Current daily smoker,0.0
+86,Non-binary,Current smoker - other,0.0
+86,Non-binary,Current non-smoker,0.0
+86,Total,Current daily smoker,0.0
+86,Total,Current smoker - other,0.0
+86,Total,Current non-smoker,57.5
+87,Man,Current daily smoker,0.0
+87,Man,Current smoker - other,0.0
+87,Man,Current non-smoker,23.2
+87,Woman,Current daily smoker,0.0
+87,Woman,Current smoker - other,0.0
+87,Woman,Current non-smoker,18.0
+87,Non-binary,Current daily smoker,0.0
+87,Non-binary,Current smoker - other,0.0
+87,Non-binary,Current non-smoker,0.0
+87,Total,Current daily smoker,0.0
+87,Total,Current smoker - other,0.0
+87,Total,Current non-smoker,41.0
+88,Man,Current daily smoker,0.0
+88,Man,Current smoker - other,0.0
+88,Man,Current non-smoker,15.2
+88,Woman,Current daily smoker,0.0
+88,Woman,Current smoker - other,0.0
+88,Woman,Current non-smoker,22.9
+88,Non-binary,Current daily smoker,0.0
+88,Non-binary,Current smoker - other,0.0
+88,Non-binary,Current non-smoker,0.0
+88,Total,Current daily smoker,0.0
+88,Total,Current smoker - other,0.0
+88,Total,Current non-smoker,41.1
+89,Man,Current daily smoker,0.0
+89,Man,Current smoker - other,0.0
+89,Man,Current non-smoker,14.1
+89,Woman,Current daily smoker,0.0
+89,Woman,Current smoker - other,0.0
+89,Woman,Current non-smoker,20.8
+89,Non-binary,Current daily smoker,0.0
+89,Non-binary,Current smoker - other,0.0
+89,Non-binary,Current non-smoker,0.0
+89,Total,Current daily smoker,0.0
+89,Total,Current smoker - other,0.0
+89,Total,Current non-smoker,36.1
+90,Man,Current daily smoker,0.0
+90,Man,Current smoker - other,0.0
+90,Man,Current non-smoker,2.7
+90,Woman,Current daily smoker,0.0
+90,Woman,Current smoker - other,0.0
+90,Woman,Current non-smoker,10.8
+90,Non-binary,Current daily smoker,0.0
+90,Non-binary,Current smoker - other,0.0
+90,Non-binary,Current non-smoker,0.0
+90,Total,Current daily smoker,0.0
+90,Total,Current smoker - other,0.0
+90,Total,Current non-smoker,13.8
+91,Man,Current daily smoker,0.0
+91,Man,Current smoker - other,0.0
+91,Man,Current non-smoker,9.2
+91,Woman,Current daily smoker,0.0
+91,Woman,Current smoker - other,0.0
+91,Woman,Current non-smoker,12.5
+91,Non-binary,Current daily smoker,0.0
+91,Non-binary,Current smoker - other,0.0
+91,Non-binary,Current non-smoker,0.0
+91,Total,Current daily smoker,0.0
+91,Total,Current smoker - other,0.0
+91,Total,Current non-smoker,27.6
+92,Man,Current daily smoker,0.0
+92,Man,Current smoker - other,0.0
+92,Man,Current non-smoker,3.5
+92,Woman,Current daily smoker,0.0
+92,Woman,Current smoker - other,0.0
+92,Woman,Current non-smoker,16.5
+92,Non-binary,Current daily smoker,0.0
+92,Non-binary,Current smoker - other,0.0
+92,Non-binary,Current non-smoker,0.0
+92,Total,Current daily smoker,0.0
+92,Total,Current smoker - other,0.0
+92,Total,Current non-smoker,18.9
+93,Man,Current daily smoker,0.0
+93,Man,Current smoker - other,0.0
+93,Man,Current non-smoker,4.6
+93,Woman,Current daily smoker,0.0
+93,Woman,Current smoker - other,0.0
+93,Woman,Current non-smoker,2.8
+93,Non-binary,Current daily smoker,0.0
+93,Non-binary,Current smoker - other,0.0
+93,Non-binary,Current non-smoker,0.0
+93,Total,Current daily smoker,0.0
+93,Total,Current smoker - other,0.0
+93,Total,Current non-smoker,5.2
+94,Man,Current daily smoker,0.0
+94,Man,Current smoker - other,0.0
+94,Man,Current non-smoker,0.0
+94,Woman,Current daily smoker,0.0
+94,Woman,Current smoker - other,0.0
+94,Woman,Current non-smoker,12.0
+94,Non-binary,Current daily smoker,0.0
+94,Non-binary,Current smoker - other,0.0
+94,Non-binary,Current non-smoker,0.0
+94,Total,Current daily smoker,0.0
+94,Total,Current smoker - other,0.0
+94,Total,Current non-smoker,12.0
+95,Man,Current daily smoker,0.0
+95,Man,Current smoker - other,0.0
+95,Man,Current non-smoker,0.0
+95,Woman,Current daily smoker,0.0
+95,Woman,Current smoker - other,0.0
+95,Woman,Current non-smoker,5.9
+95,Non-binary,Current daily smoker,0.0
+95,Non-binary,Current smoker - other,0.0
+95,Non-binary,Current non-smoker,0.0
+95,Total,Current daily smoker,0.0
+95,Total,Current smoker - other,0.0
+95,Total,Current non-smoker,3.6
+96,Man,Current daily smoker,0.0
+96,Man,Current smoker - other,0.0
+96,Man,Current non-smoker,2.3
+96,Woman,Current daily smoker,0.0
+96,Woman,Current smoker - other,0.0
+96,Woman,Current non-smoker,6.4
+96,Non-binary,Current daily smoker,0.0
+96,Non-binary,Current smoker - other,0.0
+96,Non-binary,Current non-smoker,0.0
+96,Total,Current daily smoker,0.0
+96,Total,Current smoker - other,0.0
+96,Total,Current non-smoker,9.8
+97,Man,Current daily smoker,0.0
+97,Man,Current smoker - other,0.0
+97,Man,Current non-smoker,0.0
+97,Woman,Current daily smoker,0.0
+97,Woman,Current smoker - other,0.0
+97,Woman,Current non-smoker,7.7
+97,Non-binary,Current daily smoker,0.0
+97,Non-binary,Current smoker - other,0.0
+97,Non-binary,Current non-smoker,0.0
+97,Total,Current daily smoker,0.0
+97,Total,Current smoker - other,0.0
+97,Total,Current non-smoker,8.6
+98,Man,Current daily smoker,0.0
+98,Man,Current smoker - other,0.0
+98,Man,Current non-smoker,0.0
+98,Woman,Current daily smoker,0.0
+98,Woman,Current smoker - other,0.0
+98,Woman,Current non-smoker,8.1
+98,Non-binary,Current daily smoker,0.0
+98,Non-binary,Current smoker - other,0.0
+98,Non-binary,Current non-smoker,0.0
+98,Total,Current daily smoker,0.0
+98,Total,Current smoker - other,0.0
+98,Total,Current non-smoker,9.5
+99,Man,Current daily smoker,0.0
+99,Man,Current smoker - other,0.0
+99,Man,Current non-smoker,0.0
+99,Woman,Current daily smoker,0.0
+99,Woman,Current smoker - other,0.0
+99,Woman,Current non-smoker,2.0
+99,Non-binary,Current daily smoker,0.0
+99,Non-binary,Current smoker - other,0.0
+99,Non-binary,Current non-smoker,0.0
+99,Total,Current daily smoker,0.0
+99,Total,Current smoker - other,0.0
+99,Total,Current non-smoker,2.9

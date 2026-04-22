@@ -1,0 +1,4 @@
+RQ1 (age vs prevalence): Yes, directly from age and value.
+RQ2 (socio-economic disadvantage): Yes, especially nhs_seifa_parsed.csv.
+RQ3 (most common conditions): Yes, from nhs_abs_condition_parsed.csv and condition-level files.
+RQ5 (multimorbidity patterns): Yes, from nhs_comorbidity_all_condition_parsed.csv and nhs_comorbidity_no_condition_parsed.csv.

@@ -1,0 +1,2401 @@
+age,gender,level,value
+0,Man,Exceeded guideline,0.0
+0,Man,Did not exceed guideline,0.0
+0,Man,Consumed alcohol 12 or more months ago,0.0
+0,Man,Never consumed alcohol,0.0
+0,Man,Risk level not known,0.0
+0,Man,Time since last consumed alcohol not known,0.0
+0,Woman,Exceeded guideline,0.0
+0,Woman,Did not exceed guideline,0.0
+0,Woman,Consumed alcohol 12 or more months ago,0.0
+0,Woman,Never consumed alcohol,0.0
+0,Woman,Risk level not known,0.0
+0,Woman,Time since last consumed alcohol not known,0.0
+0,Non-binary,Exceeded guideline,0.0
+0,Non-binary,Did not exceed guideline,0.0
+0,Non-binary,Consumed alcohol 12 or more months ago,0.0
+0,Non-binary,Never consumed alcohol,0.0
+0,Non-binary,Risk level not known,0.0
+0,Non-binary,Time since last consumed alcohol not known,0.0
+0,Total,Exceeded guideline,0.0
+0,Total,Did not exceed guideline,0.0
+0,Total,Consumed alcohol 12 or more months ago,0.0
+0,Total,Never consumed alcohol,0.0
+0,Total,Risk level not known,0.0
+0,Total,Time since last consumed alcohol not known,0.0
+1,Man,Exceeded guideline,0.0
+1,Man,Did not exceed guideline,0.0
+1,Man,Consumed alcohol 12 or more months ago,0.0
+1,Man,Never consumed alcohol,0.0
+1,Man,Risk level not known,0.0
+1,Man,Time since last consumed alcohol not known,0.0
+1,Woman,Exceeded guideline,0.0
+1,Woman,Did not exceed guideline,0.0
+1,Woman,Consumed alcohol 12 or more months ago,0.0
+1,Woman,Never consumed alcohol,0.0
+1,Woman,Risk level not known,0.0
+1,Woman,Time since last consumed alcohol not known,0.0
+1,Non-binary,Exceeded guideline,0.0
+1,Non-binary,Did not exceed guideline,0.0
+1,Non-binary,Consumed alcohol 12 or more months ago,0.0
+1,Non-binary,Never consumed alcohol,0.0
+1,Non-binary,Risk level not known,0.0
+1,Non-binary,Time since last consumed alcohol not known,0.0
+1,Total,Exceeded guideline,0.0
+1,Total,Did not exceed guideline,0.0
+1,Total,Consumed alcohol 12 or more months ago,0.0
+1,Total,Never consumed alcohol,0.0
+1,Total,Risk level not known,0.0
+1,Total,Time since last consumed alcohol not known,0.0
+2,Man,Exceeded guideline,0.0
+2,Man,Did not exceed guideline,0.0
+2,Man,Consumed alcohol 12 or more months ago,0.0
+2,Man,Never consumed alcohol,0.0
+2,Man,Risk level not known,0.0
+2,Man,Time since last consumed alcohol not known,0.0
+2,Woman,Exceeded guideline,0.0
+2,Woman,Did not exceed guideline,0.0
+2,Woman,Consumed alcohol 12 or more months ago,0.0
+2,Woman,Never consumed alcohol,0.0
+2,Woman,Risk level not known,0.0
+2,Woman,Time since last consumed alcohol not known,0.0
+2,Non-binary,Exceeded guideline,0.0
+2,Non-binary,Did not exceed guideline,0.0
+2,Non-binary,Consumed alcohol 12 or more months ago,0.0
+2,Non-binary,Never consumed alcohol,0.0
+2,Non-binary,Risk level not known,0.0
+2,Non-binary,Time since last consumed alcohol not known,0.0
+2,Total,Exceeded guideline,0.0
+2,Total,Did not exceed guideline,0.0
+2,Total,Consumed alcohol 12 or more months ago,0.0
+2,Total,Never consumed alcohol,0.0
+2,Total,Risk level not known,0.0
+2,Total,Time since last consumed alcohol not known,0.0
+3,Man,Exceeded guideline,0.0
+3,Man,Did not exceed guideline,0.0
+3,Man,Consumed alcohol 12 or more months ago,0.0
+3,Man,Never consumed alcohol,0.0
+3,Man,Risk level not known,0.0
+3,Man,Time since last consumed alcohol not known,0.0
+3,Woman,Exceeded guideline,0.0
+3,Woman,Did not exceed guideline,0.0
+3,Woman,Consumed alcohol 12 or more months ago,0.0
+3,Woman,Never consumed alcohol,0.0
+3,Woman,Risk level not known,0.0
+3,Woman,Time since last consumed alcohol not known,0.0
+3,Non-binary,Exceeded guideline,0.0
+3,Non-binary,Did not exceed guideline,0.0
+3,Non-binary,Consumed alcohol 12 or more months ago,0.0
+3,Non-binary,Never consumed alcohol,0.0
+3,Non-binary,Risk level not known,0.0
+3,Non-binary,Time since last consumed alcohol not known,0.0
+3,Total,Exceeded guideline,0.0
+3,Total,Did not exceed guideline,0.0
+3,Total,Consumed alcohol 12 or more months ago,0.0
+3,Total,Never consumed alcohol,0.0
+3,Total,Risk level not known,0.0
+3,Total,Time since last consumed alcohol not known,0.0
+4,Man,Exceeded guideline,0.0
+4,Man,Did not exceed guideline,0.0
+4,Man,Consumed alcohol 12 or more months ago,0.0
+4,Man,Never consumed alcohol,0.0
+4,Man,Risk level not known,0.0
+4,Man,Time since last consumed alcohol not known,0.0
+4,Woman,Exceeded guideline,0.0
+4,Woman,Did not exceed guideline,0.0
+4,Woman,Consumed alcohol 12 or more months ago,0.0
+4,Woman,Never consumed alcohol,0.0
+4,Woman,Risk level not known,0.0
+4,Woman,Time since last consumed alcohol not known,0.0
+4,Non-binary,Exceeded guideline,0.0
+4,Non-binary,Did not exceed guideline,0.0
+4,Non-binary,Consumed alcohol 12 or more months ago,0.0
+4,Non-binary,Never consumed alcohol,0.0
+4,Non-binary,Risk level not known,0.0
+4,Non-binary,Time since last consumed alcohol not known,0.0
+4,Total,Exceeded guideline,0.0
+4,Total,Did not exceed guideline,0.0
+4,Total,Consumed alcohol 12 or more months ago,0.0
+4,Total,Never consumed alcohol,0.0
+4,Total,Risk level not known,0.0
+4,Total,Time since last consumed alcohol not known,0.0
+5,Man,Exceeded guideline,0.0
+5,Man,Did not exceed guideline,0.0
+5,Man,Consumed alcohol 12 or more months ago,0.0
+5,Man,Never consumed alcohol,0.0
+5,Man,Risk level not known,0.0
+5,Man,Time since last consumed alcohol not known,0.0
+5,Woman,Exceeded guideline,0.0
+5,Woman,Did not exceed guideline,0.0
+5,Woman,Consumed alcohol 12 or more months ago,0.0
+5,Woman,Never consumed alcohol,0.0
+5,Woman,Risk level not known,0.0
+5,Woman,Time since last consumed alcohol not known,0.0
+5,Non-binary,Exceeded guideline,0.0
+5,Non-binary,Did not exceed guideline,0.0
+5,Non-binary,Consumed alcohol 12 or more months ago,0.0
+5,Non-binary,Never consumed alcohol,0.0
+5,Non-binary,Risk level not known,0.0
+5,Non-binary,Time since last consumed alcohol not known,0.0
+5,Total,Exceeded guideline,0.0
+5,Total,Did not exceed guideline,0.0
+5,Total,Consumed alcohol 12 or more months ago,0.0
+5,Total,Never consumed alcohol,0.0
+5,Total,Risk level not known,0.0
+5,Total,Time since last consumed alcohol not known,0.0
+6,Man,Exceeded guideline,0.0
+6,Man,Did not exceed guideline,0.0
+6,Man,Consumed alcohol 12 or more months ago,0.0
+6,Man,Never consumed alcohol,0.0
+6,Man,Risk level not known,0.0
+6,Man,Time since last consumed alcohol not known,0.0
+6,Woman,Exceeded guideline,0.0
+6,Woman,Did not exceed guideline,0.0
+6,Woman,Consumed alcohol 12 or more months ago,0.0
+6,Woman,Never consumed alcohol,0.0
+6,Woman,Risk level not known,0.0
+6,Woman,Time since last consumed alcohol not known,0.0
+6,Non-binary,Exceeded guideline,0.0
+6,Non-binary,Did not exceed guideline,0.0
+6,Non-binary,Consumed alcohol 12 or more months ago,0.0
+6,Non-binary,Never consumed alcohol,0.0
+6,Non-binary,Risk level not known,0.0
+6,Non-binary,Time since last consumed alcohol not known,0.0
+6,Total,Exceeded guideline,0.0
+6,Total,Did not exceed guideline,0.0
+6,Total,Consumed alcohol 12 or more months ago,0.0
+6,Total,Never consumed alcohol,0.0
+6,Total,Risk level not known,0.0
+6,Total,Time since last consumed alcohol not known,0.0
+7,Man,Exceeded guideline,0.0
+7,Man,Did not exceed guideline,0.0
+7,Man,Consumed alcohol 12 or more months ago,0.0
+7,Man,Never consumed alcohol,0.0
+7,Man,Risk level not known,0.0
+7,Man,Time since last consumed alcohol not known,0.0
+7,Woman,Exceeded guideline,0.0
+7,Woman,Did not exceed guideline,0.0
+7,Woman,Consumed alcohol 12 or more months ago,0.0
+7,Woman,Never consumed alcohol,0.0
+7,Woman,Risk level not known,0.0
+7,Woman,Time since last consumed alcohol not known,0.0
+7,Non-binary,Exceeded guideline,0.0
+7,Non-binary,Did not exceed guideline,0.0
+7,Non-binary,Consumed alcohol 12 or more months ago,0.0
+7,Non-binary,Never consumed alcohol,0.0
+7,Non-binary,Risk level not known,0.0
+7,Non-binary,Time since last consumed alcohol not known,0.0
+7,Total,Exceeded guideline,0.0
+7,Total,Did not exceed guideline,0.0
+7,Total,Consumed alcohol 12 or more months ago,0.0
+7,Total,Never consumed alcohol,0.0
+7,Total,Risk level not known,0.0
+7,Total,Time since last consumed alcohol not known,0.0
+8,Man,Exceeded guideline,0.0
+8,Man,Did not exceed guideline,0.0
+8,Man,Consumed alcohol 12 or more months ago,0.0
+8,Man,Never consumed alcohol,0.0
+8,Man,Risk level not known,0.0
+8,Man,Time since last consumed alcohol not known,0.0
+8,Woman,Exceeded guideline,0.0
+8,Woman,Did not exceed guideline,0.0
+8,Woman,Consumed alcohol 12 or more months ago,0.0
+8,Woman,Never consumed alcohol,0.0
+8,Woman,Risk level not known,0.0
+8,Woman,Time since last consumed alcohol not known,0.0
+8,Non-binary,Exceeded guideline,0.0
+8,Non-binary,Did not exceed guideline,0.0
+8,Non-binary,Consumed alcohol 12 or more months ago,0.0
+8,Non-binary,Never consumed alcohol,0.0
+8,Non-binary,Risk level not known,0.0
+8,Non-binary,Time since last consumed alcohol not known,0.0
+8,Total,Exceeded guideline,0.0
+8,Total,Did not exceed guideline,0.0
+8,Total,Consumed alcohol 12 or more months ago,0.0
+8,Total,Never consumed alcohol,0.0
+8,Total,Risk level not known,0.0
+8,Total,Time since last consumed alcohol not known,0.0
+9,Man,Exceeded guideline,0.0
+9,Man,Did not exceed guideline,0.0
+9,Man,Consumed alcohol 12 or more months ago,0.0
+9,Man,Never consumed alcohol,0.0
+9,Man,Risk level not known,0.0
+9,Man,Time since last consumed alcohol not known,0.0
+9,Woman,Exceeded guideline,0.0
+9,Woman,Did not exceed guideline,0.0
+9,Woman,Consumed alcohol 12 or more months ago,0.0
+9,Woman,Never consumed alcohol,0.0
+9,Woman,Risk level not known,0.0
+9,Woman,Time since last consumed alcohol not known,0.0
+9,Non-binary,Exceeded guideline,0.0
+9,Non-binary,Did not exceed guideline,0.0
+9,Non-binary,Consumed alcohol 12 or more months ago,0.0
+9,Non-binary,Never consumed alcohol,0.0
+9,Non-binary,Risk level not known,0.0
+9,Non-binary,Time since last consumed alcohol not known,0.0
+9,Total,Exceeded guideline,0.0
+9,Total,Did not exceed guideline,0.0
+9,Total,Consumed alcohol 12 or more months ago,0.0
+9,Total,Never consumed alcohol,0.0
+9,Total,Risk level not known,0.0
+9,Total,Time since last consumed alcohol not known,0.0
+10,Man,Exceeded guideline,0.0
+10,Man,Did not exceed guideline,0.0
+10,Man,Consumed alcohol 12 or more months ago,0.0
+10,Man,Never consumed alcohol,0.0
+10,Man,Risk level not known,0.0
+10,Man,Time since last consumed alcohol not known,0.0
+10,Woman,Exceeded guideline,0.0
+10,Woman,Did not exceed guideline,0.0
+10,Woman,Consumed alcohol 12 or more months ago,0.0
+10,Woman,Never consumed alcohol,0.0
+10,Woman,Risk level not known,0.0
+10,Woman,Time since last consumed alcohol not known,0.0
+10,Non-binary,Exceeded guideline,0.0
+10,Non-binary,Did not exceed guideline,0.0
+10,Non-binary,Consumed alcohol 12 or more months ago,0.0
+10,Non-binary,Never consumed alcohol,0.0
+10,Non-binary,Risk level not known,0.0
+10,Non-binary,Time since last consumed alcohol not known,0.0
+10,Total,Exceeded guideline,0.0
+10,Total,Did not exceed guideline,0.0
+10,Total,Consumed alcohol 12 or more months ago,0.0
+10,Total,Never consumed alcohol,0.0
+10,Total,Risk level not known,0.0
+10,Total,Time since last consumed alcohol not known,0.0
+11,Man,Exceeded guideline,0.0
+11,Man,Did not exceed guideline,0.0
+11,Man,Consumed alcohol 12 or more months ago,0.0
+11,Man,Never consumed alcohol,0.0
+11,Man,Risk level not known,0.0
+11,Man,Time since last consumed alcohol not known,0.0
+11,Woman,Exceeded guideline,0.0
+11,Woman,Did not exceed guideline,0.0
+11,Woman,Consumed alcohol 12 or more months ago,0.0
+11,Woman,Never consumed alcohol,0.0
+11,Woman,Risk level not known,0.0
+11,Woman,Time since last consumed alcohol not known,0.0
+11,Non-binary,Exceeded guideline,0.0
+11,Non-binary,Did not exceed guideline,0.0
+11,Non-binary,Consumed alcohol 12 or more months ago,0.0
+11,Non-binary,Never consumed alcohol,0.0
+11,Non-binary,Risk level not known,0.0
+11,Non-binary,Time since last consumed alcohol not known,0.0
+11,Total,Exceeded guideline,0.0
+11,Total,Did not exceed guideline,0.0
+11,Total,Consumed alcohol 12 or more months ago,0.0
+11,Total,Never consumed alcohol,0.0
+11,Total,Risk level not known,0.0
+11,Total,Time since last consumed alcohol not known,0.0
+12,Man,Exceeded guideline,0.0
+12,Man,Did not exceed guideline,0.0
+12,Man,Consumed alcohol 12 or more months ago,0.0
+12,Man,Never consumed alcohol,0.0
+12,Man,Risk level not known,0.0
+12,Man,Time since last consumed alcohol not known,0.0
+12,Woman,Exceeded guideline,0.0
+12,Woman,Did not exceed guideline,0.0
+12,Woman,Consumed alcohol 12 or more months ago,0.0
+12,Woman,Never consumed alcohol,0.0
+12,Woman,Risk level not known,0.0
+12,Woman,Time since last consumed alcohol not known,0.0
+12,Non-binary,Exceeded guideline,0.0
+12,Non-binary,Did not exceed guideline,0.0
+12,Non-binary,Consumed alcohol 12 or more months ago,0.0
+12,Non-binary,Never consumed alcohol,0.0
+12,Non-binary,Risk level not known,0.0
+12,Non-binary,Time since last consumed alcohol not known,0.0
+12,Total,Exceeded guideline,0.0
+12,Total,Did not exceed guideline,0.0
+12,Total,Consumed alcohol 12 or more months ago,0.0
+12,Total,Never consumed alcohol,0.0
+12,Total,Risk level not known,0.0
+12,Total,Time since last consumed alcohol not known,0.0
+13,Man,Exceeded guideline,0.0
+13,Man,Did not exceed guideline,0.0
+13,Man,Consumed alcohol 12 or more months ago,0.0
+13,Man,Never consumed alcohol,0.0
+13,Man,Risk level not known,0.0
+13,Man,Time since last consumed alcohol not known,0.0
+13,Woman,Exceeded guideline,0.0
+13,Woman,Did not exceed guideline,0.0
+13,Woman,Consumed alcohol 12 or more months ago,0.0
+13,Woman,Never consumed alcohol,0.0
+13,Woman,Risk level not known,0.0
+13,Woman,Time since last consumed alcohol not known,0.0
+13,Non-binary,Exceeded guideline,0.0
+13,Non-binary,Did not exceed guideline,0.0
+13,Non-binary,Consumed alcohol 12 or more months ago,0.0
+13,Non-binary,Never consumed alcohol,0.0
+13,Non-binary,Risk level not known,0.0
+13,Non-binary,Time since last consumed alcohol not known,0.0
+13,Total,Exceeded guideline,0.0
+13,Total,Did not exceed guideline,0.0
+13,Total,Consumed alcohol 12 or more months ago,0.0
+13,Total,Never consumed alcohol,0.0
+13,Total,Risk level not known,0.0
+13,Total,Time since last consumed alcohol not known,0.0
+14,Man,Exceeded guideline,0.0
+14,Man,Did not exceed guideline,0.0
+14,Man,Consumed alcohol 12 or more months ago,0.0
+14,Man,Never consumed alcohol,0.0
+14,Man,Risk level not known,0.0
+14,Man,Time since last consumed alcohol not known,0.0
+14,Woman,Exceeded guideline,0.0
+14,Woman,Did not exceed guideline,0.0
+14,Woman,Consumed alcohol 12 or more months ago,0.0
+14,Woman,Never consumed alcohol,0.0
+14,Woman,Risk level not known,0.0
+14,Woman,Time since last consumed alcohol not known,0.0
+14,Non-binary,Exceeded guideline,0.0
+14,Non-binary,Did not exceed guideline,0.0
+14,Non-binary,Consumed alcohol 12 or more months ago,0.0
+14,Non-binary,Never consumed alcohol,0.0
+14,Non-binary,Risk level not known,0.0
+14,Non-binary,Time since last consumed alcohol not known,0.0
+14,Total,Exceeded guideline,0.0
+14,Total,Did not exceed guideline,0.0
+14,Total,Consumed alcohol 12 or more months ago,0.0
+14,Total,Never consumed alcohol,0.0
+14,Total,Risk level not known,0.0
+14,Total,Time since last consumed alcohol not known,0.0
+15,Man,Exceeded guideline,0.0
+15,Man,Did not exceed guideline,0.0
+15,Man,Consumed alcohol 12 or more months ago,0.0
+15,Man,Never consumed alcohol,0.0
+15,Man,Risk level not known,0.0
+15,Man,Time since last consumed alcohol not known,0.0
+15,Woman,Exceeded guideline,0.0
+15,Woman,Did not exceed guideline,0.0
+15,Woman,Consumed alcohol 12 or more months ago,0.0
+15,Woman,Never consumed alcohol,0.0
+15,Woman,Risk level not known,0.0
+15,Woman,Time since last consumed alcohol not known,0.0
+15,Non-binary,Exceeded guideline,0.0
+15,Non-binary,Did not exceed guideline,0.0
+15,Non-binary,Consumed alcohol 12 or more months ago,0.0
+15,Non-binary,Never consumed alcohol,0.0
+15,Non-binary,Risk level not known,0.0
+15,Non-binary,Time since last consumed alcohol not known,0.0
+15,Total,Exceeded guideline,0.0
+15,Total,Did not exceed guideline,0.0
+15,Total,Consumed alcohol 12 or more months ago,0.0
+15,Total,Never consumed alcohol,0.0
+15,Total,Risk level not known,0.0
+15,Total,Time since last consumed alcohol not known,0.0
+16,Man,Exceeded guideline,0.0
+16,Man,Did not exceed guideline,16.3
+16,Man,Consumed alcohol 12 or more months ago,3.4
+16,Man,Never consumed alcohol,33.8
+16,Man,Risk level not known,0.0
+16,Man,Time since last consumed alcohol not known,0.0
+16,Woman,Exceeded guideline,0.0
+16,Woman,Did not exceed guideline,11.3
+16,Woman,Consumed alcohol 12 or more months ago,0.0
+16,Woman,Never consumed alcohol,21.7
+16,Woman,Risk level not known,0.0
+16,Woman,Time since last consumed alcohol not known,0.0
+16,Non-binary,Exceeded guideline,0.0
+16,Non-binary,Did not exceed guideline,0.0
+16,Non-binary,Consumed alcohol 12 or more months ago,0.0
+16,Non-binary,Never consumed alcohol,0.0
+16,Non-binary,Risk level not known,0.0
+16,Non-binary,Time since last consumed alcohol not known,0.0
+16,Total,Exceeded guideline,3.0
+16,Total,Did not exceed guideline,36.5
+16,Total,Consumed alcohol 12 or more months ago,7.5
+16,Total,Never consumed alcohol,51.1
+16,Total,Risk level not known,0.0
+16,Total,Time since last consumed alcohol not known,0.0
+17,Man,Exceeded guideline,19.7
+17,Man,Did not exceed guideline,27.9
+17,Man,Consumed alcohol 12 or more months ago,0.0
+17,Man,Never consumed alcohol,28.0
+17,Man,Risk level not known,0.0
+17,Man,Time since last consumed alcohol not known,0.0
+17,Woman,Exceeded guideline,0.0
+17,Woman,Did not exceed guideline,37.4
+17,Woman,Consumed alcohol 12 or more months ago,0.0
+17,Woman,Never consumed alcohol,21.3
+17,Woman,Risk level not known,0.0
+17,Woman,Time since last consumed alcohol not known,0.0
+17,Non-binary,Exceeded guideline,0.0
+17,Non-binary,Did not exceed guideline,7.1
+17,Non-binary,Consumed alcohol 12 or more months ago,0.0
+17,Non-binary,Never consumed alcohol,0.0
+17,Non-binary,Risk level not known,0.0
+17,Non-binary,Time since last consumed alcohol not known,0.0
+17,Total,Exceeded guideline,15.6
+17,Total,Did not exceed guideline,67.6
+17,Total,Consumed alcohol 12 or more months ago,2.5
+17,Total,Never consumed alcohol,55.5
+17,Total,Risk level not known,0.0
+17,Total,Time since last consumed alcohol not known,0.0
+18,Man,Exceeded guideline,58.8
+18,Man,Did not exceed guideline,56.6
+18,Man,Consumed alcohol 12 or more months ago,0.0
+18,Man,Never consumed alcohol,61.8
+18,Man,Risk level not known,0.0
+18,Man,Time since last consumed alcohol not known,0.0
+18,Woman,Exceeded guideline,30.1
+18,Woman,Did not exceed guideline,96.4
+18,Woman,Consumed alcohol 12 or more months ago,0.0
+18,Woman,Never consumed alcohol,30.1
+18,Woman,Risk level not known,0.0
+18,Woman,Time since last consumed alcohol not known,0.0
+18,Non-binary,Exceeded guideline,0.0
+18,Non-binary,Did not exceed guideline,0.0
+18,Non-binary,Consumed alcohol 12 or more months ago,0.0
+18,Non-binary,Never consumed alcohol,0.0
+18,Non-binary,Risk level not known,0.0
+18,Non-binary,Time since last consumed alcohol not known,0.0
+18,Total,Exceeded guideline,76.1
+18,Total,Did not exceed guideline,152.5
+18,Total,Consumed alcohol 12 or more months ago,0.0
+18,Total,Never consumed alcohol,62.6
+18,Total,Risk level not known,0.0
+18,Total,Time since last consumed alcohol not known,17.6
+19,Man,Exceeded guideline,50.2
+19,Man,Did not exceed guideline,53.5
+19,Man,Consumed alcohol 12 or more months ago,12.3
+19,Man,Never consumed alcohol,23.6
+19,Man,Risk level not known,0.0
+19,Man,Time since last consumed alcohol not known,0.0
+19,Woman,Exceeded guideline,44.8
+19,Woman,Did not exceed guideline,66.2
+19,Woman,Consumed alcohol 12 or more months ago,11.6
+19,Woman,Never consumed alcohol,49.5
+19,Woman,Risk level not known,0.0
+19,Woman,Time since last consumed alcohol not known,0.0
+19,Non-binary,Exceeded guideline,0.0
+19,Non-binary,Did not exceed guideline,0.0
+19,Non-binary,Consumed alcohol 12 or more months ago,0.0
+19,Non-binary,Never consumed alcohol,0.0
+19,Non-binary,Risk level not known,0.0
+19,Non-binary,Time since last consumed alcohol not known,0.0
+19,Total,Exceeded guideline,95.0
+19,Total,Did not exceed guideline,106.6
+19,Total,Consumed alcohol 12 or more months ago,31.8
+19,Total,Never consumed alcohol,73.3
+19,Total,Risk level not known,0.0
+19,Total,Time since last consumed alcohol not known,0.0
+20,Man,Exceeded guideline,35.0
+20,Man,Did not exceed guideline,51.9
+20,Man,Consumed alcohol 12 or more months ago,4.8
+20,Man,Never consumed alcohol,16.2
+20,Man,Risk level not known,0.0
+20,Man,Time since last consumed alcohol not known,0.0
+20,Woman,Exceeded guideline,40.6
+20,Woman,Did not exceed guideline,93.2
+20,Woman,Consumed alcohol 12 or more months ago,0.0
+20,Woman,Never consumed alcohol,4.7
+20,Woman,Risk level not known,0.0
+20,Woman,Time since last consumed alcohol not known,0.0
+20,Non-binary,Exceeded guideline,0.0
+20,Non-binary,Did not exceed guideline,0.0
+20,Non-binary,Consumed alcohol 12 or more months ago,0.0
+20,Non-binary,Never consumed alcohol,0.0
+20,Non-binary,Risk level not known,0.0
+20,Non-binary,Time since last consumed alcohol not known,0.0
+20,Total,Exceeded guideline,98.7
+20,Total,Did not exceed guideline,140.8
+20,Total,Consumed alcohol 12 or more months ago,7.2
+20,Total,Never consumed alcohol,21.8
+20,Total,Risk level not known,0.0
+20,Total,Time since last consumed alcohol not known,0.0
+21,Man,Exceeded guideline,83.7
+21,Man,Did not exceed guideline,66.9
+21,Man,Consumed alcohol 12 or more months ago,3.4
+21,Man,Never consumed alcohol,0.0
+21,Man,Risk level not known,0.0
+21,Man,Time since last consumed alcohol not known,0.0
+21,Woman,Exceeded guideline,28.4
+21,Woman,Did not exceed guideline,68.7
+21,Woman,Consumed alcohol 12 or more months ago,8.3
+21,Woman,Never consumed alcohol,6.2
+21,Woman,Risk level not known,0.0
+21,Woman,Time since last consumed alcohol not known,0.0
+21,Non-binary,Exceeded guideline,0.0
+21,Non-binary,Did not exceed guideline,5.1
+21,Non-binary,Consumed alcohol 12 or more months ago,0.0
+21,Non-binary,Never consumed alcohol,0.0
+21,Non-binary,Risk level not known,0.0
+21,Non-binary,Time since last consumed alcohol not known,0.0
+21,Total,Exceeded guideline,108.6
+21,Total,Did not exceed guideline,129.4
+21,Total,Consumed alcohol 12 or more months ago,15.6
+21,Total,Never consumed alcohol,5.5
+21,Total,Risk level not known,0.0
+21,Total,Time since last consumed alcohol not known,0.0
+22,Man,Exceeded guideline,86.8
+22,Man,Did not exceed guideline,56.6
+22,Man,Consumed alcohol 12 or more months ago,7.6
+22,Man,Never consumed alcohol,8.6
+22,Man,Risk level not known,0.0
+22,Man,Time since last consumed alcohol not known,0.0
+22,Woman,Exceeded guideline,43.5
+22,Woman,Did not exceed guideline,68.2
+22,Woman,Consumed alcohol 12 or more months ago,8.2
+22,Woman,Never consumed alcohol,9.0
+22,Woman,Risk level not known,0.0
+22,Woman,Time since last consumed alcohol not known,0.0
+22,Non-binary,Exceeded guideline,0.0
+22,Non-binary,Did not exceed guideline,6.0
+22,Non-binary,Consumed alcohol 12 or more months ago,0.0
+22,Non-binary,Never consumed alcohol,0.0
+22,Non-binary,Risk level not known,0.0
+22,Non-binary,Time since last consumed alcohol not known,0.0
+22,Total,Exceeded guideline,139.1
+22,Total,Did not exceed guideline,126.8
+22,Total,Consumed alcohol 12 or more months ago,10.7
+22,Total,Never consumed alcohol,23.4
+22,Total,Risk level not known,0.0
+22,Total,Time since last consumed alcohol not known,0.0
+23,Man,Exceeded guideline,88.7
+23,Man,Did not exceed guideline,59.3
+23,Man,Consumed alcohol 12 or more months ago,0.0
+23,Man,Never consumed alcohol,16.5
+23,Man,Risk level not known,0.0
+23,Man,Time since last consumed alcohol not known,0.0
+23,Woman,Exceeded guideline,48.9
+23,Woman,Did not exceed guideline,70.9
+23,Woman,Consumed alcohol 12 or more months ago,3.7
+23,Woman,Never consumed alcohol,12.3
+23,Woman,Risk level not known,0.0
+23,Woman,Time since last consumed alcohol not known,0.0
+23,Non-binary,Exceeded guideline,0.0
+23,Non-binary,Did not exceed guideline,0.0
+23,Non-binary,Consumed alcohol 12 or more months ago,0.0
+23,Non-binary,Never consumed alcohol,0.0
+23,Non-binary,Risk level not known,0.0
+23,Non-binary,Time since last consumed alcohol not known,0.0
+23,Total,Exceeded guideline,120.7
+23,Total,Did not exceed guideline,146.5
+23,Total,Consumed alcohol 12 or more months ago,5.6
+23,Total,Never consumed alcohol,31.7
+23,Total,Risk level not known,0.0
+23,Total,Time since last consumed alcohol not known,0.0
+24,Man,Exceeded guideline,48.2
+24,Man,Did not exceed guideline,42.6
+24,Man,Consumed alcohol 12 or more months ago,6.2
+24,Man,Never consumed alcohol,10.2
+24,Man,Risk level not known,0.0
+24,Man,Time since last consumed alcohol not known,0.0
+24,Woman,Exceeded guideline,43.2
+24,Woman,Did not exceed guideline,54.1
+24,Woman,Consumed alcohol 12 or more months ago,11.3
+24,Woman,Never consumed alcohol,22.9
+24,Woman,Risk level not known,0.0
+24,Woman,Time since last consumed alcohol not known,0.0
+24,Non-binary,Exceeded guideline,0.0
+24,Non-binary,Did not exceed guideline,0.0
+24,Non-binary,Consumed alcohol 12 or more months ago,0.0
+24,Non-binary,Never consumed alcohol,0.0
+24,Non-binary,Risk level not known,0.0
+24,Non-binary,Time since last consumed alcohol not known,0.0
+24,Total,Exceeded guideline,91.7
+24,Total,Did not exceed guideline,100.4
+24,Total,Consumed alcohol 12 or more months ago,26.4
+24,Total,Never consumed alcohol,34.9
+24,Total,Risk level not known,0.0
+24,Total,Time since last consumed alcohol not known,0.0
+25,Man,Exceeded guideline,69.2
+25,Man,Did not exceed guideline,75.5
+25,Man,Consumed alcohol 12 or more months ago,5.0
+25,Man,Never consumed alcohol,19.4
+25,Man,Risk level not known,0.0
+25,Man,Time since last consumed alcohol not known,0.0
+25,Woman,Exceeded guideline,26.6
+25,Woman,Did not exceed guideline,72.9
+25,Woman,Consumed alcohol 12 or more months ago,14.2
+25,Woman,Never consumed alcohol,20.8
+25,Woman,Risk level not known,0.0
+25,Woman,Time since last consumed alcohol not known,0.0
+25,Non-binary,Exceeded guideline,0.0
+25,Non-binary,Did not exceed guideline,0.0
+25,Non-binary,Consumed alcohol 12 or more months ago,0.0
+25,Non-binary,Never consumed alcohol,0.0
+25,Non-binary,Risk level not known,0.0
+25,Non-binary,Time since last consumed alcohol not known,0.0
+25,Total,Exceeded guideline,88.1
+25,Total,Did not exceed guideline,143.8
+25,Total,Consumed alcohol 12 or more months ago,9.7
+25,Total,Never consumed alcohol,30.8
+25,Total,Risk level not known,0.0
+25,Total,Time since last consumed alcohol not known,0.0
+26,Man,Exceeded guideline,53.5
+26,Man,Did not exceed guideline,40.4
+26,Man,Consumed alcohol 12 or more months ago,21.9
+26,Man,Never consumed alcohol,21.5
+26,Man,Risk level not known,0.0
+26,Man,Time since last consumed alcohol not known,0.0
+26,Woman,Exceeded guideline,53.7
+26,Woman,Did not exceed guideline,81.4
+26,Woman,Consumed alcohol 12 or more months ago,12.9
+26,Woman,Never consumed alcohol,3.1
+26,Woman,Risk level not known,0.0
+26,Woman,Time since last consumed alcohol not known,0.0
+26,Non-binary,Exceeded guideline,0.0
+26,Non-binary,Did not exceed guideline,0.0
+26,Non-binary,Consumed alcohol 12 or more months ago,0.0
+26,Non-binary,Never consumed alcohol,0.0
+26,Non-binary,Risk level not known,0.0
+26,Non-binary,Time since last consumed alcohol not known,0.0
+26,Total,Exceeded guideline,102.8
+26,Total,Did not exceed guideline,124.8
+26,Total,Consumed alcohol 12 or more months ago,27.1
+26,Total,Never consumed alcohol,25.7
+26,Total,Risk level not known,0.0
+26,Total,Time since last consumed alcohol not known,0.0
+27,Man,Exceeded guideline,53.7
+27,Man,Did not exceed guideline,82.7
+27,Man,Consumed alcohol 12 or more months ago,0.0
+27,Man,Never consumed alcohol,14.2
+27,Man,Risk level not known,0.0
+27,Man,Time since last consumed alcohol not known,0.0
+27,Woman,Exceeded guideline,33.9
+27,Woman,Did not exceed guideline,97.5
+27,Woman,Consumed alcohol 12 or more months ago,45.7
+27,Woman,Never consumed alcohol,16.1
+27,Woman,Risk level not known,0.0
+27,Woman,Time since last consumed alcohol not known,0.0
+27,Non-binary,Exceeded guideline,0.0
+27,Non-binary,Did not exceed guideline,0.0
+27,Non-binary,Consumed alcohol 12 or more months ago,0.0
+27,Non-binary,Never consumed alcohol,0.0
+27,Non-binary,Risk level not known,0.0
+27,Non-binary,Time since last consumed alcohol not known,0.0
+27,Total,Exceeded guideline,84.4
+27,Total,Did not exceed guideline,181.2
+27,Total,Consumed alcohol 12 or more months ago,31.7
+27,Total,Never consumed alcohol,21.4
+27,Total,Risk level not known,0.0
+27,Total,Time since last consumed alcohol not known,0.0
+28,Man,Exceeded guideline,56.3
+28,Man,Did not exceed guideline,75.4
+28,Man,Consumed alcohol 12 or more months ago,10.7
+28,Man,Never consumed alcohol,15.3
+28,Man,Risk level not known,0.0
+28,Man,Time since last consumed alcohol not known,0.0
+28,Woman,Exceeded guideline,35.7
+28,Woman,Did not exceed guideline,87.4
+28,Woman,Consumed alcohol 12 or more months ago,8.5
+28,Woman,Never consumed alcohol,17.1
+28,Woman,Risk level not known,0.0
+28,Woman,Time since last consumed alcohol not known,0.0
+28,Non-binary,Exceeded guideline,0.0
+28,Non-binary,Did not exceed guideline,0.0
+28,Non-binary,Consumed alcohol 12 or more months ago,0.0
+28,Non-binary,Never consumed alcohol,0.0
+28,Non-binary,Risk level not known,0.0
+28,Non-binary,Time since last consumed alcohol not known,0.0
+28,Total,Exceeded guideline,103.7
+28,Total,Did not exceed guideline,182.7
+28,Total,Consumed alcohol 12 or more months ago,31.7
+28,Total,Never consumed alcohol,34.8
+28,Total,Risk level not known,0.0
+28,Total,Time since last consumed alcohol not known,10.5
+29,Man,Exceeded guideline,58.8
+29,Man,Did not exceed guideline,87.9
+29,Man,Consumed alcohol 12 or more months ago,20.7
+29,Man,Never consumed alcohol,29.2
+29,Man,Risk level not known,0.0
+29,Man,Time since last consumed alcohol not known,0.0
+29,Woman,Exceeded guideline,19.1
+29,Woman,Did not exceed guideline,111.7
+29,Woman,Consumed alcohol 12 or more months ago,20.7
+29,Woman,Never consumed alcohol,7.3
+29,Woman,Risk level not known,0.0
+29,Woman,Time since last consumed alcohol not known,0.0
+29,Non-binary,Exceeded guideline,0.0
+29,Non-binary,Did not exceed guideline,0.0
+29,Non-binary,Consumed alcohol 12 or more months ago,0.0
+29,Non-binary,Never consumed alcohol,0.0
+29,Non-binary,Risk level not known,0.0
+29,Non-binary,Time since last consumed alcohol not known,0.0
+29,Total,Exceeded guideline,79.3
+29,Total,Did not exceed guideline,202.5
+29,Total,Consumed alcohol 12 or more months ago,56.6
+29,Total,Never consumed alcohol,43.8
+29,Total,Risk level not known,0.0
+29,Total,Time since last consumed alcohol not known,0.0
+30,Man,Exceeded guideline,69.5
+30,Man,Did not exceed guideline,109.3
+30,Man,Consumed alcohol 12 or more months ago,18.9
+30,Man,Never consumed alcohol,36.2
+30,Man,Risk level not known,0.0
+30,Man,Time since last consumed alcohol not known,0.0
+30,Woman,Exceeded guideline,20.1
+30,Woman,Did not exceed guideline,101.3
+30,Woman,Consumed alcohol 12 or more months ago,7.5
+30,Woman,Never consumed alcohol,27.6
+30,Woman,Risk level not known,0.0
+30,Woman,Time since last consumed alcohol not known,0.0
+30,Non-binary,Exceeded guideline,0.0
+30,Non-binary,Did not exceed guideline,0.0
+30,Non-binary,Consumed alcohol 12 or more months ago,0.0
+30,Non-binary,Never consumed alcohol,0.0
+30,Non-binary,Risk level not known,0.0
+30,Non-binary,Time since last consumed alcohol not known,0.0
+30,Total,Exceeded guideline,87.3
+30,Total,Did not exceed guideline,211.2
+30,Total,Consumed alcohol 12 or more months ago,31.8
+30,Total,Never consumed alcohol,64.0
+30,Total,Risk level not known,0.0
+30,Total,Time since last consumed alcohol not known,0.0
+31,Man,Exceeded guideline,86.5
+31,Man,Did not exceed guideline,66.6
+31,Man,Consumed alcohol 12 or more months ago,2.8
+31,Man,Never consumed alcohol,5.9
+31,Man,Risk level not known,0.0
+31,Man,Time since last consumed alcohol not known,0.0
+31,Woman,Exceeded guideline,34.6
+31,Woman,Did not exceed guideline,154.6
+31,Woman,Consumed alcohol 12 or more months ago,17.5
+31,Woman,Never consumed alcohol,13.1
+31,Woman,Risk level not known,0.0
+31,Woman,Time since last consumed alcohol not known,0.0
+31,Non-binary,Exceeded guideline,0.0
+31,Non-binary,Did not exceed guideline,0.0
+31,Non-binary,Consumed alcohol 12 or more months ago,0.0
+31,Non-binary,Never consumed alcohol,0.0
+31,Non-binary,Risk level not known,0.0
+31,Non-binary,Time since last consumed alcohol not known,0.0
+31,Total,Exceeded guideline,116.2
+31,Total,Did not exceed guideline,225.6
+31,Total,Consumed alcohol 12 or more months ago,22.9
+31,Total,Never consumed alcohol,21.9
+31,Total,Risk level not known,0.0
+31,Total,Time since last consumed alcohol not known,11.3
+32,Man,Exceeded guideline,59.0
+32,Man,Did not exceed guideline,78.6
+32,Man,Consumed alcohol 12 or more months ago,8.0
+32,Man,Never consumed alcohol,17.3
+32,Man,Risk level not known,0.0
+32,Man,Time since last consumed alcohol not known,0.0
+32,Woman,Exceeded guideline,37.1
+32,Woman,Did not exceed guideline,132.4
+32,Woman,Consumed alcohol 12 or more months ago,24.7
+32,Woman,Never consumed alcohol,27.3
+32,Woman,Risk level not known,0.0
+32,Woman,Time since last consumed alcohol not known,0.0
+32,Non-binary,Exceeded guideline,0.0
+32,Non-binary,Did not exceed guideline,0.0
+32,Non-binary,Consumed alcohol 12 or more months ago,0.0
+32,Non-binary,Never consumed alcohol,0.0
+32,Non-binary,Risk level not known,0.0
+32,Non-binary,Time since last consumed alcohol not known,0.0
+32,Total,Exceeded guideline,89.8
+32,Total,Did not exceed guideline,225.1
+32,Total,Consumed alcohol 12 or more months ago,33.7
+32,Total,Never consumed alcohol,40.4
+32,Total,Risk level not known,0.0
+32,Total,Time since last consumed alcohol not known,0.0
+33,Man,Exceeded guideline,56.7
+33,Man,Did not exceed guideline,94.9
+33,Man,Consumed alcohol 12 or more months ago,11.6
+33,Man,Never consumed alcohol,17.9
+33,Man,Risk level not known,0.0
+33,Man,Time since last consumed alcohol not known,0.0
+33,Woman,Exceeded guideline,36.3
+33,Woman,Did not exceed guideline,110.6
+33,Woman,Consumed alcohol 12 or more months ago,16.7
+33,Woman,Never consumed alcohol,32.7
+33,Woman,Risk level not known,0.0
+33,Woman,Time since last consumed alcohol not known,4.4
+33,Non-binary,Exceeded guideline,0.0
+33,Non-binary,Did not exceed guideline,0.0
+33,Non-binary,Consumed alcohol 12 or more months ago,0.0
+33,Non-binary,Never consumed alcohol,0.0
+33,Non-binary,Risk level not known,0.0
+33,Non-binary,Time since last consumed alcohol not known,0.0
+33,Total,Exceeded guideline,93.2
+33,Total,Did not exceed guideline,200.3
+33,Total,Consumed alcohol 12 or more months ago,31.7
+33,Total,Never consumed alcohol,38.6
+33,Total,Risk level not known,0.0
+33,Total,Time since last consumed alcohol not known,2.6
+34,Man,Exceeded guideline,39.2
+34,Man,Did not exceed guideline,84.0
+34,Man,Consumed alcohol 12 or more months ago,12.8
+34,Man,Never consumed alcohol,10.9
+34,Man,Risk level not known,0.0
+34,Man,Time since last consumed alcohol not known,0.0
+34,Woman,Exceeded guideline,27.3
+34,Woman,Did not exceed guideline,102.9
+34,Woman,Consumed alcohol 12 or more months ago,47.0
+34,Woman,Never consumed alcohol,28.0
+34,Woman,Risk level not known,0.0
+34,Woman,Time since last consumed alcohol not known,1.0
+34,Non-binary,Exceeded guideline,0.0
+34,Non-binary,Did not exceed guideline,0.0
+34,Non-binary,Consumed alcohol 12 or more months ago,0.0
+34,Non-binary,Never consumed alcohol,0.0
+34,Non-binary,Risk level not known,0.0
+34,Non-binary,Time since last consumed alcohol not known,0.0
+34,Total,Exceeded guideline,73.3
+34,Total,Did not exceed guideline,198.9
+34,Total,Consumed alcohol 12 or more months ago,46.9
+34,Total,Never consumed alcohol,36.6
+34,Total,Risk level not known,0.0
+34,Total,Time since last consumed alcohol not known,9.7
+35,Man,Exceeded guideline,62.9
+35,Man,Did not exceed guideline,71.4
+35,Man,Consumed alcohol 12 or more months ago,19.8
+35,Man,Never consumed alcohol,16.7
+35,Man,Risk level not known,0.0
+35,Man,Time since last consumed alcohol not known,0.0
+35,Woman,Exceeded guideline,19.7
+35,Woman,Did not exceed guideline,115.1
+35,Woman,Consumed alcohol 12 or more months ago,23.0
+35,Woman,Never consumed alcohol,25.8
+35,Woman,Risk level not known,0.0
+35,Woman,Time since last consumed alcohol not known,0.0
+35,Non-binary,Exceeded guideline,0.0
+35,Non-binary,Did not exceed guideline,0.0
+35,Non-binary,Consumed alcohol 12 or more months ago,0.0
+35,Non-binary,Never consumed alcohol,0.0
+35,Non-binary,Risk level not known,0.0
+35,Non-binary,Time since last consumed alcohol not known,0.0
+35,Total,Exceeded guideline,82.5
+35,Total,Did not exceed guideline,189.8
+35,Total,Consumed alcohol 12 or more months ago,40.6
+35,Total,Never consumed alcohol,41.2
+35,Total,Risk level not known,0.0
+35,Total,Time since last consumed alcohol not known,0.0
+36,Man,Exceeded guideline,37.3
+36,Man,Did not exceed guideline,62.0
+36,Man,Consumed alcohol 12 or more months ago,5.9
+36,Man,Never consumed alcohol,9.8
+36,Man,Risk level not known,0.0
+36,Man,Time since last consumed alcohol not known,0.0
+36,Woman,Exceeded guideline,20.3
+36,Woman,Did not exceed guideline,96.4
+36,Woman,Consumed alcohol 12 or more months ago,39.9
+36,Woman,Never consumed alcohol,7.7
+36,Woman,Risk level not known,0.0
+36,Woman,Time since last consumed alcohol not known,0.0
+36,Non-binary,Exceeded guideline,0.0
+36,Non-binary,Did not exceed guideline,0.0
+36,Non-binary,Consumed alcohol 12 or more months ago,0.0
+36,Non-binary,Never consumed alcohol,0.0
+36,Non-binary,Risk level not known,0.0
+36,Non-binary,Time since last consumed alcohol not known,0.0
+36,Total,Exceeded guideline,56.2
+36,Total,Did not exceed guideline,154.9
+36,Total,Consumed alcohol 12 or more months ago,51.6
+36,Total,Never consumed alcohol,19.5
+36,Total,Risk level not known,0.0
+36,Total,Time since last consumed alcohol not known,0.0
+37,Man,Exceeded guideline,66.7
+37,Man,Did not exceed guideline,75.2
+37,Man,Consumed alcohol 12 or more months ago,6.1
+37,Man,Never consumed alcohol,19.8
+37,Man,Risk level not known,0.0
+37,Man,Time since last consumed alcohol not known,0.0
+37,Woman,Exceeded guideline,43.0
+37,Woman,Did not exceed guideline,94.1
+37,Woman,Consumed alcohol 12 or more months ago,15.3
+37,Woman,Never consumed alcohol,12.2
+37,Woman,Risk level not known,0.0
+37,Woman,Time since last consumed alcohol not known,3.7
+37,Non-binary,Exceeded guideline,0.0
+37,Non-binary,Did not exceed guideline,0.0
+37,Non-binary,Consumed alcohol 12 or more months ago,0.0
+37,Non-binary,Never consumed alcohol,0.0
+37,Non-binary,Risk level not known,0.0
+37,Non-binary,Time since last consumed alcohol not known,0.0
+37,Total,Exceeded guideline,111.6
+37,Total,Did not exceed guideline,163.2
+37,Total,Consumed alcohol 12 or more months ago,24.9
+37,Total,Never consumed alcohol,31.1
+37,Total,Risk level not known,0.0
+37,Total,Time since last consumed alcohol not known,2.9
+38,Man,Exceeded guideline,66.7
+38,Man,Did not exceed guideline,88.4
+38,Man,Consumed alcohol 12 or more months ago,16.1
+38,Man,Never consumed alcohol,10.9
+38,Man,Risk level not known,0.0
+38,Man,Time since last consumed alcohol not known,0.0
+38,Woman,Exceeded guideline,29.9
+38,Woman,Did not exceed guideline,105.1
+38,Woman,Consumed alcohol 12 or more months ago,30.5
+38,Woman,Never consumed alcohol,26.0
+38,Woman,Risk level not known,0.0
+38,Woman,Time since last consumed alcohol not known,0.0
+38,Non-binary,Exceeded guideline,0.0
+38,Non-binary,Did not exceed guideline,0.0
+38,Non-binary,Consumed alcohol 12 or more months ago,0.0
+38,Non-binary,Never consumed alcohol,0.0
+38,Non-binary,Risk level not known,0.0
+38,Non-binary,Time since last consumed alcohol not known,0.0
+38,Total,Exceeded guideline,102.5
+38,Total,Did not exceed guideline,184.6
+38,Total,Consumed alcohol 12 or more months ago,31.8
+38,Total,Never consumed alcohol,43.2
+38,Total,Risk level not known,0.0
+38,Total,Time since last consumed alcohol not known,0.0
+39,Man,Exceeded guideline,38.0
+39,Man,Did not exceed guideline,80.3
+39,Man,Consumed alcohol 12 or more months ago,8.2
+39,Man,Never consumed alcohol,15.1
+39,Man,Risk level not known,0.0
+39,Man,Time since last consumed alcohol not known,0.0
+39,Woman,Exceeded guideline,28.2
+39,Woman,Did not exceed guideline,108.1
+39,Woman,Consumed alcohol 12 or more months ago,24.2
+39,Woman,Never consumed alcohol,24.9
+39,Woman,Risk level not known,0.0
+39,Woman,Time since last consumed alcohol not known,0.0
+39,Non-binary,Exceeded guideline,0.0
+39,Non-binary,Did not exceed guideline,0.0
+39,Non-binary,Consumed alcohol 12 or more months ago,0.0
+39,Non-binary,Never consumed alcohol,0.0
+39,Non-binary,Risk level not known,0.0
+39,Non-binary,Time since last consumed alcohol not known,0.0
+39,Total,Exceeded guideline,64.1
+39,Total,Did not exceed guideline,182.1
+39,Total,Consumed alcohol 12 or more months ago,32.1
+39,Total,Never consumed alcohol,46.0
+39,Total,Risk level not known,0.0
+39,Total,Time since last consumed alcohol not known,0.0
+40,Man,Exceeded guideline,80.6
+40,Man,Did not exceed guideline,116.0
+40,Man,Consumed alcohol 12 or more months ago,16.5
+40,Man,Never consumed alcohol,9.6
+40,Man,Risk level not known,0.0
+40,Man,Time since last consumed alcohol not known,0.0
+40,Woman,Exceeded guideline,30.7
+40,Woman,Did not exceed guideline,104.2
+40,Woman,Consumed alcohol 12 or more months ago,18.5
+40,Woman,Never consumed alcohol,14.7
+40,Woman,Risk level not known,0.0
+40,Woman,Time since last consumed alcohol not known,0.0
+40,Non-binary,Exceeded guideline,0.0
+40,Non-binary,Did not exceed guideline,0.0
+40,Non-binary,Consumed alcohol 12 or more months ago,0.0
+40,Non-binary,Never consumed alcohol,0.0
+40,Non-binary,Risk level not known,0.0
+40,Non-binary,Time since last consumed alcohol not known,0.0
+40,Total,Exceeded guideline,105.8
+40,Total,Did not exceed guideline,222.7
+40,Total,Consumed alcohol 12 or more months ago,33.4
+40,Total,Never consumed alcohol,28.1
+40,Total,Risk level not known,0.0
+40,Total,Time since last consumed alcohol not known,0.0
+41,Man,Exceeded guideline,64.4
+41,Man,Did not exceed guideline,79.3
+41,Man,Consumed alcohol 12 or more months ago,16.5
+41,Man,Never consumed alcohol,16.5
+41,Man,Risk level not known,0.0
+41,Man,Time since last consumed alcohol not known,0.0
+41,Woman,Exceeded guideline,41.9
+41,Woman,Did not exceed guideline,76.2
+41,Woman,Consumed alcohol 12 or more months ago,15.7
+41,Woman,Never consumed alcohol,26.5
+41,Woman,Risk level not known,0.0
+41,Woman,Time since last consumed alcohol not known,0.0
+41,Non-binary,Exceeded guideline,0.0
+41,Non-binary,Did not exceed guideline,0.0
+41,Non-binary,Consumed alcohol 12 or more months ago,0.0
+41,Non-binary,Never consumed alcohol,0.0
+41,Non-binary,Risk level not known,0.0
+41,Non-binary,Time since last consumed alcohol not known,0.0
+41,Total,Exceeded guideline,97.0
+41,Total,Did not exceed guideline,160.4
+41,Total,Consumed alcohol 12 or more months ago,29.4
+41,Total,Never consumed alcohol,51.2
+41,Total,Risk level not known,0.0
+41,Total,Time since last consumed alcohol not known,0.0
+42,Man,Exceeded guideline,71.4
+42,Man,Did not exceed guideline,77.3
+42,Man,Consumed alcohol 12 or more months ago,18.0
+42,Man,Never consumed alcohol,9.2
+42,Man,Risk level not known,0.0
+42,Man,Time since last consumed alcohol not known,0.0
+42,Woman,Exceeded guideline,9.6
+42,Woman,Did not exceed guideline,93.4
+42,Woman,Consumed alcohol 12 or more months ago,12.4
+42,Woman,Never consumed alcohol,21.2
+42,Woman,Risk level not known,0.0
+42,Woman,Time since last consumed alcohol not known,0.0
+42,Non-binary,Exceeded guideline,0.0
+42,Non-binary,Did not exceed guideline,0.0
+42,Non-binary,Consumed alcohol 12 or more months ago,0.0
+42,Non-binary,Never consumed alcohol,0.0
+42,Non-binary,Risk level not known,0.0
+42,Non-binary,Time since last consumed alcohol not known,0.0
+42,Total,Exceeded guideline,89.6
+42,Total,Did not exceed guideline,173.7
+42,Total,Consumed alcohol 12 or more months ago,35.0
+42,Total,Never consumed alcohol,33.9
+42,Total,Risk level not known,0.0
+42,Total,Time since last consumed alcohol not known,0.0
+43,Man,Exceeded guideline,76.5
+43,Man,Did not exceed guideline,77.1
+43,Man,Consumed alcohol 12 or more months ago,6.2
+43,Man,Never consumed alcohol,5.4
+43,Man,Risk level not known,0.0
+43,Man,Time since last consumed alcohol not known,0.0
+43,Woman,Exceeded guideline,12.3
+43,Woman,Did not exceed guideline,122.6
+43,Woman,Consumed alcohol 12 or more months ago,32.5
+43,Woman,Never consumed alcohol,7.2
+43,Woman,Risk level not known,0.0
+43,Woman,Time since last consumed alcohol not known,5.9
+43,Non-binary,Exceeded guideline,0.0
+43,Non-binary,Did not exceed guideline,0.0
+43,Non-binary,Consumed alcohol 12 or more months ago,0.0
+43,Non-binary,Never consumed alcohol,0.0
+43,Non-binary,Risk level not known,0.0
+43,Non-binary,Time since last consumed alcohol not known,0.0
+43,Total,Exceeded guideline,90.0
+43,Total,Did not exceed guideline,205.0
+43,Total,Consumed alcohol 12 or more months ago,45.6
+43,Total,Never consumed alcohol,15.3
+43,Total,Risk level not known,0.0
+43,Total,Time since last consumed alcohol not known,5.9
+44,Man,Exceeded guideline,48.7
+44,Man,Did not exceed guideline,64.6
+44,Man,Consumed alcohol 12 or more months ago,8.8
+44,Man,Never consumed alcohol,9.3
+44,Man,Risk level not known,0.0
+44,Man,Time since last consumed alcohol not known,0.0
+44,Woman,Exceeded guideline,16.0
+44,Woman,Did not exceed guideline,91.7
+44,Woman,Consumed alcohol 12 or more months ago,28.9
+44,Woman,Never consumed alcohol,24.5
+44,Woman,Risk level not known,0.0
+44,Woman,Time since last consumed alcohol not known,0.0
+44,Non-binary,Exceeded guideline,0.0
+44,Non-binary,Did not exceed guideline,0.0
+44,Non-binary,Consumed alcohol 12 or more months ago,0.0
+44,Non-binary,Never consumed alcohol,0.0
+44,Non-binary,Risk level not known,0.0
+44,Non-binary,Time since last consumed alcohol not known,0.0
+44,Total,Exceeded guideline,64.5
+44,Total,Did not exceed guideline,156.9
+44,Total,Consumed alcohol 12 or more months ago,43.0
+44,Total,Never consumed alcohol,35.1
+44,Total,Risk level not known,0.0
+44,Total,Time since last consumed alcohol not known,0.0
+45,Man,Exceeded guideline,69.7
+45,Man,Did not exceed guideline,93.5
+45,Man,Consumed alcohol 12 or more months ago,6.6
+45,Man,Never consumed alcohol,14.8
+45,Man,Risk level not known,0.0
+45,Man,Time since last consumed alcohol not known,0.0
+45,Woman,Exceeded guideline,28.7
+45,Woman,Did not exceed guideline,95.0
+45,Woman,Consumed alcohol 12 or more months ago,19.8
+45,Woman,Never consumed alcohol,7.0
+45,Woman,Risk level not known,0.0
+45,Woman,Time since last consumed alcohol not known,5.7
+45,Non-binary,Exceeded guideline,0.0
+45,Non-binary,Did not exceed guideline,0.0
+45,Non-binary,Consumed alcohol 12 or more months ago,0.0
+45,Non-binary,Never consumed alcohol,0.0
+45,Non-binary,Risk level not known,0.0
+45,Non-binary,Time since last consumed alcohol not known,0.0
+45,Total,Exceeded guideline,108.4
+45,Total,Did not exceed guideline,188.4
+45,Total,Consumed alcohol 12 or more months ago,34.2
+45,Total,Never consumed alcohol,24.8
+45,Total,Risk level not known,0.0
+45,Total,Time since last consumed alcohol not known,5.7
+46,Man,Exceeded guideline,50.0
+46,Man,Did not exceed guideline,52.5
+46,Man,Consumed alcohol 12 or more months ago,17.6
+46,Man,Never consumed alcohol,4.2
+46,Man,Risk level not known,0.0
+46,Man,Time since last consumed alcohol not known,0.0
+46,Woman,Exceeded guideline,16.5
+46,Woman,Did not exceed guideline,82.8
+46,Woman,Consumed alcohol 12 or more months ago,24.1
+46,Woman,Never consumed alcohol,25.4
+46,Woman,Risk level not known,0.0
+46,Woman,Time since last consumed alcohol not known,0.0
+46,Non-binary,Exceeded guideline,0.0
+46,Non-binary,Did not exceed guideline,0.0
+46,Non-binary,Consumed alcohol 12 or more months ago,0.0
+46,Non-binary,Never consumed alcohol,0.0
+46,Non-binary,Risk level not known,0.0
+46,Non-binary,Time since last consumed alcohol not known,0.0
+46,Total,Exceeded guideline,63.1
+46,Total,Did not exceed guideline,142.6
+46,Total,Consumed alcohol 12 or more months ago,33.5
+46,Total,Never consumed alcohol,22.7
+46,Total,Risk level not known,0.0
+46,Total,Time since last consumed alcohol not known,0.0
+47,Man,Exceeded guideline,42.4
+47,Man,Did not exceed guideline,72.4
+47,Man,Consumed alcohol 12 or more months ago,13.9
+47,Man,Never consumed alcohol,10.8
+47,Man,Risk level not known,0.0
+47,Man,Time since last consumed alcohol not known,0.0
+47,Woman,Exceeded guideline,23.3
+47,Woman,Did not exceed guideline,53.3
+47,Woman,Consumed alcohol 12 or more months ago,18.6
+47,Woman,Never consumed alcohol,8.3
+47,Woman,Risk level not known,0.0
+47,Woman,Time since last consumed alcohol not known,0.0
+47,Non-binary,Exceeded guideline,0.0
+47,Non-binary,Did not exceed guideline,0.0
+47,Non-binary,Consumed alcohol 12 or more months ago,0.0
+47,Non-binary,Never consumed alcohol,0.0
+47,Non-binary,Risk level not known,0.0
+47,Non-binary,Time since last consumed alcohol not known,0.0
+47,Total,Exceeded guideline,73.2
+47,Total,Did not exceed guideline,124.6
+47,Total,Consumed alcohol 12 or more months ago,31.1
+47,Total,Never consumed alcohol,22.6
+47,Total,Risk level not known,0.0
+47,Total,Time since last consumed alcohol not known,3.1
+48,Man,Exceeded guideline,60.4
+48,Man,Did not exceed guideline,101.1
+48,Man,Consumed alcohol 12 or more months ago,23.0
+48,Man,Never consumed alcohol,6.6
+48,Man,Risk level not known,0.0
+48,Man,Time since last consumed alcohol not known,0.0
+48,Woman,Exceeded guideline,26.6
+48,Woman,Did not exceed guideline,70.2
+48,Woman,Consumed alcohol 12 or more months ago,19.6
+48,Woman,Never consumed alcohol,22.6
+48,Woman,Risk level not known,0.0
+48,Woman,Time since last consumed alcohol not known,0.0
+48,Non-binary,Exceeded guideline,0.0
+48,Non-binary,Did not exceed guideline,0.0
+48,Non-binary,Consumed alcohol 12 or more months ago,0.0
+48,Non-binary,Never consumed alcohol,0.0
+48,Non-binary,Risk level not known,0.0
+48,Non-binary,Time since last consumed alcohol not known,0.0
+48,Total,Exceeded guideline,92.9
+48,Total,Did not exceed guideline,167.6
+48,Total,Consumed alcohol 12 or more months ago,33.5
+48,Total,Never consumed alcohol,33.8
+48,Total,Risk level not known,0.0
+48,Total,Time since last consumed alcohol not known,0.0
+49,Man,Exceeded guideline,47.5
+49,Man,Did not exceed guideline,54.0
+49,Man,Consumed alcohol 12 or more months ago,13.3
+49,Man,Never consumed alcohol,0.0
+49,Man,Risk level not known,0.0
+49,Man,Time since last consumed alcohol not known,0.0
+49,Woman,Exceeded guideline,52.9
+49,Woman,Did not exceed guideline,105.6
+49,Woman,Consumed alcohol 12 or more months ago,19.7
+49,Woman,Never consumed alcohol,25.0
+49,Woman,Risk level not known,0.0
+49,Woman,Time since last consumed alcohol not known,0.0
+49,Non-binary,Exceeded guideline,0.0
+49,Non-binary,Did not exceed guideline,0.0
+49,Non-binary,Consumed alcohol 12 or more months ago,0.0
+49,Non-binary,Never consumed alcohol,0.0
+49,Non-binary,Risk level not known,0.0
+49,Non-binary,Time since last consumed alcohol not known,0.0
+49,Total,Exceeded guideline,99.0
+49,Total,Did not exceed guideline,169.3
+49,Total,Consumed alcohol 12 or more months ago,46.6
+49,Total,Never consumed alcohol,23.5
+49,Total,Risk level not known,0.0
+49,Total,Time since last consumed alcohol not known,0.0
+50,Man,Exceeded guideline,69.6
+50,Man,Did not exceed guideline,73.4
+50,Man,Consumed alcohol 12 or more months ago,5.3
+50,Man,Never consumed alcohol,7.5
+50,Man,Risk level not known,0.0
+50,Man,Time since last consumed alcohol not known,0.0
+50,Woman,Exceeded guideline,28.0
+50,Woman,Did not exceed guideline,88.3
+50,Woman,Consumed alcohol 12 or more months ago,26.5
+50,Woman,Never consumed alcohol,48.7
+50,Woman,Risk level not known,0.0
+50,Woman,Time since last consumed alcohol not known,10.5
+50,Non-binary,Exceeded guideline,0.0
+50,Non-binary,Did not exceed guideline,0.0
+50,Non-binary,Consumed alcohol 12 or more months ago,0.0
+50,Non-binary,Never consumed alcohol,0.0
+50,Non-binary,Risk level not known,0.0
+50,Non-binary,Time since last consumed alcohol not known,0.0
+50,Total,Exceeded guideline,94.5
+50,Total,Did not exceed guideline,155.5
+50,Total,Consumed alcohol 12 or more months ago,23.0
+50,Total,Never consumed alcohol,56.1
+50,Total,Risk level not known,0.0
+50,Total,Time since last consumed alcohol not known,9.2
+51,Man,Exceeded guideline,44.3
+51,Man,Did not exceed guideline,65.7
+51,Man,Consumed alcohol 12 or more months ago,14.1
+51,Man,Never consumed alcohol,4.3
+51,Man,Risk level not known,0.0
+51,Man,Time since last consumed alcohol not known,5.5
+51,Woman,Exceeded guideline,34.9
+51,Woman,Did not exceed guideline,79.0
+51,Woman,Consumed alcohol 12 or more months ago,9.7
+51,Woman,Never consumed alcohol,14.5
+51,Woman,Risk level not known,0.0
+51,Woman,Time since last consumed alcohol not known,0.0
+51,Non-binary,Exceeded guideline,0.0
+51,Non-binary,Did not exceed guideline,0.0
+51,Non-binary,Consumed alcohol 12 or more months ago,0.0
+51,Non-binary,Never consumed alcohol,0.0
+51,Non-binary,Risk level not known,0.0
+51,Non-binary,Time since last consumed alcohol not known,0.0
+51,Total,Exceeded guideline,82.2
+51,Total,Did not exceed guideline,141.4
+51,Total,Consumed alcohol 12 or more months ago,32.5
+51,Total,Never consumed alcohol,18.7
+51,Total,Risk level not known,0.0
+51,Total,Time since last consumed alcohol not known,5.6
+52,Man,Exceeded guideline,58.7
+52,Man,Did not exceed guideline,60.6
+52,Man,Consumed alcohol 12 or more months ago,8.5
+52,Man,Never consumed alcohol,4.4
+52,Man,Risk level not known,0.0
+52,Man,Time since last consumed alcohol not known,0.0
+52,Woman,Exceeded guideline,46.6
+52,Woman,Did not exceed guideline,78.2
+52,Woman,Consumed alcohol 12 or more months ago,17.6
+52,Woman,Never consumed alcohol,15.3
+52,Woman,Risk level not known,0.0
+52,Woman,Time since last consumed alcohol not known,0.0
+52,Non-binary,Exceeded guideline,0.0
+52,Non-binary,Did not exceed guideline,0.0
+52,Non-binary,Consumed alcohol 12 or more months ago,0.0
+52,Non-binary,Never consumed alcohol,0.0
+52,Non-binary,Risk level not known,0.0
+52,Non-binary,Time since last consumed alcohol not known,0.0
+52,Total,Exceeded guideline,104.7
+52,Total,Did not exceed guideline,150.3
+52,Total,Consumed alcohol 12 or more months ago,23.2
+52,Total,Never consumed alcohol,29.3
+52,Total,Risk level not known,0.0
+52,Total,Time since last consumed alcohol not known,0.0
+53,Man,Exceeded guideline,32.7
+53,Man,Did not exceed guideline,75.8
+53,Man,Consumed alcohol 12 or more months ago,20.3
+53,Man,Never consumed alcohol,5.3
+53,Man,Risk level not known,0.0
+53,Man,Time since last consumed alcohol not known,0.0
+53,Woman,Exceeded guideline,30.9
+53,Woman,Did not exceed guideline,96.3
+53,Woman,Consumed alcohol 12 or more months ago,25.6
+53,Woman,Never consumed alcohol,15.8
+53,Woman,Risk level not known,0.0
+53,Woman,Time since last consumed alcohol not known,0.0
+53,Non-binary,Exceeded guideline,0.0
+53,Non-binary,Did not exceed guideline,0.0
+53,Non-binary,Consumed alcohol 12 or more months ago,0.0
+53,Non-binary,Never consumed alcohol,0.0
+53,Non-binary,Risk level not known,0.0
+53,Non-binary,Time since last consumed alcohol not known,0.0
+53,Total,Exceeded guideline,66.9
+53,Total,Did not exceed guideline,162.1
+53,Total,Consumed alcohol 12 or more months ago,39.9
+53,Total,Never consumed alcohol,21.1
+53,Total,Risk level not known,0.0
+53,Total,Time since last consumed alcohol not known,0.0
+54,Man,Exceeded guideline,51.7
+54,Man,Did not exceed guideline,82.1
+54,Man,Consumed alcohol 12 or more months ago,15.5
+54,Man,Never consumed alcohol,15.4
+54,Man,Risk level not known,0.0
+54,Man,Time since last consumed alcohol not known,0.0
+54,Woman,Exceeded guideline,40.3
+54,Woman,Did not exceed guideline,80.6
+54,Woman,Consumed alcohol 12 or more months ago,11.9
+54,Woman,Never consumed alcohol,16.2
+54,Woman,Risk level not known,0.0
+54,Woman,Time since last consumed alcohol not known,0.0
+54,Non-binary,Exceeded guideline,0.0
+54,Non-binary,Did not exceed guideline,0.0
+54,Non-binary,Consumed alcohol 12 or more months ago,0.0
+54,Non-binary,Never consumed alcohol,0.0
+54,Non-binary,Risk level not known,0.0
+54,Non-binary,Time since last consumed alcohol not known,0.0
+54,Total,Exceeded guideline,84.4
+54,Total,Did not exceed guideline,157.1
+54,Total,Consumed alcohol 12 or more months ago,29.1
+54,Total,Never consumed alcohol,28.5
+54,Total,Risk level not known,0.0
+54,Total,Time since last consumed alcohol not known,0.0
+55,Man,Exceeded guideline,49.4
+55,Man,Did not exceed guideline,35.3
+55,Man,Consumed alcohol 12 or more months ago,15.2
+55,Man,Never consumed alcohol,7.5
+55,Man,Risk level not known,0.0
+55,Man,Time since last consumed alcohol not known,0.0
+55,Woman,Exceeded guideline,40.8
+55,Woman,Did not exceed guideline,60.8
+55,Woman,Consumed alcohol 12 or more months ago,22.5
+55,Woman,Never consumed alcohol,8.1
+55,Woman,Risk level not known,0.0
+55,Woman,Time since last consumed alcohol not known,2.4
+55,Non-binary,Exceeded guideline,0.0
+55,Non-binary,Did not exceed guideline,0.0
+55,Non-binary,Consumed alcohol 12 or more months ago,0.0
+55,Non-binary,Never consumed alcohol,0.0
+55,Non-binary,Risk level not known,0.0
+55,Non-binary,Time since last consumed alcohol not known,0.0
+55,Total,Exceeded guideline,82.3
+55,Total,Did not exceed guideline,101.7
+55,Total,Consumed alcohol 12 or more months ago,38.0
+55,Total,Never consumed alcohol,22.4
+55,Total,Risk level not known,0.0
+55,Total,Time since last consumed alcohol not known,2.4
+56,Man,Exceeded guideline,73.3
+56,Man,Did not exceed guideline,53.3
+56,Man,Consumed alcohol 12 or more months ago,10.5
+56,Man,Never consumed alcohol,4.1
+56,Man,Risk level not known,0.0
+56,Man,Time since last consumed alcohol not known,0.0
+56,Woman,Exceeded guideline,28.6
+56,Woman,Did not exceed guideline,97.4
+56,Woman,Consumed alcohol 12 or more months ago,13.6
+56,Woman,Never consumed alcohol,13.5
+56,Woman,Risk level not known,0.0
+56,Woman,Time since last consumed alcohol not known,4.5
+56,Non-binary,Exceeded guideline,0.0
+56,Non-binary,Did not exceed guideline,0.0
+56,Non-binary,Consumed alcohol 12 or more months ago,0.0
+56,Non-binary,Never consumed alcohol,0.0
+56,Non-binary,Risk level not known,0.0
+56,Non-binary,Time since last consumed alcohol not known,0.0
+56,Total,Exceeded guideline,103.7
+56,Total,Did not exceed guideline,155.5
+56,Total,Consumed alcohol 12 or more months ago,34.2
+56,Total,Never consumed alcohol,22.8
+56,Total,Risk level not known,0.0
+56,Total,Time since last consumed alcohol not known,4.5
+57,Man,Exceeded guideline,77.6
+57,Man,Did not exceed guideline,53.3
+57,Man,Consumed alcohol 12 or more months ago,20.0
+57,Man,Never consumed alcohol,13.5
+57,Man,Risk level not known,0.0
+57,Man,Time since last consumed alcohol not known,0.0
+57,Woman,Exceeded guideline,21.8
+57,Woman,Did not exceed guideline,70.0
+57,Woman,Consumed alcohol 12 or more months ago,26.2
+57,Woman,Never consumed alcohol,20.8
+57,Woman,Risk level not known,0.0
+57,Woman,Time since last consumed alcohol not known,11.9
+57,Non-binary,Exceeded guideline,0.0
+57,Non-binary,Did not exceed guideline,0.0
+57,Non-binary,Consumed alcohol 12 or more months ago,0.0
+57,Non-binary,Never consumed alcohol,0.0
+57,Non-binary,Risk level not known,0.0
+57,Non-binary,Time since last consumed alcohol not known,0.0
+57,Total,Exceeded guideline,100.7
+57,Total,Did not exceed guideline,118.9
+57,Total,Consumed alcohol 12 or more months ago,37.6
+57,Total,Never consumed alcohol,42.3
+57,Total,Risk level not known,0.0
+57,Total,Time since last consumed alcohol not known,26.6
+58,Man,Exceeded guideline,79.5
+58,Man,Did not exceed guideline,81.0
+58,Man,Consumed alcohol 12 or more months ago,15.0
+58,Man,Never consumed alcohol,0.0
+58,Man,Risk level not known,0.0
+58,Man,Time since last consumed alcohol not known,0.0
+58,Woman,Exceeded guideline,26.3
+58,Woman,Did not exceed guideline,63.9
+58,Woman,Consumed alcohol 12 or more months ago,15.7
+58,Woman,Never consumed alcohol,5.2
+58,Woman,Risk level not known,0.0
+58,Woman,Time since last consumed alcohol not known,0.0
+58,Non-binary,Exceeded guideline,0.0
+58,Non-binary,Did not exceed guideline,0.0
+58,Non-binary,Consumed alcohol 12 or more months ago,0.0
+58,Non-binary,Never consumed alcohol,0.0
+58,Non-binary,Risk level not known,0.0
+58,Non-binary,Time since last consumed alcohol not known,0.0
+58,Total,Exceeded guideline,101.0
+58,Total,Did not exceed guideline,151.4
+58,Total,Consumed alcohol 12 or more months ago,27.7
+58,Total,Never consumed alcohol,5.2
+58,Total,Risk level not known,0.0
+58,Total,Time since last consumed alcohol not known,0.0
+59,Man,Exceeded guideline,68.7
+59,Man,Did not exceed guideline,39.5
+59,Man,Consumed alcohol 12 or more months ago,14.2
+59,Man,Never consumed alcohol,3.7
+59,Man,Risk level not known,0.0
+59,Man,Time since last consumed alcohol not known,0.0
+59,Woman,Exceeded guideline,40.5
+59,Woman,Did not exceed guideline,79.8
+59,Woman,Consumed alcohol 12 or more months ago,14.4
+59,Woman,Never consumed alcohol,22.2
+59,Woman,Risk level not known,0.0
+59,Woman,Time since last consumed alcohol not known,0.0
+59,Non-binary,Exceeded guideline,0.0
+59,Non-binary,Did not exceed guideline,0.0
+59,Non-binary,Consumed alcohol 12 or more months ago,0.0
+59,Non-binary,Never consumed alcohol,0.0
+59,Non-binary,Risk level not known,0.0
+59,Non-binary,Time since last consumed alcohol not known,0.0
+59,Total,Exceeded guideline,107.7
+59,Total,Did not exceed guideline,119.7
+59,Total,Consumed alcohol 12 or more months ago,32.1
+59,Total,Never consumed alcohol,24.9
+59,Total,Risk level not known,0.0
+59,Total,Time since last consumed alcohol not known,0.0
+60,Man,Exceeded guideline,52.0
+60,Man,Did not exceed guideline,39.0
+60,Man,Consumed alcohol 12 or more months ago,16.3
+60,Man,Never consumed alcohol,18.4
+60,Man,Risk level not known,0.0
+60,Man,Time since last consumed alcohol not known,10.9
+60,Woman,Exceeded guideline,25.5
+60,Woman,Did not exceed guideline,85.2
+60,Woman,Consumed alcohol 12 or more months ago,29.9
+60,Woman,Never consumed alcohol,20.4
+60,Woman,Risk level not known,0.0
+60,Woman,Time since last consumed alcohol not known,0.0
+60,Non-binary,Exceeded guideline,0.0
+60,Non-binary,Did not exceed guideline,0.0
+60,Non-binary,Consumed alcohol 12 or more months ago,0.0
+60,Non-binary,Never consumed alcohol,0.0
+60,Non-binary,Risk level not known,0.0
+60,Non-binary,Time since last consumed alcohol not known,0.0
+60,Total,Exceeded guideline,75.4
+60,Total,Did not exceed guideline,122.9
+60,Total,Consumed alcohol 12 or more months ago,32.1
+60,Total,Never consumed alcohol,43.3
+60,Total,Risk level not known,0.0
+60,Total,Time since last consumed alcohol not known,10.9
+61,Man,Exceeded guideline,55.0
+61,Man,Did not exceed guideline,77.6
+61,Man,Consumed alcohol 12 or more months ago,5.1
+61,Man,Never consumed alcohol,12.7
+61,Man,Risk level not known,0.0
+61,Man,Time since last consumed alcohol not known,0.0
+61,Woman,Exceeded guideline,29.6
+61,Woman,Did not exceed guideline,97.8
+61,Woman,Consumed alcohol 12 or more months ago,17.0
+61,Woman,Never consumed alcohol,29.5
+61,Woman,Risk level not known,0.0
+61,Woman,Time since last consumed alcohol not known,5.0
+61,Non-binary,Exceeded guideline,0.0
+61,Non-binary,Did not exceed guideline,0.0
+61,Non-binary,Consumed alcohol 12 or more months ago,0.0
+61,Non-binary,Never consumed alcohol,0.0
+61,Non-binary,Risk level not known,0.0
+61,Non-binary,Time since last consumed alcohol not known,0.0
+61,Total,Exceeded guideline,83.4
+61,Total,Did not exceed guideline,177.0
+61,Total,Consumed alcohol 12 or more months ago,27.5
+61,Total,Never consumed alcohol,37.7
+61,Total,Risk level not known,0.0
+61,Total,Time since last consumed alcohol not known,5.0
+62,Man,Exceeded guideline,47.5
+62,Man,Did not exceed guideline,48.8
+62,Man,Consumed alcohol 12 or more months ago,13.0
+62,Man,Never consumed alcohol,3.9
+62,Man,Risk level not known,0.0
+62,Man,Time since last consumed alcohol not known,3.7
+62,Woman,Exceeded guideline,22.9
+62,Woman,Did not exceed guideline,87.6
+62,Woman,Consumed alcohol 12 or more months ago,16.1
+62,Woman,Never consumed alcohol,12.2
+62,Woman,Risk level not known,0.0
+62,Woman,Time since last consumed alcohol not known,0.0
+62,Non-binary,Exceeded guideline,0.0
+62,Non-binary,Did not exceed guideline,0.0
+62,Non-binary,Consumed alcohol 12 or more months ago,0.0
+62,Non-binary,Never consumed alcohol,0.0
+62,Non-binary,Risk level not known,0.0
+62,Non-binary,Time since last consumed alcohol not known,0.0
+62,Total,Exceeded guideline,70.4
+62,Total,Did not exceed guideline,141.6
+62,Total,Consumed alcohol 12 or more months ago,30.5
+62,Total,Never consumed alcohol,25.3
+62,Total,Risk level not known,0.0
+62,Total,Time since last consumed alcohol not known,3.5
+63,Man,Exceeded guideline,28.2
+63,Man,Did not exceed guideline,71.0
+63,Man,Consumed alcohol 12 or more months ago,25.2
+63,Man,Never consumed alcohol,1.9
+63,Man,Risk level not known,0.0
+63,Man,Time since last consumed alcohol not known,7.1
+63,Woman,Exceeded guideline,27.0
+63,Woman,Did not exceed guideline,80.8
+63,Woman,Consumed alcohol 12 or more months ago,26.8
+63,Woman,Never consumed alcohol,3.3
+63,Woman,Risk level not known,0.0
+63,Woman,Time since last consumed alcohol not known,0.0
+63,Non-binary,Exceeded guideline,0.0
+63,Non-binary,Did not exceed guideline,0.0
+63,Non-binary,Consumed alcohol 12 or more months ago,0.0
+63,Non-binary,Never consumed alcohol,0.0
+63,Non-binary,Risk level not known,0.0
+63,Non-binary,Time since last consumed alcohol not known,0.0
+63,Total,Exceeded guideline,54.8
+63,Total,Did not exceed guideline,150.7
+63,Total,Consumed alcohol 12 or more months ago,49.4
+63,Total,Never consumed alcohol,6.6
+63,Total,Risk level not known,0.0
+63,Total,Time since last consumed alcohol not known,7.1
+64,Man,Exceeded guideline,45.1
+64,Man,Did not exceed guideline,70.8
+64,Man,Consumed alcohol 12 or more months ago,17.6
+64,Man,Never consumed alcohol,7.5
+64,Man,Risk level not known,0.0
+64,Man,Time since last consumed alcohol not known,0.0
+64,Woman,Exceeded guideline,24.0
+64,Woman,Did not exceed guideline,81.1
+64,Woman,Consumed alcohol 12 or more months ago,15.0
+64,Woman,Never consumed alcohol,19.4
+64,Woman,Risk level not known,0.0
+64,Woman,Time since last consumed alcohol not known,0.0
+64,Non-binary,Exceeded guideline,0.0
+64,Non-binary,Did not exceed guideline,0.0
+64,Non-binary,Consumed alcohol 12 or more months ago,0.0
+64,Non-binary,Never consumed alcohol,0.0
+64,Non-binary,Risk level not known,0.0
+64,Non-binary,Time since last consumed alcohol not known,0.0
+64,Total,Exceeded guideline,66.5
+64,Total,Did not exceed guideline,152.6
+64,Total,Consumed alcohol 12 or more months ago,28.5
+64,Total,Never consumed alcohol,31.1
+64,Total,Risk level not known,0.0
+64,Total,Time since last consumed alcohol not known,4.4
+65,Man,Exceeded guideline,51.0
+65,Man,Did not exceed guideline,64.7
+65,Man,Consumed alcohol 12 or more months ago,18.6
+65,Man,Never consumed alcohol,2.4
+65,Man,Risk level not known,0.0
+65,Man,Time since last consumed alcohol not known,0.0
+65,Woman,Exceeded guideline,12.7
+65,Woman,Did not exceed guideline,68.7
+65,Woman,Consumed alcohol 12 or more months ago,13.3
+65,Woman,Never consumed alcohol,20.2
+65,Woman,Risk level not known,0.0
+65,Woman,Time since last consumed alcohol not known,3.5
+65,Non-binary,Exceeded guideline,0.0
+65,Non-binary,Did not exceed guideline,0.0
+65,Non-binary,Consumed alcohol 12 or more months ago,0.0
+65,Non-binary,Never consumed alcohol,0.0
+65,Non-binary,Risk level not known,0.0
+65,Non-binary,Time since last consumed alcohol not known,0.0
+65,Total,Exceeded guideline,65.9
+65,Total,Did not exceed guideline,130.0
+65,Total,Consumed alcohol 12 or more months ago,34.8
+65,Total,Never consumed alcohol,19.1
+65,Total,Risk level not known,0.0
+65,Total,Time since last consumed alcohol not known,3.5
+66,Man,Exceeded guideline,45.4
+66,Man,Did not exceed guideline,42.0
+66,Man,Consumed alcohol 12 or more months ago,11.2
+66,Man,Never consumed alcohol,7.3
+66,Man,Risk level not known,0.0
+66,Man,Time since last consumed alcohol not known,0.0
+66,Woman,Exceeded guideline,24.4
+66,Woman,Did not exceed guideline,91.8
+66,Woman,Consumed alcohol 12 or more months ago,24.3
+66,Woman,Never consumed alcohol,13.2
+66,Woman,Risk level not known,0.0
+66,Woman,Time since last consumed alcohol not known,6.6
+66,Non-binary,Exceeded guideline,0.0
+66,Non-binary,Did not exceed guideline,0.0
+66,Non-binary,Consumed alcohol 12 or more months ago,0.0
+66,Non-binary,Never consumed alcohol,0.0
+66,Non-binary,Risk level not known,0.0
+66,Non-binary,Time since last consumed alcohol not known,0.0
+66,Total,Exceeded guideline,74.9
+66,Total,Did not exceed guideline,137.5
+66,Total,Consumed alcohol 12 or more months ago,36.1
+66,Total,Never consumed alcohol,22.2
+66,Total,Risk level not known,0.0
+66,Total,Time since last consumed alcohol not known,4.4
+67,Man,Exceeded guideline,42.3
+67,Man,Did not exceed guideline,59.7
+67,Man,Consumed alcohol 12 or more months ago,12.7
+67,Man,Never consumed alcohol,3.5
+67,Man,Risk level not known,0.0
+67,Man,Time since last consumed alcohol not known,0.0
+67,Woman,Exceeded guideline,17.8
+67,Woman,Did not exceed guideline,88.6
+67,Woman,Consumed alcohol 12 or more months ago,11.9
+67,Woman,Never consumed alcohol,17.4
+67,Woman,Risk level not known,0.0
+67,Woman,Time since last consumed alcohol not known,3.2
+67,Non-binary,Exceeded guideline,0.0
+67,Non-binary,Did not exceed guideline,0.0
+67,Non-binary,Consumed alcohol 12 or more months ago,0.0
+67,Non-binary,Never consumed alcohol,0.0
+67,Non-binary,Risk level not known,0.0
+67,Non-binary,Time since last consumed alcohol not known,0.0
+67,Total,Exceeded guideline,63.4
+67,Total,Did not exceed guideline,158.2
+67,Total,Consumed alcohol 12 or more months ago,28.7
+67,Total,Never consumed alcohol,13.5
+67,Total,Risk level not known,0.0
+67,Total,Time since last consumed alcohol not known,2.6
+68,Man,Exceeded guideline,34.5
+68,Man,Did not exceed guideline,61.9
+68,Man,Consumed alcohol 12 or more months ago,10.8
+68,Man,Never consumed alcohol,4.5
+68,Man,Risk level not known,0.0
+68,Man,Time since last consumed alcohol not known,0.0
+68,Woman,Exceeded guideline,17.0
+68,Woman,Did not exceed guideline,52.3
+68,Woman,Consumed alcohol 12 or more months ago,24.4
+68,Woman,Never consumed alcohol,9.2
+68,Woman,Risk level not known,0.0
+68,Woman,Time since last consumed alcohol not known,5.1
+68,Non-binary,Exceeded guideline,0.0
+68,Non-binary,Did not exceed guideline,0.0
+68,Non-binary,Consumed alcohol 12 or more months ago,0.0
+68,Non-binary,Never consumed alcohol,0.0
+68,Non-binary,Risk level not known,0.0
+68,Non-binary,Time since last consumed alcohol not known,0.0
+68,Total,Exceeded guideline,50.7
+68,Total,Did not exceed guideline,106.5
+68,Total,Consumed alcohol 12 or more months ago,28.4
+68,Total,Never consumed alcohol,14.9
+68,Total,Risk level not known,0.0
+68,Total,Time since last consumed alcohol not known,5.1
+69,Man,Exceeded guideline,27.5
+69,Man,Did not exceed guideline,46.7
+69,Man,Consumed alcohol 12 or more months ago,8.1
+69,Man,Never consumed alcohol,3.8
+69,Man,Risk level not known,0.0
+69,Man,Time since last consumed alcohol not known,0.0
+69,Woman,Exceeded guideline,17.7
+69,Woman,Did not exceed guideline,67.7
+69,Woman,Consumed alcohol 12 or more months ago,35.8
+69,Woman,Never consumed alcohol,10.8
+69,Woman,Risk level not known,0.0
+69,Woman,Time since last consumed alcohol not known,5.9
+69,Non-binary,Exceeded guideline,0.0
+69,Non-binary,Did not exceed guideline,0.0
+69,Non-binary,Consumed alcohol 12 or more months ago,0.0
+69,Non-binary,Never consumed alcohol,0.0
+69,Non-binary,Risk level not known,0.0
+69,Non-binary,Time since last consumed alcohol not known,0.0
+69,Total,Exceeded guideline,42.5
+69,Total,Did not exceed guideline,113.4
+69,Total,Consumed alcohol 12 or more months ago,49.2
+69,Total,Never consumed alcohol,16.9
+69,Total,Risk level not known,0.0
+69,Total,Time since last consumed alcohol not known,6.2
+70,Man,Exceeded guideline,58.5
+70,Man,Did not exceed guideline,42.8
+70,Man,Consumed alcohol 12 or more months ago,17.3
+70,Man,Never consumed alcohol,3.2
+70,Man,Risk level not known,0.0
+70,Man,Time since last consumed alcohol not known,0.0
+70,Woman,Exceeded guideline,23.9
+70,Woman,Did not exceed guideline,66.5
+70,Woman,Consumed alcohol 12 or more months ago,9.8
+70,Woman,Never consumed alcohol,25.9
+70,Woman,Risk level not known,0.0
+70,Woman,Time since last consumed alcohol not known,0.0
+70,Non-binary,Exceeded guideline,0.0
+70,Non-binary,Did not exceed guideline,0.0
+70,Non-binary,Consumed alcohol 12 or more months ago,0.0
+70,Non-binary,Never consumed alcohol,0.0
+70,Non-binary,Risk level not known,0.0
+70,Non-binary,Time since last consumed alcohol not known,0.0
+70,Total,Exceeded guideline,79.7
+70,Total,Did not exceed guideline,109.4
+70,Total,Consumed alcohol 12 or more months ago,24.0
+70,Total,Never consumed alcohol,20.9
+70,Total,Risk level not known,0.0
+70,Total,Time since last consumed alcohol not known,0.0
+71,Man,Exceeded guideline,28.5
+71,Man,Did not exceed guideline,42.4
+71,Man,Consumed alcohol 12 or more months ago,30.9
+71,Man,Never consumed alcohol,1.7
+71,Man,Risk level not known,0.0
+71,Man,Time since last consumed alcohol not known,0.0
+71,Woman,Exceeded guideline,26.4
+71,Woman,Did not exceed guideline,53.1
+71,Woman,Consumed alcohol 12 or more months ago,22.8
+71,Woman,Never consumed alcohol,20.5
+71,Woman,Risk level not known,0.0
+71,Woman,Time since last consumed alcohol not known,4.3
+71,Non-binary,Exceeded guideline,0.0
+71,Non-binary,Did not exceed guideline,0.0
+71,Non-binary,Consumed alcohol 12 or more months ago,0.0
+71,Non-binary,Never consumed alcohol,0.0
+71,Non-binary,Risk level not known,0.0
+71,Non-binary,Time since last consumed alcohol not known,0.0
+71,Total,Exceeded guideline,52.9
+71,Total,Did not exceed guideline,95.4
+71,Total,Consumed alcohol 12 or more months ago,43.5
+71,Total,Never consumed alcohol,18.8
+71,Total,Risk level not known,0.0
+71,Total,Time since last consumed alcohol not known,4.8
+72,Man,Exceeded guideline,37.5
+72,Man,Did not exceed guideline,39.7
+72,Man,Consumed alcohol 12 or more months ago,18.4
+72,Man,Never consumed alcohol,0.0
+72,Man,Risk level not known,0.0
+72,Man,Time since last consumed alcohol not known,0.0
+72,Woman,Exceeded guideline,20.8
+72,Woman,Did not exceed guideline,56.8
+72,Woman,Consumed alcohol 12 or more months ago,17.1
+72,Woman,Never consumed alcohol,5.5
+72,Woman,Risk level not known,0.0
+72,Woman,Time since last consumed alcohol not known,0.0
+72,Non-binary,Exceeded guideline,0.0
+72,Non-binary,Did not exceed guideline,0.0
+72,Non-binary,Consumed alcohol 12 or more months ago,0.0
+72,Non-binary,Never consumed alcohol,0.0
+72,Non-binary,Risk level not known,0.0
+72,Non-binary,Time since last consumed alcohol not known,0.0
+72,Total,Exceeded guideline,51.0
+72,Total,Did not exceed guideline,98.6
+72,Total,Consumed alcohol 12 or more months ago,27.7
+72,Total,Never consumed alcohol,9.1
+72,Total,Risk level not known,0.0
+72,Total,Time since last consumed alcohol not known,0.0
+73,Man,Exceeded guideline,42.6
+73,Man,Did not exceed guideline,41.4
+73,Man,Consumed alcohol 12 or more months ago,5.3
+73,Man,Never consumed alcohol,5.8
+73,Man,Risk level not known,0.0
+73,Man,Time since last consumed alcohol not known,0.0
+73,Woman,Exceeded guideline,15.8
+73,Woman,Did not exceed guideline,60.6
+73,Woman,Consumed alcohol 12 or more months ago,21.8
+73,Woman,Never consumed alcohol,5.9
+73,Woman,Risk level not known,0.0
+73,Woman,Time since last consumed alcohol not known,3.2
+73,Non-binary,Exceeded guideline,0.0
+73,Non-binary,Did not exceed guideline,0.0
+73,Non-binary,Consumed alcohol 12 or more months ago,0.0
+73,Non-binary,Never consumed alcohol,0.0
+73,Non-binary,Risk level not known,0.0
+73,Non-binary,Time since last consumed alcohol not known,0.0
+73,Total,Exceeded guideline,57.5
+73,Total,Did not exceed guideline,101.1
+73,Total,Consumed alcohol 12 or more months ago,32.9
+73,Total,Never consumed alcohol,19.4
+73,Total,Risk level not known,0.0
+73,Total,Time since last consumed alcohol not known,7.4
+74,Man,Exceeded guideline,30.6
+74,Man,Did not exceed guideline,61.2
+74,Man,Consumed alcohol 12 or more months ago,8.2
+74,Man,Never consumed alcohol,0.0
+74,Man,Risk level not known,0.0
+74,Man,Time since last consumed alcohol not known,0.0
+74,Woman,Exceeded guideline,11.8
+74,Woman,Did not exceed guideline,47.0
+74,Woman,Consumed alcohol 12 or more months ago,14.2
+74,Woman,Never consumed alcohol,14.8
+74,Woman,Risk level not known,0.0
+74,Woman,Time since last consumed alcohol not known,0.0
+74,Non-binary,Exceeded guideline,0.0
+74,Non-binary,Did not exceed guideline,0.0
+74,Non-binary,Consumed alcohol 12 or more months ago,0.0
+74,Non-binary,Never consumed alcohol,0.0
+74,Non-binary,Risk level not known,0.0
+74,Non-binary,Time since last consumed alcohol not known,0.0
+74,Total,Exceeded guideline,45.3
+74,Total,Did not exceed guideline,102.2
+74,Total,Consumed alcohol 12 or more months ago,28.5
+74,Total,Never consumed alcohol,19.9
+74,Total,Risk level not known,0.0
+74,Total,Time since last consumed alcohol not known,0.0
+75,Man,Exceeded guideline,23.7
+75,Man,Did not exceed guideline,59.2
+75,Man,Consumed alcohol 12 or more months ago,8.5
+75,Man,Never consumed alcohol,0.0
+75,Man,Risk level not known,0.0
+75,Man,Time since last consumed alcohol not known,0.0
+75,Woman,Exceeded guideline,12.0
+75,Woman,Did not exceed guideline,58.9
+75,Woman,Consumed alcohol 12 or more months ago,13.9
+75,Woman,Never consumed alcohol,13.0
+75,Woman,Risk level not known,0.0
+75,Woman,Time since last consumed alcohol not known,5.9
+75,Non-binary,Exceeded guideline,0.0
+75,Non-binary,Did not exceed guideline,0.0
+75,Non-binary,Consumed alcohol 12 or more months ago,0.0
+75,Non-binary,Never consumed alcohol,0.0
+75,Non-binary,Risk level not known,0.0
+75,Non-binary,Time since last consumed alcohol not known,0.0
+75,Total,Exceeded guideline,37.6
+75,Total,Did not exceed guideline,113.1
+75,Total,Consumed alcohol 12 or more months ago,20.2
+75,Total,Never consumed alcohol,10.9
+75,Total,Risk level not known,0.0
+75,Total,Time since last consumed alcohol not known,6.7
+76,Man,Exceeded guideline,30.2
+76,Man,Did not exceed guideline,52.3
+76,Man,Consumed alcohol 12 or more months ago,16.7
+76,Man,Never consumed alcohol,0.0
+76,Man,Risk level not known,0.0
+76,Man,Time since last consumed alcohol not known,0.0
+76,Woman,Exceeded guideline,10.9
+76,Woman,Did not exceed guideline,38.0
+76,Woman,Consumed alcohol 12 or more months ago,11.1
+76,Woman,Never consumed alcohol,16.1
+76,Woman,Risk level not known,0.0
+76,Woman,Time since last consumed alcohol not known,6.4
+76,Non-binary,Exceeded guideline,0.0
+76,Non-binary,Did not exceed guideline,0.0
+76,Non-binary,Consumed alcohol 12 or more months ago,0.0
+76,Non-binary,Never consumed alcohol,0.0
+76,Non-binary,Risk level not known,0.0
+76,Non-binary,Time since last consumed alcohol not known,0.0
+76,Total,Exceeded guideline,31.9
+76,Total,Did not exceed guideline,88.2
+76,Total,Consumed alcohol 12 or more months ago,25.8
+76,Total,Never consumed alcohol,24.2
+76,Total,Risk level not known,0.0
+76,Total,Time since last consumed alcohol not known,6.4
+77,Man,Exceeded guideline,27.2
+77,Man,Did not exceed guideline,32.5
+77,Man,Consumed alcohol 12 or more months ago,17.5
+77,Man,Never consumed alcohol,0.0
+77,Man,Risk level not known,0.0
+77,Man,Time since last consumed alcohol not known,0.0
+77,Woman,Exceeded guideline,16.7
+77,Woman,Did not exceed guideline,37.9
+77,Woman,Consumed alcohol 12 or more months ago,29.4
+77,Woman,Never consumed alcohol,11.1
+77,Woman,Risk level not known,0.0
+77,Woman,Time since last consumed alcohol not known,2.1
+77,Non-binary,Exceeded guideline,0.0
+77,Non-binary,Did not exceed guideline,0.0
+77,Non-binary,Consumed alcohol 12 or more months ago,0.0
+77,Non-binary,Never consumed alcohol,0.0
+77,Non-binary,Risk level not known,0.0
+77,Non-binary,Time since last consumed alcohol not known,0.0
+77,Total,Exceeded guideline,39.4
+77,Total,Did not exceed guideline,75.9
+77,Total,Consumed alcohol 12 or more months ago,43.7
+77,Total,Never consumed alcohol,12.1
+77,Total,Risk level not known,0.0
+77,Total,Time since last consumed alcohol not known,2.1
+78,Man,Exceeded guideline,26.7
+78,Man,Did not exceed guideline,32.0
+78,Man,Consumed alcohol 12 or more months ago,2.6
+78,Man,Never consumed alcohol,10.9
+78,Man,Risk level not known,0.0
+78,Man,Time since last consumed alcohol not known,0.0
+78,Woman,Exceeded guideline,9.1
+78,Woman,Did not exceed guideline,37.2
+78,Woman,Consumed alcohol 12 or more months ago,8.1
+78,Woman,Never consumed alcohol,19.8
+78,Woman,Risk level not known,0.0
+78,Woman,Time since last consumed alcohol not known,1.9
+78,Non-binary,Exceeded guideline,0.0
+78,Non-binary,Did not exceed guideline,0.0
+78,Non-binary,Consumed alcohol 12 or more months ago,0.0
+78,Non-binary,Never consumed alcohol,0.0
+78,Non-binary,Risk level not known,0.0
+78,Non-binary,Time since last consumed alcohol not known,0.0
+78,Total,Exceeded guideline,41.1
+78,Total,Did not exceed guideline,75.3
+78,Total,Consumed alcohol 12 or more months ago,18.8
+78,Total,Never consumed alcohol,30.4
+78,Total,Risk level not known,0.0
+78,Total,Time since last consumed alcohol not known,3.9
+79,Man,Exceeded guideline,22.7
+79,Man,Did not exceed guideline,20.2
+79,Man,Consumed alcohol 12 or more months ago,8.9
+79,Man,Never consumed alcohol,2.9
+79,Man,Risk level not known,0.0
+79,Man,Time since last consumed alcohol not known,0.0
+79,Woman,Exceeded guideline,10.7
+79,Woman,Did not exceed guideline,38.8
+79,Woman,Consumed alcohol 12 or more months ago,26.2
+79,Woman,Never consumed alcohol,7.3
+79,Woman,Risk level not known,0.0
+79,Woman,Time since last consumed alcohol not known,0.0
+79,Non-binary,Exceeded guideline,0.0
+79,Non-binary,Did not exceed guideline,0.0
+79,Non-binary,Consumed alcohol 12 or more months ago,0.0
+79,Non-binary,Never consumed alcohol,0.0
+79,Non-binary,Risk level not known,0.0
+79,Non-binary,Time since last consumed alcohol not known,0.0
+79,Total,Exceeded guideline,32.1
+79,Total,Did not exceed guideline,64.3
+79,Total,Consumed alcohol 12 or more months ago,35.0
+79,Total,Never consumed alcohol,15.3
+79,Total,Risk level not known,0.0
+79,Total,Time since last consumed alcohol not known,0.0
+80,Man,Exceeded guideline,15.3
+80,Man,Did not exceed guideline,23.8
+80,Man,Consumed alcohol 12 or more months ago,12.1
+80,Man,Never consumed alcohol,2.9
+80,Man,Risk level not known,0.0
+80,Man,Time since last consumed alcohol not known,0.0
+80,Woman,Exceeded guideline,15.6
+80,Woman,Did not exceed guideline,29.5
+80,Woman,Consumed alcohol 12 or more months ago,10.1
+80,Woman,Never consumed alcohol,3.7
+80,Woman,Risk level not known,0.0
+80,Woman,Time since last consumed alcohol not known,0.0
+80,Non-binary,Exceeded guideline,0.0
+80,Non-binary,Did not exceed guideline,0.0
+80,Non-binary,Consumed alcohol 12 or more months ago,0.0
+80,Non-binary,Never consumed alcohol,0.0
+80,Non-binary,Risk level not known,0.0
+80,Non-binary,Time since last consumed alcohol not known,0.0
+80,Total,Exceeded guideline,31.1
+80,Total,Did not exceed guideline,53.2
+80,Total,Consumed alcohol 12 or more months ago,34.3
+80,Total,Never consumed alcohol,7.8
+80,Total,Risk level not known,0.0
+80,Total,Time since last consumed alcohol not known,0.0
+81,Man,Exceeded guideline,19.6
+81,Man,Did not exceed guideline,27.0
+81,Man,Consumed alcohol 12 or more months ago,12.1
+81,Man,Never consumed alcohol,10.2
+81,Man,Risk level not known,0.0
+81,Man,Time since last consumed alcohol not known,0.0
+81,Woman,Exceeded guideline,11.6
+81,Woman,Did not exceed guideline,18.9
+81,Woman,Consumed alcohol 12 or more months ago,4.7
+81,Woman,Never consumed alcohol,26.5
+81,Woman,Risk level not known,0.0
+81,Woman,Time since last consumed alcohol not known,0.0
+81,Non-binary,Exceeded guideline,0.0
+81,Non-binary,Did not exceed guideline,0.0
+81,Non-binary,Consumed alcohol 12 or more months ago,0.0
+81,Non-binary,Never consumed alcohol,0.0
+81,Non-binary,Risk level not known,0.0
+81,Non-binary,Time since last consumed alcohol not known,0.0
+81,Total,Exceeded guideline,25.3
+81,Total,Did not exceed guideline,51.0
+81,Total,Consumed alcohol 12 or more months ago,17.7
+81,Total,Never consumed alcohol,38.4
+81,Total,Risk level not known,0.0
+81,Total,Time since last consumed alcohol not known,0.0
+82,Man,Exceeded guideline,1.8
+82,Man,Did not exceed guideline,21.7
+82,Man,Consumed alcohol 12 or more months ago,16.0
+82,Man,Never consumed alcohol,7.8
+82,Man,Risk level not known,0.0
+82,Man,Time since last consumed alcohol not known,0.0
+82,Woman,Exceeded guideline,1.4
+82,Woman,Did not exceed guideline,11.2
+82,Woman,Consumed alcohol 12 or more months ago,8.5
+82,Woman,Never consumed alcohol,8.8
+82,Woman,Risk level not known,0.0
+82,Woman,Time since last consumed alcohol not known,0.0
+82,Non-binary,Exceeded guideline,0.0
+82,Non-binary,Did not exceed guideline,0.0
+82,Non-binary,Consumed alcohol 12 or more months ago,0.0
+82,Non-binary,Never consumed alcohol,0.0
+82,Non-binary,Risk level not known,0.0
+82,Non-binary,Time since last consumed alcohol not known,0.0
+82,Total,Exceeded guideline,2.8
+82,Total,Did not exceed guideline,35.8
+82,Total,Consumed alcohol 12 or more months ago,25.5
+82,Total,Never consumed alcohol,14.3
+82,Total,Risk level not known,0.0
+82,Total,Time since last consumed alcohol not known,0.0
+83,Man,Exceeded guideline,14.7
+83,Man,Did not exceed guideline,22.8
+83,Man,Consumed alcohol 12 or more months ago,10.6
+83,Man,Never consumed alcohol,4.2
+83,Man,Risk level not known,0.0
+83,Man,Time since last consumed alcohol not known,0.0
+83,Woman,Exceeded guideline,1.5
+83,Woman,Did not exceed guideline,26.9
+83,Woman,Consumed alcohol 12 or more months ago,5.9
+83,Woman,Never consumed alcohol,13.7
+83,Woman,Risk level not known,0.0
+83,Woman,Time since last consumed alcohol not known,0.0
+83,Non-binary,Exceeded guideline,0.0
+83,Non-binary,Did not exceed guideline,0.0
+83,Non-binary,Consumed alcohol 12 or more months ago,0.0
+83,Non-binary,Never consumed alcohol,0.0
+83,Non-binary,Risk level not known,0.0
+83,Non-binary,Time since last consumed alcohol not known,0.0
+83,Total,Exceeded guideline,11.3
+83,Total,Did not exceed guideline,41.1
+83,Total,Consumed alcohol 12 or more months ago,17.3
+83,Total,Never consumed alcohol,22.0
+83,Total,Risk level not known,0.0
+83,Total,Time since last consumed alcohol not known,0.0
+84,Man,Exceeded guideline,0.0
+84,Man,Did not exceed guideline,18.0
+84,Man,Consumed alcohol 12 or more months ago,3.8
+84,Man,Never consumed alcohol,0.0
+84,Man,Risk level not known,0.0
+84,Man,Time since last consumed alcohol not known,0.0
+84,Woman,Exceeded guideline,0.0
+84,Woman,Did not exceed guideline,15.3
+84,Woman,Consumed alcohol 12 or more months ago,18.9
+84,Woman,Never consumed alcohol,4.0
+84,Woman,Risk level not known,0.0
+84,Woman,Time since last consumed alcohol not known,0.0
+84,Non-binary,Exceeded guideline,0.0
+84,Non-binary,Did not exceed guideline,0.0
+84,Non-binary,Consumed alcohol 12 or more months ago,0.0
+84,Non-binary,Never consumed alcohol,0.0
+84,Non-binary,Risk level not known,0.0
+84,Non-binary,Time since last consumed alcohol not known,0.0
+84,Total,Exceeded guideline,0.0
+84,Total,Did not exceed guideline,29.4
+84,Total,Consumed alcohol 12 or more months ago,22.8
+84,Total,Never consumed alcohol,6.9
+84,Total,Risk level not known,0.0
+84,Total,Time since last consumed alcohol not known,4.5
+85,Man,Exceeded guideline,3.0
+85,Man,Did not exceed guideline,15.5
+85,Man,Consumed alcohol 12 or more months ago,1.7
+85,Man,Never consumed alcohol,4.0
+85,Man,Risk level not known,0.0
+85,Man,Time since last consumed alcohol not known,0.0
+85,Woman,Exceeded guideline,0.0
+85,Woman,Did not exceed guideline,23.6
+85,Woman,Consumed alcohol 12 or more months ago,22.2
+85,Woman,Never consumed alcohol,7.6
+85,Woman,Risk level not known,0.0
+85,Woman,Time since last consumed alcohol not known,0.0
+85,Non-binary,Exceeded guideline,0.0
+85,Non-binary,Did not exceed guideline,0.0
+85,Non-binary,Consumed alcohol 12 or more months ago,0.0
+85,Non-binary,Never consumed alcohol,0.0
+85,Non-binary,Risk level not known,0.0
+85,Non-binary,Time since last consumed alcohol not known,0.0
+85,Total,Exceeded guideline,3.1
+85,Total,Did not exceed guideline,38.3
+85,Total,Consumed alcohol 12 or more months ago,23.9
+85,Total,Never consumed alcohol,5.7
+85,Total,Risk level not known,0.0
+85,Total,Time since last consumed alcohol not known,0.0
+86,Man,Exceeded guideline,5.0
+86,Man,Did not exceed guideline,8.0
+86,Man,Consumed alcohol 12 or more months ago,3.7
+86,Man,Never consumed alcohol,4.4
+86,Man,Risk level not known,0.0
+86,Man,Time since last consumed alcohol not known,0.0
+86,Woman,Exceeded guideline,3.8
+86,Woman,Did not exceed guideline,16.6
+86,Woman,Consumed alcohol 12 or more months ago,6.6
+86,Woman,Never consumed alcohol,4.4
+86,Woman,Risk level not known,0.0
+86,Woman,Time since last consumed alcohol not known,0.0
+86,Non-binary,Exceeded guideline,0.0
+86,Non-binary,Did not exceed guideline,0.0
+86,Non-binary,Consumed alcohol 12 or more months ago,0.0
+86,Non-binary,Never consumed alcohol,0.0
+86,Non-binary,Risk level not known,0.0
+86,Non-binary,Time since last consumed alcohol not known,0.0
+86,Total,Exceeded guideline,10.2
+86,Total,Did not exceed guideline,27.9
+86,Total,Consumed alcohol 12 or more months ago,9.1
+86,Total,Never consumed alcohol,5.9
+86,Total,Risk level not known,0.0
+86,Total,Time since last consumed alcohol not known,0.0
+87,Man,Exceeded guideline,2.6
+87,Man,Did not exceed guideline,16.7
+87,Man,Consumed alcohol 12 or more months ago,1.3
+87,Man,Never consumed alcohol,0.0
+87,Man,Risk level not known,0.0
+87,Man,Time since last consumed alcohol not known,0.0
+87,Woman,Exceeded guideline,0.0
+87,Woman,Did not exceed guideline,5.6
+87,Woman,Consumed alcohol 12 or more months ago,9.2
+87,Woman,Never consumed alcohol,4.5
+87,Woman,Risk level not known,0.0
+87,Woman,Time since last consumed alcohol not known,0.0
+87,Non-binary,Exceeded guideline,0.0
+87,Non-binary,Did not exceed guideline,0.0
+87,Non-binary,Consumed alcohol 12 or more months ago,0.0
+87,Non-binary,Never consumed alcohol,0.0
+87,Non-binary,Risk level not known,0.0
+87,Non-binary,Time since last consumed alcohol not known,0.0
+87,Total,Exceeded guideline,3.4
+87,Total,Did not exceed guideline,20.3
+87,Total,Consumed alcohol 12 or more months ago,11.3
+87,Total,Never consumed alcohol,2.8
+87,Total,Risk level not known,0.0
+87,Total,Time since last consumed alcohol not known,3.2
+88,Man,Exceeded guideline,5.1
+88,Man,Did not exceed guideline,2.9
+88,Man,Consumed alcohol 12 or more months ago,0.0
+88,Man,Never consumed alcohol,0.0
+88,Man,Risk level not known,0.0
+88,Man,Time since last consumed alcohol not known,0.0
+88,Woman,Exceeded guideline,0.0
+88,Woman,Did not exceed guideline,14.5
+88,Woman,Consumed alcohol 12 or more months ago,5.8
+88,Woman,Never consumed alcohol,2.4
+88,Woman,Risk level not known,0.0
+88,Woman,Time since last consumed alcohol not known,0.0
+88,Non-binary,Exceeded guideline,0.0
+88,Non-binary,Did not exceed guideline,0.0
+88,Non-binary,Consumed alcohol 12 or more months ago,0.0
+88,Non-binary,Never consumed alcohol,0.0
+88,Non-binary,Risk level not known,0.0
+88,Non-binary,Time since last consumed alcohol not known,0.0
+88,Total,Exceeded guideline,7.2
+88,Total,Did not exceed guideline,22.6
+88,Total,Consumed alcohol 12 or more months ago,5.8
+88,Total,Never consumed alcohol,2.4
+88,Total,Risk level not known,0.0
+88,Total,Time since last consumed alcohol not known,0.0
+89,Man,Exceeded guideline,15.3
+89,Man,Did not exceed guideline,4.1
+89,Man,Consumed alcohol 12 or more months ago,2.6
+89,Man,Never consumed alcohol,0.0
+89,Man,Risk level not known,0.0
+89,Man,Time since last consumed alcohol not known,0.0
+89,Woman,Exceeded guideline,0.0
+89,Woman,Did not exceed guideline,15.8
+89,Woman,Consumed alcohol 12 or more months ago,4.6
+89,Woman,Never consumed alcohol,3.2
+89,Woman,Risk level not known,0.0
+89,Woman,Time since last consumed alcohol not known,0.0
+89,Non-binary,Exceeded guideline,0.0
+89,Non-binary,Did not exceed guideline,0.0
+89,Non-binary,Consumed alcohol 12 or more months ago,0.0
+89,Non-binary,Never consumed alcohol,0.0
+89,Non-binary,Risk level not known,0.0
+89,Non-binary,Time since last consumed alcohol not known,0.0
+89,Total,Exceeded guideline,15.3
+89,Total,Did not exceed guideline,20.4
+89,Total,Consumed alcohol 12 or more months ago,6.5
+89,Total,Never consumed alcohol,3.2
+89,Total,Risk level not known,0.0
+89,Total,Time since last consumed alcohol not known,0.0
+90,Man,Exceeded guideline,0.0
+90,Man,Did not exceed guideline,1.1
+90,Man,Consumed alcohol 12 or more months ago,0.0
+90,Man,Never consumed alcohol,0.0
+90,Man,Risk level not known,0.0
+90,Man,Time since last consumed alcohol not known,0.0
+90,Woman,Exceeded guideline,2.8
+90,Woman,Did not exceed guideline,1.8
+90,Woman,Consumed alcohol 12 or more months ago,5.5
+90,Woman,Never consumed alcohol,4.1
+90,Woman,Risk level not known,0.0
+90,Woman,Time since last consumed alcohol not known,0.0
+90,Non-binary,Exceeded guideline,0.0
+90,Non-binary,Did not exceed guideline,0.0
+90,Non-binary,Consumed alcohol 12 or more months ago,0.0
+90,Non-binary,Never consumed alcohol,0.0
+90,Non-binary,Risk level not known,0.0
+90,Non-binary,Time since last consumed alcohol not known,0.0
+90,Total,Exceeded guideline,2.8
+90,Total,Did not exceed guideline,5.2
+90,Total,Consumed alcohol 12 or more months ago,4.3
+90,Total,Never consumed alcohol,4.1
+90,Total,Risk level not known,0.0
+90,Total,Time since last consumed alcohol not known,0.0
+91,Man,Exceeded guideline,0.0
+91,Man,Did not exceed guideline,12.8
+91,Man,Consumed alcohol 12 or more months ago,0.9
+91,Man,Never consumed alcohol,0.0
+91,Man,Risk level not known,0.0
+91,Man,Time since last consumed alcohol not known,0.0
+91,Woman,Exceeded guideline,0.0
+91,Woman,Did not exceed guideline,2.6
+91,Woman,Consumed alcohol 12 or more months ago,3.5
+91,Woman,Never consumed alcohol,4.2
+91,Woman,Risk level not known,0.0
+91,Woman,Time since last consumed alcohol not known,0.0
+91,Non-binary,Exceeded guideline,0.0
+91,Non-binary,Did not exceed guideline,0.0
+91,Non-binary,Consumed alcohol 12 or more months ago,0.0
+91,Non-binary,Never consumed alcohol,0.0
+91,Non-binary,Risk level not known,0.0
+91,Non-binary,Time since last consumed alcohol not known,0.0
+91,Total,Exceeded guideline,3.7
+91,Total,Did not exceed guideline,16.3
+91,Total,Consumed alcohol 12 or more months ago,4.9
+91,Total,Never consumed alcohol,4.2
+91,Total,Risk level not known,0.0
+91,Total,Time since last consumed alcohol not known,0.0
+92,Man,Exceeded guideline,0.0
+92,Man,Did not exceed guideline,3.5
+92,Man,Consumed alcohol 12 or more months ago,0.0
+92,Man,Never consumed alcohol,0.0
+92,Man,Risk level not known,0.0
+92,Man,Time since last consumed alcohol not known,0.0
+92,Woman,Exceeded guideline,0.0
+92,Woman,Did not exceed guideline,7.4
+92,Woman,Consumed alcohol 12 or more months ago,3.7
+92,Woman,Never consumed alcohol,2.6
+92,Woman,Risk level not known,0.0
+92,Woman,Time since last consumed alcohol not known,0.0
+92,Non-binary,Exceeded guideline,0.0
+92,Non-binary,Did not exceed guideline,0.0
+92,Non-binary,Consumed alcohol 12 or more months ago,0.0
+92,Non-binary,Never consumed alcohol,0.0
+92,Non-binary,Risk level not known,0.0
+92,Non-binary,Time since last consumed alcohol not known,0.0
+92,Total,Exceeded guideline,0.0
+92,Total,Did not exceed guideline,6.1
+92,Total,Consumed alcohol 12 or more months ago,3.7
+92,Total,Never consumed alcohol,2.6
+92,Total,Risk level not known,0.0
+92,Total,Time since last consumed alcohol not known,0.0
+93,Man,Exceeded guideline,4.4
+93,Man,Did not exceed guideline,0.0
+93,Man,Consumed alcohol 12 or more months ago,0.0
+93,Man,Never consumed alcohol,0.0
+93,Man,Risk level not known,0.0
+93,Man,Time since last consumed alcohol not known,0.0
+93,Woman,Exceeded guideline,0.0
+93,Woman,Did not exceed guideline,2.8
+93,Woman,Consumed alcohol 12 or more months ago,0.0
+93,Woman,Never consumed alcohol,0.0
+93,Woman,Risk level not known,0.0
+93,Woman,Time since last consumed alcohol not known,0.0
+93,Non-binary,Exceeded guideline,0.0
+93,Non-binary,Did not exceed guideline,0.0
+93,Non-binary,Consumed alcohol 12 or more months ago,0.0
+93,Non-binary,Never consumed alcohol,0.0
+93,Non-binary,Risk level not known,0.0
+93,Non-binary,Time since last consumed alcohol not known,0.0
+93,Total,Exceeded guideline,4.4
+93,Total,Did not exceed guideline,2.3
+93,Total,Consumed alcohol 12 or more months ago,0.0
+93,Total,Never consumed alcohol,0.0
+93,Total,Risk level not known,0.0
+93,Total,Time since last consumed alcohol not known,0.0
+94,Man,Exceeded guideline,0.0
+94,Man,Did not exceed guideline,0.0
+94,Man,Consumed alcohol 12 or more months ago,0.0
+94,Man,Never consumed alcohol,0.0
+94,Man,Risk level not known,0.0
+94,Man,Time since last consumed alcohol not known,0.0
+94,Woman,Exceeded guideline,0.0
+94,Woman,Did not exceed guideline,7.2
+94,Woman,Consumed alcohol 12 or more months ago,0.0
+94,Woman,Never consumed alcohol,0.0
+94,Woman,Risk level not known,0.0
+94,Woman,Time since last consumed alcohol not known,0.0
+94,Non-binary,Exceeded guideline,0.0
+94,Non-binary,Did not exceed guideline,0.0
+94,Non-binary,Consumed alcohol 12 or more months ago,0.0
+94,Non-binary,Never consumed alcohol,0.0
+94,Non-binary,Risk level not known,0.0
+94,Non-binary,Time since last consumed alcohol not known,0.0
+94,Total,Exceeded guideline,0.0
+94,Total,Did not exceed guideline,7.2
+94,Total,Consumed alcohol 12 or more months ago,0.0
+94,Total,Never consumed alcohol,0.0
+94,Total,Risk level not known,0.0
+94,Total,Time since last consumed alcohol not known,0.0
+95,Man,Exceeded guideline,0.0
+95,Man,Did not exceed guideline,0.0
+95,Man,Consumed alcohol 12 or more months ago,0.0
+95,Man,Never consumed alcohol,0.0
+95,Man,Risk level not known,0.0
+95,Man,Time since last consumed alcohol not known,0.0
+95,Woman,Exceeded guideline,0.0
+95,Woman,Did not exceed guideline,0.0
+95,Woman,Consumed alcohol 12 or more months ago,0.0
+95,Woman,Never consumed alcohol,0.0
+95,Woman,Risk level not known,0.0
+95,Woman,Time since last consumed alcohol not known,0.0
+95,Non-binary,Exceeded guideline,0.0
+95,Non-binary,Did not exceed guideline,0.0
+95,Non-binary,Consumed alcohol 12 or more months ago,0.0
+95,Non-binary,Never consumed alcohol,0.0
+95,Non-binary,Risk level not known,0.0
+95,Non-binary,Time since last consumed alcohol not known,0.0
+95,Total,Exceeded guideline,0.0
+95,Total,Did not exceed guideline,0.0
+95,Total,Consumed alcohol 12 or more months ago,0.0
+95,Total,Never consumed alcohol,0.0
+95,Total,Risk level not known,0.0
+95,Total,Time since last consumed alcohol not known,0.0
+96,Man,Exceeded guideline,0.0
+96,Man,Did not exceed guideline,2.3
+96,Man,Consumed alcohol 12 or more months ago,0.0
+96,Man,Never consumed alcohol,0.0
+96,Man,Risk level not known,0.0
+96,Man,Time since last consumed alcohol not known,0.0
+96,Woman,Exceeded guideline,0.0
+96,Woman,Did not exceed guideline,0.0
+96,Woman,Consumed alcohol 12 or more months ago,0.0
+96,Woman,Never consumed alcohol,0.0
+96,Woman,Risk level not known,0.0
+96,Woman,Time since last consumed alcohol not known,0.0
+96,Non-binary,Exceeded guideline,0.0
+96,Non-binary,Did not exceed guideline,0.0
+96,Non-binary,Consumed alcohol 12 or more months ago,0.0
+96,Non-binary,Never consumed alcohol,0.0
+96,Non-binary,Risk level not known,0.0
+96,Non-binary,Time since last consumed alcohol not known,0.0
+96,Total,Exceeded guideline,0.0
+96,Total,Did not exceed guideline,2.4
+96,Total,Consumed alcohol 12 or more months ago,0.0
+96,Total,Never consumed alcohol,0.0
+96,Total,Risk level not known,0.0
+96,Total,Time since last consumed alcohol not known,0.0
+97,Man,Exceeded guideline,0.0
+97,Man,Did not exceed guideline,0.0
+97,Man,Consumed alcohol 12 or more months ago,0.0
+97,Man,Never consumed alcohol,0.0
+97,Man,Risk level not known,0.0
+97,Man,Time since last consumed alcohol not known,0.0
+97,Woman,Exceeded guideline,0.0
+97,Woman,Did not exceed guideline,0.0
+97,Woman,Consumed alcohol 12 or more months ago,4.6
+97,Woman,Never consumed alcohol,0.0
+97,Woman,Risk level not known,0.0
+97,Woman,Time since last consumed alcohol not known,0.0
+97,Non-binary,Exceeded guideline,0.0
+97,Non-binary,Did not exceed guideline,0.0
+97,Non-binary,Consumed alcohol 12 or more months ago,0.0
+97,Non-binary,Never consumed alcohol,0.0
+97,Non-binary,Risk level not known,0.0
+97,Non-binary,Time since last consumed alcohol not known,0.0
+97,Total,Exceeded guideline,0.0
+97,Total,Did not exceed guideline,0.0
+97,Total,Consumed alcohol 12 or more months ago,3.8
+97,Total,Never consumed alcohol,0.0
+97,Total,Risk level not known,0.0
+97,Total,Time since last consumed alcohol not known,0.0
+98,Man,Exceeded guideline,0.0
+98,Man,Did not exceed guideline,0.0
+98,Man,Consumed alcohol 12 or more months ago,0.0
+98,Man,Never consumed alcohol,0.0
+98,Man,Risk level not known,0.0
+98,Man,Time since last consumed alcohol not known,0.0
+98,Woman,Exceeded guideline,0.0
+98,Woman,Did not exceed guideline,0.0
+98,Woman,Consumed alcohol 12 or more months ago,0.0
+98,Woman,Never consumed alcohol,0.0
+98,Woman,Risk level not known,0.0
+98,Woman,Time since last consumed alcohol not known,0.0
+98,Non-binary,Exceeded guideline,0.0
+98,Non-binary,Did not exceed guideline,0.0
+98,Non-binary,Consumed alcohol 12 or more months ago,0.0
+98,Non-binary,Never consumed alcohol,0.0
+98,Non-binary,Risk level not known,0.0
+98,Non-binary,Time since last consumed alcohol not known,0.0
+98,Total,Exceeded guideline,0.0
+98,Total,Did not exceed guideline,0.0
+98,Total,Consumed alcohol 12 or more months ago,0.0
+98,Total,Never consumed alcohol,0.0
+98,Total,Risk level not known,0.0
+98,Total,Time since last consumed alcohol not known,0.0
+99,Man,Exceeded guideline,0.0
+99,Man,Did not exceed guideline,0.0
+99,Man,Consumed alcohol 12 or more months ago,0.0
+99,Man,Never consumed alcohol,0.0
+99,Man,Risk level not known,0.0
+99,Man,Time since last consumed alcohol not known,0.0
+99,Woman,Exceeded guideline,0.0
+99,Woman,Did not exceed guideline,0.0
+99,Woman,Consumed alcohol 12 or more months ago,0.0
+99,Woman,Never consumed alcohol,0.0
+99,Woman,Risk level not known,0.0
+99,Woman,Time since last consumed alcohol not known,0.0
+99,Non-binary,Exceeded guideline,0.0
+99,Non-binary,Did not exceed guideline,0.0
+99,Non-binary,Consumed alcohol 12 or more months ago,0.0
+99,Non-binary,Never consumed alcohol,0.0
+99,Non-binary,Risk level not known,0.0
+99,Non-binary,Time since last consumed alcohol not known,0.0
+99,Total,Exceeded guideline,0.0
+99,Total,Did not exceed guideline,0.0
+99,Total,Consumed alcohol 12 or more months ago,0.0
+99,Total,Never consumed alcohol,2.9
+99,Total,Risk level not known,0.0
+99,Total,Time since last consumed alcohol not known,0.0
